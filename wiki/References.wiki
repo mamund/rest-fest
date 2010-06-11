@@ -9,3 +9,4 @@ Stashing links and other reference material here.
 
 Unconferences
   * http://en.wikipedia.org/wiki/Unconference
+  * http://en.wikipedia.org/wiki/Open_Space_Technology
