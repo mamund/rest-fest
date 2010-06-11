@@ -1,0 +1,11 @@
+#summary References and handy links
+
+= Introduction =
+
+Stashing links and other reference material here.
+
+
+= Details =
+
+Unconferences
+  * http://en.wikipedia.org/wiki/Unconference
