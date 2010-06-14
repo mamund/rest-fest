@@ -13,17 +13,16 @@ Attendees will design a custom hypermedia type and implement simple server and c
  * BYO computer and programming tools of your choice.
 
 ==Outline==
-Background (http://www.useit.com/alertbox/history.html)
- * History
-   * Memex (1945)
-   * Hypertext (1960s, Nelson & Englebart)
-   * Hypercard (1980s, Apple)
-   * WWW (1990s, CERN & Mosaic)
-   * Hypermedia 'as the engine...' (2000, Fielding)
- * Terms
-   * Hypermedia 
-   * Hypermedia applications
-   * Hypermedia types
+History (http://www.useit.com/alertbox/history.html)
+ * Memex (1945)
+ * Hypertext (1960s, Nelson & Englebart)
+ * Hypercard (1980s, Apple)
+ * WWW (1990s, CERN & Mosaic)
+ * Hypermedia 'as the engine...' (2000, Fielding)
+Terms
+ * Hypermedia 
+ * Hypermedia applications
+ * Hypermedia types
 H-Factors
  * Links (LE, LO, LT, LN, LI)
  * Control data (CL, CR, CU, CM)
