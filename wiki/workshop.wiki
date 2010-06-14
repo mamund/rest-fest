@@ -1,0 +1,9 @@
+#summary Hypermedia Hacking Workshop
+
+= Hypermedia Hacking Workshop =
+Presented by [http://amundsen.com/blog Mike Amundsen] [http://twitter.com/mamund @mamund])
+
+A mix of lecture and hands-on projects to explore using hypermedia types as a reasonable alternative to Web APIs for building distributed hypermedia applications for the WWW.
+
+
+= Agenda =
