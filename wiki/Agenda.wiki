@@ -4,7 +4,7 @@
 This is the proposed agenda for the REST-Fest for Fall 2010.  It's all tentative. 
 
 || *Day* ||  *Time* || *Activity*                             ||
-||  Fri  || 8AM-5PM || [workshop *Hypermedia Workshop w/ Mike Amundsen*] ||
+||  Fri  || 8AM-5PM || Hypermedia Workshop w/ Mike Amundsen [workshop Details] ||
 ||       ||         ||                                        ||
 ||       ||  6:30PM || Opening Session, Keynote Address ^1^      ||
 ||       ||  7:30PM || Hack Room Pitches (w/ voting)  ^2^         ||
