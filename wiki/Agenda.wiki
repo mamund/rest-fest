@@ -4,22 +4,27 @@
 This is the proposed agenda for the REST-Fest for Fall 2010.  It's all tentative. 
 
 || *Day* ||  *Time* || *Activity*                             ||
-||  Fri  || 8AM-5PM || *Hypermedia Workshop w/ Mike Amundsen* ||
+||  Fri  || 8AM-5PM || [workshop *Hypermedia Workshop w/ Mike Amundsen*] ||
 ||       ||         ||                                        ||
-||       ||  6:30PM || Opening Session, Keynote Address       ||
-||       ||  7:30PM || Hack Room Pitches (w/ voting)          ||
+||       ||  6:30PM || Opening Session, Keynote Address ^1^      ||
+||       ||  7:30PM || Hack Room Pitches (w/ voting)  ^2^         ||
 ||       ||  8:00PM || Open Spaces/Hacking ('til 10PM?)       ||
 ||       ||         ||                                        ||
 ||  Sat  || 8AM-5PM || *Hack Rooms open all day*              ||
 ||       ||         ||                                        ||
-||       ||  8:30AM || Session Speakers (2 rooms?)            ||
-||       ||  9:30AM || Morning Lightning Talks & Breakouts    ||
+||       ||  8:30AM || Session Speakers (2 rooms?) ^1^           ||
+||       ||  9:30AM || Morning Lightning Talks & Breakouts ^3^   ||
 ||       ||    Noon || Lunch break (catered?)                 ||
 ||       ||         ||                                        ||
-||       ||  1:00PM || Session Speakers (2 rooms?)            ||
-||       ||  2:00PM || Afternoon Lightning Talks & Breakouts  ||
+||       ||  1:00PM || Session Speakers (2 rooms?) ^1^           ||
+||       ||  2:00PM || Afternoon Lightning Talks & Breakouts ^3^  ||
 ||       ||  4:30AM || Closing Session ('til 5PM?)            ||
 ||       ||         ||                                        ||
-||       ||  6:30PM || After party (external? sponsored?      ||
+||       ||  6:30PM || After party (external? sponsored?)      ||
 
 Based on [InitialAgenda]
+
+1 - Keynote and session speakers selected ahead of time. (how?)
+2 - Hack Room Pitches where folks stand up and suggest projects for the Hack Room(s)
+3 - Lightning talks are 5 slides/5 mins, anyone can talk, suggest pre-posting. Interesting things get a breakout session (vote w/ your feet?)
+  
