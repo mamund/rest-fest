@@ -28,17 +28,19 @@ H-Factors
  * Control data (CL, CR, CU, CM)
  * Advantages and Trade-Offs
 Designing Hypermedia 
- * Data formats
- * Handling list/detail
- * Handling queries
- * Handling add/update/delete
- * Handling errors
+ * Formats
+ * Links
  * Protocols
+ * List/detail
+ * Queries
+ * Writing Data
+ * Errors
  * Versioning
 Hypermedia Servers
  * Common HTTP Servers
- * Keep media-type SoC from object/data/storage model
- * Switching/supporting multiple media-types
+ * SoC between media-type & object/data/storage model
+ * Returning links
+ * Supporting multiple media-types
  * Handling versions/changes 
 Hypermedia Clients
  * State machines
