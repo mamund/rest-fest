@@ -22,4 +22,4 @@ This is the proposed agenda for the REST-Fest for Fall 2010.  It's all tentative
 ||       ||         ||                                        ||
 ||       ||  6:30PM || After party (external? sponsored?      ||
 
-Based on [original-agenda]
+Based on [InitialAgenda]
