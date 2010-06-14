@@ -16,11 +16,12 @@ Definition of terms
  * Hypermedia 
  * Hypermedia applications
  * Hypermedia types
-History
- * hypermedia (1945)
- * Hyper-text
- * Hyper-data
- * Hyper-media
+History (http://www.useit.com/alertbox/history.html)
+ * Memex (1945)
+ * Hypertext (1960s, Nelson & Englebart)
+ * HyperCard (1980s Apple)
+ * WWW (1990s, CERN & Mosaic)
+ * Hypermedia 'as the engine...' (2000, Fielding)
 H-Factors
  * Links (LE, LO, LT, LN, LI)
  * Control data (CL, CR, CU, CM)
