@@ -7,7 +7,7 @@ A mix of lecture and hands-on projects to explore using hypermedia types as a re
 
 Attendees will design a custom hypermedia type and implement simple server and client applications that support the custom type.
 
- * $50? fee
+ * Fee?
  * 8:00AM - 5:00PM 
  * Box lunch, drinks, and snacks provided.
  * BYO computer and programming tools of your choice.
