@@ -20,7 +20,7 @@ Definition of terms
 History (http://www.useit.com/alertbox/history.html)
  * Memex (1945)
  * Hypertext (1960s, Nelson & Englebart)
- * HyperCard (1980s Apple)
+ * Hypercard (1980s, Apple)
  * WWW (1990s, CERN & Mosaic)
  * Hypermedia 'as the engine...' (2000, Fielding)
 H-Factors
