@@ -1,0 +1,36 @@
+#summary Shopping list of things we'll need/want for REST Fest
+#labels expenses,sponsorship,venue
+
+= Venue =
+
+$15 per hour for Utilities
+$25 for "programming" lights/power (scheduling basically)
+$200-ish for cleanup
+
+
+= Food =
+
+==Friday==
+
+===Morning===
+ * [http://coffeeunderground.biz/documents/CUCaterMenu_003.pdf Coffee Underground] coffee/snacks
+
+===Lunch===
+ * ??
+
+===Afternoon===
+ * ?? coffee/donuts? ice cream? cupcakes (couple local shops for these)?
+
+===Dinner (?)===
+
+==Saturday==
+
+===Morning===
+ * Coffee Underground?
+
+===Lunch===
+
+===Afternoon===
+
+===Dinner/After Party===
+ * [http://www.barleysgville.com/ Barley's Taproom] has an second floor that the [http://gsatc.org/ GSATC] (local tech group) reserves monthly
