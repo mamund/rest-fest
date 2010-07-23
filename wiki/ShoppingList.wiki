@@ -3,9 +3,9 @@
 
 = Venue =
 
-$15 per hour for Utilities
-$25 for "programming" lights/power (scheduling basically)
-$200-ish for cleanup
+ * $15 per hour for Utilities
+ * $25 for "programming" lights/power (scheduling basically)
+ * $200-ish for cleanup
 
 
 = Food =
