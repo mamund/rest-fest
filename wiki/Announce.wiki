@@ -4,7 +4,7 @@
 Friday, September 17, 2010 at 8:00 AM - Saturday, September 18, 2010 at 6:00 PM (ET)
 Greenville, SC
 
-Co-Chairs: Benjamin Young & Mike Amundsen
+Co-Chairs: Mike Amundsen & Benjamin Young
 
 ==REST Fest 2010 (Sep 17th & 18th)==
 REST Fest is a community unconference event focused on the REST architectural style and implementations. This year, REST Fest will encourage developers who have direct experience building RESTful applications for the World Wide Web to share their successes and their frustrations in an informal atmosphere. REST Fest will also maintain a "Hack Room" open throughout the two-day event where attendees can get together and work on any project they like.
