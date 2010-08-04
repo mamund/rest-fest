@@ -22,3 +22,6 @@ Other Resources
   * [http://easychair.org/]
   * [http://joind.in/]
   * [http://eventbrite.com/]
+
+= Announcments = 
+  * [http://fossevents.org/]
