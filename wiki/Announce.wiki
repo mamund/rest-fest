@@ -1,0 +1,17 @@
+#summary Official REST Fest 2010 Announcement
+
+=REST Fest 2010 and Hypermedia Workshop=
+Friday, September 17, 2010 at 8:00 AM - Saturday, September 18, 2010 at 6:00 PM (ET)
+Greenville, SC
+
+==REST Fest 2010 (Sep 17th & 18th)==
+REST Fest is a community unconference event focused on the REST architectural style and implementations. This year, REST Fest will encourage developers who have direct experience building RESTful applications for the World Wide Web to share their successes and their frustrations in an informal atmosphere. REST Fest will also maintain a "Hack Room" open throughout the two-day event where attendees can get together and work on any project they like.
+http://RESTFest.org
+
+==Call for Presenters==
+In the spirit of the "Unconference" model, all talks are automatically accepted for as a "Lightning Talk" (Five Slides in Five Minutes). Presenters are encouraged to submit a title, short abstract (250 or less) and an indication of the "level" of the talk (beginner, intermediate, advanced). "How To..." talks are encouraged as well as "How Do I?" talks. A small number of talks will be choosen as "Selected Talks" with a format of 30+ minutes. 
+http://restfest2010.eventbrite.com/
+
+==Workshop: Hypermedia Hacking with Mike Amundsen (Sep 17th)==
+In this one-day pre-event workshop, attendees will learn how to implement an alternative to one-off Web APIs using Hypermedia Engines. The all-day session includes a mix of presentation, discussion, and hands-on implementation. Attendees are encouraged to bring laptops and "code-along" with supplied examples throughout the day.
+http://www.restfest.org/schedule/workshop
