@@ -1,0 +1,18 @@
+#summary Mailing Lists for Annoucements
+
+= Introduction =
+
+This is a list of mailing lists and other sites used when announcing the event.
+
+
+= Details =
+
+MCA Lists:
+  * SpeakNET
+  * REST-Discuss
+  * Implementing-REST
+  * HTTP-Advisor-List (MSFT)
+  * OpenRasta
+  * CodeStock
+  * Atom
+  * INETA
