@@ -17,3 +17,4 @@ MCA Lists:
   * Atom
   * INETA
   * RESTful JSON  sent 2010-08-04
+  * LOD-Announce sent 2010-08-04
