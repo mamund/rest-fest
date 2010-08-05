@@ -12,7 +12,7 @@ MCA Lists:
   * REST-Discuss sent 2010-08-04
   * Implementing-REST sent 2010-08-04
   * HTTP-Advisor-List (MSFT)
-  * OpenRasta
+  * Open Rasta sent 2010-08-04
   * CodeStock
   * Atom
   * INETA
