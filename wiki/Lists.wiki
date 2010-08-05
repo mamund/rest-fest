@@ -20,5 +20,5 @@ MCA Lists:
   * LOD-Announce sent 2010-08-04
 
 BDY Lists:
-  * code4lib
+  * code4lib sent 2010-08-05
   * CouchDB Users
