@@ -1,7 +1,7 @@
 #summary REST-Fest Agenda
 #labels Featured
 
-= Proposed Agenda =
+= Official Agenda =
 This is the proposed agenda for the REST-Fest for Fall 2010.  It's all tentative. 
 
 || *Day* ||  *Time* || *Activity*                             ||
