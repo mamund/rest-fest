@@ -2,6 +2,13 @@
 
 ==Mike Amundsen==
 
+*Contact Info:*
+ * Erlanger, KY USA
+ * [http://twitter.com/mamund @mamund]
+ * [http://amundsen.com amundsen.com]
+ * http://mamund.com/foaf#me]
+ * IRC handle: mamund
+
 ===Official Bio===
 <img src="http://amundsen.com/talks/images/mike-amundsen-small.jpg" />
 
