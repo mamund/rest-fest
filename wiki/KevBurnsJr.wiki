@@ -1,10 +1,12 @@
-#Summary page for KevBurnsJr
-
-= Introduction =
-
 Hello, my name is Kevin Burns.
-
-= Details =
+I've been doing web design and development for 6 years.
+I've been using PHP for 4 years.
 
   * http://kevburnsjr.com
   * http://linkedin.com/in/kevburnsjr
+  * http://github.com/KevBurnsJr
+
+I also run the IRC logs for #rest and #restfest on Freenode.
+
+  * http://rest.hackyhack.net
+  * http://restfest.hackyhack.net
