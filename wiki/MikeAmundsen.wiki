@@ -5,7 +5,7 @@
 *Contact Info:*
  * [http://twitter.com/mamund @mamund]
  * [http://amundsen.com amundsen.com]
- * http://mamund.com/foaf#me]
+ * [http://mamund.com/foaf#me]
  * IRC handle: mamund
  * Erlanger, KY USA
 
