@@ -1,0 +1,10 @@
+#Summary page for KevBurnsJr
+
+= Introduction =
+
+Hello, my name is Kevin Burns.
+
+= Details =
+
+  * http://kevburnsjr.com
+  * http://linkedin.com/in/kevburnsjr
