@@ -1,0 +1,7 @@
+Hi, my name is David Zuelke (_Zülke_, actually, but don't bother with the [http://en.wikipedia.org/wiki/Germanic_umlaut umlaut]). I'm from Munich, Germany, where I run [http://www.bitextender.com/ Bitextender]. I'm also the lead developer of [http://www.agavi.org/ Agavi], an application framework for PHP, which I've used for many, many years (should be over ten years of PHP now). My nick on IRC is _Wombert_.
+
+When not hacking on PHP projects and the Agavi framework, I like to fiddle with REST-related things, CouchDB, HTTP and MapReduce/Hadoop.
+
+ * http://blog.wombert.de/
+ * http://github.com/dzuelke
+ * http://de.linkedin.com/in/davidzuelke
