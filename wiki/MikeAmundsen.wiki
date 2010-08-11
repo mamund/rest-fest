@@ -3,6 +3,6 @@
 ==Mike Amundsen==
 
 ===Official Bio===
-<img src="http://amundsen.com/talks/images/mike-amundsen-small.jpg" align="left" />
+<img src="http://amundsen.com/talks/images/mike-amundsen-small.jpg" />
 
 An internationally known author and lecturer, Mike Amundsen travels throughout the United States and Europe speaking and teaching on a wide range of topics including .NET programming, Cloud computing, Web application development, and other subjects. He has more than a dozen books to his credit and recently contributed to the O'Reilly book "RESTful Web Services Cookbook" by Subbu Alamaraju. Mike is currently working with, and doing research on the topic of, Hypermedia programming using the REST architectural model. When he is not working, Mike enjoys spending time with his family in Kentucky, USA.
