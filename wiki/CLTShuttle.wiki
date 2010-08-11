@@ -30,7 +30,7 @@ If there's enough demand, I could probably do a later second run on the 16th and
 
 = Passengers for September 16 (departure ~4:30pm) =
 
-*Meeting point:* [http://charmeck.org/city/charlotte/Airport/GroundTransportation/Pages/Car%20Rental%20Companies.aspx National/Alamo rental counter (on baggage claim level)] from ~4pm.
+*Meeting point:* National/Alamo rental counter ([http://charmeck.org/city/charlotte/Airport/GroundTransportation/Pages/Car%20Rental%20Companies.aspx on baggage claim level]) from ~4pm.
 
 || *Pax* || *Flight* || *Origin* || *Arrival* || *Remarks* ||
 || DavidZuelke || [http://www.flightstats.com/go/FlightStatus/flightStatusByFlight.do?airlineCode=LH&flightNumber=428 LH 428] || [http://en.wikipedia.org/wiki/Munich_Airport MUC] || 15:35 || must go through immigration ||
@@ -41,7 +41,7 @@ If there's enough demand, I could probably do a later second run on the 16th and
 
 = Passengers for September 19 (departure ~1:30pm) =
 
-*Meeting point:* outside [http://www.greenvillenext.com/ NEXT (the [http://www.restfest.org/venue conference venue])] from 1pm.
+*Meeting point:* outside [http://www.greenvillenext.com/ NEXT] (the [http://www.restfest.org/venue conference venue]) from 1pm.
 
 || *Pax* || *Flight* || *Destination* || *Departure* || *Remarks* ||
 || DavidZuelke || [http://www.flightstats.com/go/FlightStatus/flightStatusByFlight.do?airlineCode=LH&flightNumber=429 LH 429] || [http://en.wikipedia.org/wiki/Munich_Airport MUC] || 17:35 || Int'l flight ||
