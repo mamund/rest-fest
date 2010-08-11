@@ -1,51 +1,54 @@
 #summary Hypermedia Hacking Workshop
 
-= Hypermedia Hacking Workshop =
+= Hypermedia Hacking with Mike Amundsen =
 Presented by [http://amundsen.com/blog Mike Amundsen] ([http://twitter.com/mamund @mamund])
 
-A mix of lecture and hands-on projects to explore using hypermedia types as a reasonable alternative to Web APIs for building distributed hypermedia applications for the WWW.
+==Hypermedia Engines: A Reasonable Alternative to Web APIs==
+===A One-Day Workshop===
+Friday, September 17th, 2010 : 
+NEXT Innovation Center, Greenville, SC
 
-Attendees will design a custom hypermedia type and implement simple server and client applications that support the custom type.
+Presented in conjunction with REST Fest 2010
 
- * Fee?
- * 8:00AM - 5:00PM 
- * Box lunch, drinks, and snacks provided.
- * BYO computer and programming tools of your choice.
+===The Problem==
+With the explosion of data available on the Web, there has also been a marked increase in the number of "Web APIs" developers must deal with in order to access the data. These Web APIs almost always require consumers to write custom code in order to access the data. Some even invent their own authentication and authorization schemes that require additional development effort before the data is available for end users. The result is that every new set of data requires a new set of code; in effect, a custom client for each data set.
 
-==Outline==
-History (http://www.useit.com/alertbox/history.html)
- * Memex (1945)
- * Hypertext (1960s, Nelson & Englebart)
- * Hypercard (1980s, Apple)
- * WWW (1990s, CERN & Mosaic)
- * Hypermedia 'as the engine...' (2000, Fielding)
-Terms
- * Hypermedia 
- * Hypermedia applications
- * Hypermedia types
-H-Factors
- * Links (LE, LO, LT, LN, LI)
- * Control data (CL, CR, CU, CM)
- * Advantages and Trade-Offs
-Designing Hypermedia 
- * Formats
- * Links
- * Protocols
- * List/detail
- * Queries
- * Writing Data
- * Errors
- * Versioning
-Hypermedia Servers
- * Common HTTP Servers
- * SoC between media-type & object/data/storage model
- * Returning links
- * Supporting multiple media-types
- * Handling versions/changes 
-Hypermedia Clients
- * State machines
- * Learning a media type
- * Dealing with queries (templates)
- * Dealing with link relations (profiles)
- * Handling state (local storage)
- * Linking media-types to solve a problem
+*_This is not how the Web was envisioned._*
+
+===The Solution===
+Instead of publishing limited implementations that only support reading and writing raw data in simple formats such as XML and JSON, this workshop shows how you can craft rich payloads that include not just data, but also the application controls appropriate for the content; including the ability to search, sort, filter, and update data on the server. This hypermedia approach allows publishers to focus on returning the proper data and application controls to the client in each response and allows client applications to focus on understanding the hypermedia controls provided in the response instead of being required to map custom code to each service provider and data source.
+
+===The Workshop===
+In this one-day workshop, attendees will learn how to implement an alternative to one-off Web APIs using Hypermedia Engines. Topics covered include:
+
+ * Hypermedia Past and Present
+ * Nine Essential Hypermedia Factors
+ * Selecting the Proper Data Format
+ * Adding Hypermedia Application Controls to your Responses
+ * Binding Protocol Methods to your Hypermedia Controls
+ * Serving Up your Hypermedia
+ * Writing Clients that Understand your Hypermedia
+ * Documenting your Hypermedia
+ * and more...
+
+The all-day session includes a mix of presentation, discussion, and hands-on implementation. Attendees are encouraged to bring laptops and "code-along" with supplied examples throughout the day. Whether you want to focus on general Hypermedia design, server implementation details, or coding hypermedia clients, this workshop will provide lots of examples and food for thought.
+
+*_If you are responsible for designing and/or implementing "Web APIs" this workshop is for you._*
+
+===Reviews===
+Here's what recent participants in Mike Amundsen's talks had to say:
+ * "His was clearly the best session of the entire conference."
+ * "Presentation was no-nonsense. Almost every example had immediate applicability."
+ * "An intellectual heaveyweight. Not only does he know his stuff, but he really knows how to present it and he conveys his enthusian well."
+ * "Truly educational. Mike Amundsen was a wonderful teacher."
+
+*_Seats are limited and will be awarded on a first-come, first-served basis._*
+
+===Schedule===
+7:00AM to 8:00AM - Sign-in
+8:00AM to Noon - Morning Session
+Noon to 1:00PM - Break
+1:00PM to 5:00PM - Afternoon Session
+
+*NOTE:*
+Drinks and snacks will be provided throughout the day. 
