@@ -7,5 +7,5 @@ We're working on food options for the event. Updates will appear here.
 = Special Meal Requests =
 If you have any meal requirements (Kosher, Halal, Vegitarian, Vegan, etc.) please post your name and you preference here.
 
-MikeAmundsen: Vegetarian (Dairy is OK)
-BenjaminYoung: no preferences...other than tasty
+ * MikeAmundsen: Vegetarian (Dairy is OK)
+ * BenjaminYoung: no preferences...other than tasty
