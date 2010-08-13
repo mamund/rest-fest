@@ -1,8 +1,6 @@
 #summary Sidebar menu
 
-===REST Fest===
-
- * [Website http://restfest.org]
+ * [http://restfest.org WebSite]
 
  * [Agenda]
  * [Food]
