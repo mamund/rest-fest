@@ -1,0 +1,6 @@
+#summary People attending REST Fest 2010.
+
+ * [MikeAmundsen]
+ * [KevBurnsJr]
+ * [BenjaminYoung]
+ * [DavidZuekle]
