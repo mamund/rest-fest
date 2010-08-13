@@ -7,18 +7,18 @@
  * [Venue]
  * [CLTShuttle]
 
- * [People]
-   * [MikeAmundsen]
-   * [KevBurnsJr]
-   * [BenjaminYoung]
-   * [DavidZuelke]
+===People=== 
+ * [MikeAmundsen]
+ * [KevBurnsJr]
+ * [BenjaminYoung]
+ * [DavidZuelke]
 
- * [Other]
-   * [workshop]  
-   * [Lists Email Lists]
-   * [Sponsor Sponsor Message]
-   * [Announce Announce Message]
-   * [References]
-   * [ShoppingList]
+===Other===
+ * [workshop]  
+ * [Lists Email Lists]
+ * [Sponsor Sponsor Message]
+ * [Announce Announce Message]
+ * [References]
+ * [ShoppingList]
 
  
