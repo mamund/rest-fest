@@ -25,8 +25,8 @@ This is the proposed agenda for the REST-Fest for Fall 2010.  It's all tentative
 
 Based on [InitialAgenda]
 
- # Keynote and session speakers selected ahead of time. (how?)
- # Hack Room Pitches where folks stand up and suggest projects for the Hack Room(s)
+ # Keynote and session speakers selected ahead of time.
+ # Hack Room Pitches where folks stand up and suggest projects for the Hack Room
  # Lightning talks are 5 slides/5 mins, anyone can talk, suggest pre-posting. Interesting things get a breakout session (vote w/ your feet?)
    * [http://www.perl.com/pub/a/2004/07/30/lightningtalk.html On Giving a Lightning Talk]
   
