@@ -1,7 +1,8 @@
 #summary Odds n ends
 
- * [MailingLists]
+ * [Lists Mailing Lists]
  * [Announce List Announce Message]
  * [Sponsor Sponsor Message]
+ * [ShoppingList]
  * [References]
  
