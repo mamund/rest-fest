@@ -2,7 +2,7 @@
 #labels Featured
 
 = Official Agenda =
-This is the proposed agenda for the REST-Fest for Fall 2010.  It's all tentative. 
+This is the proposed agenda for the REST-Fest for Fall 2010.  
 
 || *Day* ||  *Time* || *Activity*                             ||
 ||  Fri  || 8AM-5PM || *Hypermedia Workshop w/ Mike Amundsen* [workshop Details] ||
@@ -21,7 +21,7 @@ This is the proposed agenda for the REST-Fest for Fall 2010.  It's all tentative
 ||       ||  2:00PM || Afternoon Lightning Talks & Breakouts ^3^  ||
 ||       ||  4:30AM || Closing Session ('til 5PM?)            ||
 ||       ||         ||                                        ||
-||       ||  6:30PM || After party (external? sponsored?)      ||
+||       ||  6:30PM || After party       ||
 
 Based on [InitialAgenda]
 
