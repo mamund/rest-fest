@@ -9,6 +9,10 @@ I've been using PHP for 4 years.
   * http://linkedin.com/in/kevburnsjr
   * http://github.com/KevBurnsJr
 
+I'm a contributor to Recess!
+
+  * http://recessframework.org
+
 I also run the IRC logs for #rest and #restfest on Freenode.
 
   * http://rest.hackyhack.net
