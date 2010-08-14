@@ -1,4 +1,7 @@
 Hello, my name is Kevin Burns.
+
+http://d.kevburnsjr.com/kburns_150.jpg
+
 I've been doing web design and development for 6 years.
 I've been using PHP for 4 years.
 
