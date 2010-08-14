@@ -1,6 +1,6 @@
 I've been writing software professionally for 17 years.  The last 3 years have been spent discovering the benefits of the REST.
 
 
-* Twitter: @darrel_miller
-* Blog: http://www.bizcoder.com
-* Company: http://www.tavis.ca
+  * Twitter: @darrel_miller
+  * Blog: http://www.bizcoder.com
+  * Company: http://www.tavis.ca
