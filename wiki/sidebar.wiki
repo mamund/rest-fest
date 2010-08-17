@@ -12,6 +12,7 @@
  * [KevBurnsJr]
  * [BenjaminYoung]
  * [DavidZuelke]
+ * [DarrelMiller]
 
 ===Other===
  * [workshop]  
