@@ -2,16 +2,18 @@
 
 = Thursday (Sept. 16) =
 
-|| where || when || how ||
+|| who || where || when || how ||
+|| Darrel || GSP -> Sleep Inn || 9:30 pm || Rental Car ||
 
 = Friday (Sept. 17) =
 
-|| where || when || how ||
+|| who || where || when || how ||
 
 = Saturday (Sept. 18) =
 
-|| where || when || how ||
+|| who || where || when || how ||
 
 = Sunday (Sept. 19) =
 
-|| where || when || how ||
+|| who || where || when || how ||
+|| Darrel || Sleep Inn -> GSP || 6:15 am || Rental Car ||
