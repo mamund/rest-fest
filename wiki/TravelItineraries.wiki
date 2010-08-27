@@ -5,6 +5,7 @@
 || who || where || when || how ||
 || Darrel || Montreal -> [http://www.burlingtonintlairport.com/ BVT] || 1:30 pm || Car ||
 || [http://code.google.com/p/rest-fest/wiki/DarrelMiller Darrel] || [http://gspairport.com/ GSP] -> [http://bit.ly/crALAI Sleep Inn] || 9:30 pm || Rental Car ||
+|| MikeA || Cincinnati, OH -> [http://go.mamund.com/4qfv Courtyard Marriot] || 4PM || Rental Car ||
 
 = Friday (Sept. 17) =
 
@@ -18,3 +19,8 @@
 
 || who || where || when || how ||
 || [http://code.google.com/p/rest-fest/wiki/DarrelMiller Darrel] || [http://bit.ly/crALAI Sleep Inn] -> [http://gspairport.com/ GSP] || 6:15 am || Rental Car ||
+
+= Monday (Sept. 20) =
+
+|| who || where || when || how ||
+|| MikeA || [http://go.mamund.com/4qfv Courtyard Marriot] -> Kingsport, TN || 10AM || Rental Car ||
