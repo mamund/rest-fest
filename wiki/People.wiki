@@ -1,7 +1,12 @@
 #summary People attending REST Fest 2010.
 
+ * [DanAbend]
+ * [MichaelAllen]
  * [MikeAmundsen]
+ * [GlennBlock]
  * [KevBurnsJr]
+ * [BarryJones]
+ * [RobertKeane]
+ * [DarrelMiller]
  * [BenjaminYoung]
  * [DavidZuelke]
- * [DarrelMiller]
