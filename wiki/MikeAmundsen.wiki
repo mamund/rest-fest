@@ -2,14 +2,23 @@
 
 ==Mike Amundsen==
 
-||<img src="http://amundsen.com/talks/images/mike-amundsen-small.jpg" /> ||
 *Contact Info:*
+<table>
+<tr>
+<td><img src="http://amundsen.com/talks/images/mike-amundsen-small.jpg" /></td>
+<td>
+An internationally known author and lecturer, Mike Amundsen travels throughout the United States and Europe speaking and teaching on a wide range of topics including .NET programming, Cloud computing, Web application development, and other subjects. He has more than a dozen books to his credit and recently contributed to the O'Reilly book "RESTful Web Services Cookbook" by Subbu Alamaraju. Mike is currently working with, and doing research on the topic of, Hypermedia programming using the REST architectural model. When he is not working, Mike enjoys spending time with his family in Kentucky, USA.
+</td>
+<td>
  * [http://twitter.com/mamund @mamund]
  * [http://amundsen.com amundsen.com]
  * [http://mamund.com/foaf#me]
  * IRC handle: mamund
  * Erlanger, KY USA
-||
+</td>
+</tr>
+</table>
+
 ===Proposed Talks===
 || _Title_ || *Five Heros: People from the 20th century who inspire me* ||
 || _Level_ || NA ||
@@ -20,8 +29,3 @@
 || _Abstract_ || Fielding's dissertation points out a number of "Architectural Properties of Key Interest" (sec 2.3). One of these is "Modifiability" (sec 2.3.4) which is broken down into _Evolvability_, _Extensibility_, _Customizability_, _Configurability_, and _Reusability_. This talk reviews these "abilities" and identifies examples and strategies for achieving modifiability for distributed network applications. ||
 || _Supplemental_ || [http://www.youtube.com/watch?v=Eg-ckMup6SI All About Eve - Bumpy Night] ||
 || _Slides_ || Not yet available ||
-
-===Official Bio===
-<img src="http://amundsen.com/talks/images/mike-amundsen-small.jpg" />
-
-An internationally known author and lecturer, Mike Amundsen travels throughout the United States and Europe speaking and teaching on a wide range of topics including .NET programming, Cloud computing, Web application development, and other subjects. He has more than a dozen books to his credit and recently contributed to the O'Reilly book "RESTful Web Services Cookbook" by Subbu Alamaraju. Mike is currently working with, and doing research on the topic of, Hypermedia programming using the REST architectural model. When he is not working, Mike enjoys spending time with his family in Kentucky, USA.
