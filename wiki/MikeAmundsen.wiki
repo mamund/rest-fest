@@ -2,13 +2,14 @@
 
 ==Mike Amundsen==
 
+||<img src="http://amundsen.com/talks/images/mike-amundsen-small.jpg" /> ||
 *Contact Info:*
  * [http://twitter.com/mamund @mamund]
  * [http://amundsen.com amundsen.com]
  * [http://mamund.com/foaf#me]
  * IRC handle: mamund
  * Erlanger, KY USA
-
+||
 ===Proposed Talks===
 || _Title_ || *Five Heros: People from the 20th century who inspire me* ||
 || _Level_ || NA ||
