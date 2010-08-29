@@ -2,8 +2,7 @@
 
 ==Mike Amundsen==
 
-*Contact Info:*
-<table>
+<table cellpadding="4">
 <tr>
 <td><img src="http://amundsen.com/talks/images/mike-amundsen-small.jpg" /></td>
 <td>
