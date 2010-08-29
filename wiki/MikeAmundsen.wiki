@@ -9,6 +9,11 @@
  * IRC handle: mamund
  * Erlanger, KY USA
 
+===Proposed Talks===
+|| Title || Five Heros: People from the 20th century who inspire me ||
+|| Level || NA ||
+|| Abstract || I identify five people who inspire my work. And I invite others to do the same. ||
+
 ===Official Bio===
 <img src="http://amundsen.com/talks/images/mike-amundsen-small.jpg" />
 
