@@ -13,6 +13,9 @@
 || _Title_ || *Five Heros: People from the 20th century who inspire me* ||
 || _Level_ || NA ||
 || _Abstract_ || Where I identify five people who inspire my work and invite others to do the same. ||
+|| _Title_ || All About EVE: Extensibility, Versioning, Evolvability, etc. through Modifiability ||
+|| _Level_ || Intermediate ||
+|| _Abstract_ || Fielding's dissertation points out a number of "Architectural Properties of Key Interest" (sec 2.3). One of these is "Modifiability" which is broken down into Evolvability, Extensibility, Customizability, Configurability, and Reusability. This talk reviews these "abilities" and points out examples and strategies for achieving modifiability for distributed network applications. ||
 
 ===Official Bio===
 <img src="http://amundsen.com/talks/images/mike-amundsen-small.jpg" />
