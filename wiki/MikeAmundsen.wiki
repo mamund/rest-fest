@@ -10,9 +10,9 @@
  * Erlanger, KY USA
 
 ===Proposed Talks===
-|| Title || Five Heros: People from the 20th century who inspire me ||
-|| Level || NA ||
-|| Abstract || I identify five people who inspire my work. And I invite others to do the same. ||
+|| _Title_ || *Five Heros: People from the 20th century who inspire me* ||
+|| _Level_ || NA ||
+|| _Abstract_ || Where I identify five people who inspire my work and invite others to do the same. ||
 
 ===Official Bio===
 <img src="http://amundsen.com/talks/images/mike-amundsen-small.jpg" />
