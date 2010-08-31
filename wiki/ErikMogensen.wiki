@@ -1,0 +1,26 @@
+#summary Mogsie's profile
+
+==Erik Mogensen==
+
+<table cellpadding="4">
+<tr>
+<td valign="top"><img src="http://mogsie.com/static/me.jpg" /></td>
+<td valign="top">
+Erik Mogensen is Chief Architect of Vizrt's Online division. His claim to REST fame amounts to a talk he gave at JavaZone in 2009.  He introduced REST to his company over half a decade ago, but freely admits that his knowledge of REST [http://stackoverflow.com/questions/3543075/what-is-a-concise-way-of-understanding-restful-and-its-implications/3543326#3543326 changes over time].  The last two to three years have been spent implementing a hypermedia based set of resources along with a hypermedia based client.
+</td>
+<td valign="top">
+ * [http://twitter.com/mogsie @mogsie]
+ * [http://mogsie.com/techie/ blog]
+ * [http://mogsie.com/static/foaf.rdf#me foaf]
+ * [http://claimid.com/mogsie claimid]
+ * IRC handle: mogsie
+ * Oslo, Norway
+</td>
+</tr>
+</table>
+
+===Proposed Talks===
+|| _Title_ || *TBA* ||
+|| _Level_ || Advanced ||
+|| _Abstract_ || The talk will focus on experiences gained while following the hypermedia constraint while developing a traditional installed application. ||
+|| _Slides_ || Not yet available ||
