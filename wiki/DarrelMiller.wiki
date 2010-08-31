@@ -4,3 +4,14 @@ I've been writing software professionally for 17 years.  The last 3 years have b
   * Twitter: @darrel_miller
   * Blog: http://www.bizcoder.com
   * Company: http://www.tavis.ca
+
+===Proposed Talks===
+|| _Title_ || *application/vnd.tavis.commandlist+xml - Partial updates via commands* ||
+|| _Level_ || Intermediate, FiveInFive ||
+|| _Abstract_ || Coming soon ||
+|| _Slides_ || Not yet available ||
+
+|| _Title_ || *Building hypermedia driven clients on Windows* ||
+|| _Level_ || Intermediate, ExtendedTalk ||
+|| _Abstract_ || Coming soon ||
+|| _Slides_ || Not yet available ||
