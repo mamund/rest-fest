@@ -1,6 +1,6 @@
 <table cellpadding="4">
 <tr>
-<td valign="top"><img src="http://www.tavis.ca/Darrel_headshot1.png" height="50%" width="70%"/></td>
+<td valign="top"><img src="http://www.tavis.ca/Darrel_headshot1.png" height="154" width="124"/></td>
 <td valign="top">
 <p>Darrel Miller is CTO at Tavis Software.  Tavis Software is an ISV that targets a small vertical market in the world of Enterprise Resource Planning (ERP) software. </p>
 <p>Darrel has been responsible for the architecture, design, development, deployment, support and maintenance of distributed business systems using ISAM databases, client/server databases, SOAP based services and most recently REST based systems.</p>
