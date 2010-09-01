@@ -7,12 +7,16 @@
 <p>Darrel has been writing software professionally for 17 years.  The last 3 years have been spent discovering the benefits of the REST.  His particular focus is on the use of REST to develop non-browser based line-of-business applications.</p>
 </td>
 <td valign="top">
+</td>
+</tr>
+<tr>
+<td></td>
+<td>
   * Twitter: @darrel_miller
   * Blog: http://www.bizcoder.com
   * Company: http://www.tavis.ca
 </td>
 </tr>
-
 </table>
 
 
