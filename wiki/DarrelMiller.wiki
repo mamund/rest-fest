@@ -1,4 +1,8 @@
-I've been writing software professionally for 17 years.  The last 3 years have been spent discovering the benefits of the REST.
+Darrel Miller is CTO at Tavis Software.  Tavis Software is an ISV that targets a small vertical market in the world of Enterprise Resource Planning (ERP) software.  
+
+Darrel has been responsible for the architecture, design, development, deployment, support and maintenance of distributed business systems using ISAM databases, client/server databases, SOAP based services and most recently REST based systems.
+
+Darrel has been writing software professionally for 17 years.  The last 3 years have been spent discovering the benefits of the REST.  His particular focus is on the use of REST to develop non-browser based line-of-business applications.
 
 
   * Twitter: @darrel_miller
@@ -8,7 +12,7 @@ I've been writing software professionally for 17 years.  The last 3 years have b
 ===Proposed Talks===
 || _Title_ || *application/vnd.tavis.commandlist+xml - Partial updates via commands* ||
 || _Level_ || Intermediate, FiveInFive ||
-|| _Abstract_ || Coming soon ||
+|| _Abstract_ || PUT works great when you are updating files and images.  It is not so easy to use when you are updating shared resources stored in a relational database.  This talk will introduce the notion of using a list of commands to perform partial and transient updates.  I cover issues like validation, progressive disclosure, error handling and undo/redo.  I will also attempt to justify why I believe this is not just another way to tunnel RPC over HTTP.   ||
 || _Slides_ || Not yet available ||
 
 || _Title_ || *Building hypermedia driven clients on Windows* ||
