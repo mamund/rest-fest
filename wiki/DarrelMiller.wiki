@@ -17,5 +17,13 @@ Darrel has been writing software professionally for 17 years.  The last 3 years 
 
 || _Title_ || *Building hypermedia driven clients on Windows* ||
 || _Level_ || Intermediate, ExtendedTalk ||
-|| _Abstract_ || Coming soon ||
+|| _Abstract_ || The architecture of the web brings many desirable properties to distributed applications.  However, web browsers are not always the best platform to deliver client functionality.  
+
+This talk discusses how to build rich clients as components of a RESTful  system to enable application developers to deliver high functioning clients that still benefit from the performance, scalability, fault tolerance and evolvability characteristics of web based systems. 
+
+With the specific focus of delivering rich clients on the Windows platform, we will discuss topics such as deployment, service discovery, bookmarking, authentication, links, link relations, media-types, versioning, window management, caching of static resources and localization.
+
+This is a code focused talk with examples in C# and will include a demo of a running production application that implements many of the discussed topics.  By no means is this talk intended to demonstrate the “right way”, this is “the way I have done it” and I fully expect the audience to tell me where they think I have gone astray.
+
+||
 || _Slides_ || Not yet available ||
