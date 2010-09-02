@@ -1,4 +1,5 @@
 #summary Add you're travel schedule here to get some help on car pooling, meet-ups, etc.
+#labels Featured
 
 = Thursday (Sept. 16) =
 
