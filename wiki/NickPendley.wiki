@@ -19,3 +19,13 @@ In short, <b>Nick is a REST novice here to learn about REST and how its principl
 </td>
 </tr>
 </table>
+
+===Proposed Talks===
+|| _Title_ || *XUL* ||
+|| _Level_ || Beginner, FiveInFive ||
+|| _Abstract_ || ... ||
+|| _Slides_ || Not yet available ||
+|| _Title_ || *...* ||
+|| _Level_ || Beginner, FiveInFive ||
+|| _Abstract_ || ... ||
+|| _Slides_ || Not yet available ||
