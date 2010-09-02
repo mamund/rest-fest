@@ -23,6 +23,7 @@ An internationally known author and lecturer, Mike Amundsen travels throughout t
 || _Level_ || Beginner/Intermediate, FiveInFive ||
 || _Abstract_ || Sometimes you must integrate your HTTP/REST app w/ third party services that only expose their data via SOAP calls. This talk shows a simple, effective way to create an HTTP-compliant proxy to do the dirty work of interacting w/ a SOAP endpoint. ||
 || _Slides_ || Not yet available ||
+|| _Supplemental_ || [http://www.youtube.com/watch?v=v_-jAbWwjg4 A Purolator Purism on Scented Soap] ||
 || _Title_ || *Five Heroes: People from the 20th century who inspire me* ||
 || _Level_ || NA, FiveInFive ||
 || _Abstract_ || Where I identify five people who inspire my work and invite others to do the same. ||
