@@ -19,6 +19,10 @@ An internationally known author and lecturer, Mike Amundsen travels throughout t
 </table>
 
 ===Proposed Talks===
+|| _Title_ || *Hiding the SOAP: A simple approach to writing an HTTP proxy for SOAP Services* ||
+|| _Level_ || Beginner/Intermediate, FiveInFive ||
+|| _Abstract_ || I often have to integrate my HTTP/REST apps w/ third party services that only expose their data via SOAP calls. This talks shows a very simple (yet, quite effective) way to create an HTTP proxy you can use to do the dirty work for you and still maintain a clean HTTP-compliant interface w/ the external service. ||
+|| _Slides_ || Not yet available ||
 || _Title_ || *Five Heroes: People from the 20th century who inspire me* ||
 || _Level_ || NA, FiveInFive ||
 || _Abstract_ || Where I identify five people who inspire my work and invite others to do the same. ||
