@@ -6,9 +6,11 @@
 <tr>
 <td valign="top"><img src="https://fbcdn-sphotos-a.akamaihd.net/hphotos-ak-snc4/hs368.snc4/45076_848903718110_12911134_45192813_5376113_n.jpg" width="100"/></td>
 <td valign="top">
-Nick develops software for a small Raleigh, NC-based company that specializes in collecting, analyzing, and reporting performance data and other metrics in soldiers, astronauts, executives, etc.  The current architecture includes a XUL client, a POX .net HTTPListener application server, PostgreSQL database, and some old Windows Mobile/PocketPC applications.  While developing new mobile applications on different platforms, we are attempting to create a better web service is .net that will be easier to use and develop against.  
+Nick develops software from his home in Columbus, Ohio for a small Raleigh, North Carolina-based company that specializes in collecting, analyzing, and reporting performance data and other metrics in soldiers, astronauts, executives, etc.  The current architecture includes a XUL client, a POX .net HTTPListener application server, PostgreSQL database, and some old Windows Mobile/PocketPC applications.  
 
-In short, Nick is a REST novice here to learn about REST and how its principles could benefit this architecture change. 
+While developing mobile applications on different platforms, the company is redesigning the web service in .net so that will be easier to use and develop against.  
+
+In short, <b>Nick is a REST novice here to learn about REST and how its principles could benefit this architecture change</b>. 
 </td>
 <td valign="top">
  * [http://twitter.com/pc1oad1etter @pc1oad1etter]
