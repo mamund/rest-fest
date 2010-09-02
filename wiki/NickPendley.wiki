@@ -4,7 +4,7 @@
 
 <table cellpadding="4">
 <tr>
-<td valign="top"><img src="https://fbcdn-sphotos-a.akamaihd.net/hphotos-ak-snc4/hs368.snc4/45076_848903718110_12911134_45192813_5376113_n.jpg"/></td>
+<td valign="top"><img src="https://fbcdn-sphotos-a.akamaihd.net/hphotos-ak-snc4/hs368.snc4/45076_848903718110_12911134_45192813_5376113_n.jpg" width="100"/></td>
 <td valign="top">
 Nick develops software for a small company in Raleigh, NC that specializes in collecting, analyzing, and reporting performance data and other metrics in soldiers, astronauts, executives, etc.  The current architecture includes a XUL client, a POX .Net HTTPListener web service, PostgreSQL database, and some old Windows Mobile/PocketPC applications.  While developing new mobile applications on different platforms, we are attempting to create a better web service is .net that will be easier to use and develop against.  Nick is here to learn about REST and how its principles could benefit this architecture change. 
 </td>
