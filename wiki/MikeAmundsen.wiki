@@ -19,6 +19,7 @@ An internationally known author and lecturer, Mike Amundsen travels throughout t
 </table>
 
 ===Proposed Talks===
+<div width="800">
 || _Title_ || *Hiding the SOAP: A simple approach to writing an HTTP proxy for SOAP Services* ||
 || _Level_ || Beginner/Intermediate, FiveInFive ||
 || _Abstract_ || Sometimes you must integrate your HTTP/REST app w/ third party services that expose their data only via SOAP calls. This talk shows a simple, effective way to create an HTTP-compliant proxy to do the dirty work of interacting w/ a SOAP endpoint. ||
@@ -34,3 +35,4 @@ An internationally known author and lecturer, Mike Amundsen travels throughout t
 || _Abstract_ || Fielding's dissertation points out a number of "Architectural Properties of Key Interest" (sec 2.3). One of these is "Modifiability" (sec 2.3.4) which is broken down into _Evolvability_, _Extensibility_, _Customizability_, _Configurability_, and _Reusability_. This talk reviews these "abilities" and identifies examples and strategies for achieving modifiability for distributed network applications. ||
 || _Supplemental_ || [http://www.youtube.com/watch?v=Eg-ckMup6SI All About Eve - Bumpy Night] ||
 || _Slides_ || Not yet available ||
+</div>
