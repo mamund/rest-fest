@@ -30,8 +30,8 @@ An internationally known author and lecturer, Mike Amundsen travels throughout t
 || _Supplemental_ || [http://www.youtube.com/watch?v=v_-jAbWwjg4 A Purolator Purism on Scented Soap] ||
 
 || _Title_ || *Five Heroes: People from the 20th century who inspire me* ||
-|| _Level_ || NA, FiveInFive '                                                                     '||
-|| _Abstract_ || Where I identify five people who inspire my work and invite others to do the same. ||
+|| _Level_ || NA, FiveInFive ||
+|| _Abstract_ || Where I identify five people who inspire my work and invite others to do the same. Three from the Web, one architect, and a mathematician.||
 || _Slides_ || Not yet available ||
 || _Supplemental_ || [http://www.youtube.com/watch?v=fDdPuCsOLaQ "I Need a Hero" with the Cebu Dancing Prisoners] ||
 
