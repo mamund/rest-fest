@@ -21,7 +21,7 @@ In short, <b>Nick is a REST novice here to learn about REST and how its principl
 </table>
 
 ===Proposed Talks===
-|| _Title_ || *XUL* ||
+|| _Title_ || *There is No Dana, Only XUL* ||
 || _Level_ || Beginner, FiveInFive ||
 || _Abstract_ || A high level overview of [https://developer.mozilla.org/en/xul XUL], its usage scenarios, and lessons learned from three years of XUL application development.  ||
 || _Slides_ || Not yet available ||
