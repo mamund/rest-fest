@@ -12,16 +12,18 @@
 
 ==Friday==
 
-===Morning===
- * [http://coffeeunderground.biz/documents/CUCaterMenu_003.pdf Coffee Underground] coffee/snacks
+===Morning/Afternoon===
+ * coffee pot on site
+ * "big box" snacks
 
 ===Lunch===
- * ??
-
-===Afternoon===
- * ?? coffee/donuts? ice cream? cupcakes (couple local shops for these)?
+ * Pizza from [http://www.barleysgville.com/ Barley's Taproom]?
 
 ===Dinner (?)===
+ * ad hoc -- we've got 1.5 hours to get downtown (or nearby), eat, and be back for the main event
+
+===Evening===
+ * espresso bar (tnx to Telerik)
 
 ==Saturday==
 
@@ -29,8 +31,9 @@
  * Coffee Underground?
 
 ===Lunch===
+ * Catered from? (tnx to Gnoso)
 
 ===Afternoon===
 
 ===Dinner/After Party===
- * [http://www.barleysgville.com/ Barley's Taproom] has an second floor that the [http://gsatc.org/ GSATC] (local tech group) reserves monthly
+ * Blue Ridge Brewing (we hope) (tnx to Github)
