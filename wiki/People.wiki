@@ -1,7 +1,7 @@
 #summary People attending REST Fest 2010.
 #labels Featured
 
-[AttendeeMap Attendee Map]
+[http://www.zeemaps.com/map?group=180409&x=-95.712891&y=37.090240&z=14 Attendee Map]
 
  * [DanAbend]
  * [MichaelAllen]
