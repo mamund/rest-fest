@@ -1,7 +1,7 @@
 #summary People attending REST Fest 2010.
 #labels Featured
 
-[Map Attendee Map]
+[AttendeeMap Attendee Map]
 
  * [DanAbend]
  * [MichaelAllen]
