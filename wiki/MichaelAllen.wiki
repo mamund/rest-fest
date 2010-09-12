@@ -1,0 +1,10 @@
+Howdy, I am a User Interface Designer/Developer at Windstream Communications. Windstream is a residential & commercial Telecom employing over 7,000 people from across the United States. I work in the Technology department building AJAX enabled web applications for our B2C web portal.
+
+You can follow me on Twitter @mr_michael_lee
+
+== Prosposed Talks ==
+
+|| _Title_ || Building Web Apps With a RESTful Foundation Using CouchDB ||
+|| _Level_ || Intermediate, FiveInFive ||
+|| _Abstract_ || My talk will focus on my Simple Bible Reader web application and the underlying CouchDB database that powers it. I will outline the reasons for choosing CouchDB, and give examples of how my app makes use of it's RESTful architecture. My goal is to show the flexibility and ease of development offered by truly RESTful data sources. ||
+|| _Slides_ || Coming soon. ||
