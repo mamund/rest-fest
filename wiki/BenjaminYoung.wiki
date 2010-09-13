@@ -1,8 +1,10 @@
 I'm the "local yokel" in Greenville, SC, helping [MikeAmundsen] put together REST Fest 2010.
 
 ===About Me===
- * [http://twitter.com/bigbluehat @bigbluehat]
- * [http://bigbluehat.com/ BigBlueHat] - my Web Manufacturing Company
+ * [http://twitter.com/bigbluehat @bigbluehat] - me
+ * [http://github.com/bigbluehat BigBlueHat on Github] - also me
+ * [http://bigbluehat.com/ BigBlueHat] - my 7 year company, soon to double in size
+ * [http://couchone.com/ CouchOne] - where I replicate
 
 ===Proposed Talks===
 || _Title_ || *HATEOAS on the Couch(DB)* ||
