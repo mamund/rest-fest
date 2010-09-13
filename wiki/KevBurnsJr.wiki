@@ -19,7 +19,7 @@ I also run the IRC logs for #rest and #restfest on Freenode.
   * http://restfest.hackyhack.net
 
 ===Proposed Talks===
-|| _Title_ || *Prototyping Web Services* ||
+|| _Title_ || *Prototyping RESTful Web Services* ||
 || _Level_ || Beginner/Intermediate ||
 || _Abstract_ || an examination of prototyping as an architectural artifact in web service design ||
 || _Slides_ || Not yet available ||
