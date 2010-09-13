@@ -20,6 +20,6 @@ I also run the IRC logs for #rest and #restfest on Freenode.
 
 ===Proposed Talks===
 || _Title_ || *Prototyping RESTful Web Services* ||
-|| _Level_ || Beginner/Intermediate ||
+|| _Level_ || Intermediate ||
 || _Abstract_ || an examination of web service prototypes as architectural artifacts in web service design ||
 || _Slides_ || Not yet available ||
