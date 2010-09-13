@@ -8,6 +8,6 @@ I'm the "local yokel" in Greenville, SC, helping [MikeAmundsen] put together RES
 
 ===Proposed Talks===
 || _Title_ || *HATEOAS on the Couch(DB)* ||
-|| _Level_ || Beginner/Intermediate, FiveInFive ||
+|| _Level_ || Beginner/Intermediate, FiveInFive or extended talk ||
 || _Abstract_ || an introduction to CouchApp-based API building focused on creating a HATEOS version of CouchDB's CRUD API. ||
 || _Slides_ || Not yet available ||
