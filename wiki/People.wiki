@@ -9,7 +9,7 @@
  * [GlennBlock]
  * [KevBurnsJr]
  * [KevinDees]
- * [EricGirard Eric Girard]
+ * [EricGirard]
  * [ChuckHinson]
  * [BarryJones]
  * [RobertKeane]
