@@ -16,6 +16,7 @@ Mike Amundsen travels throughout the United States and Europe speaking and teach
  * [http://twitter.com/mamund @mamund]
  * [http://amundsen.com amundsen.com]
  * [http://mamund.com/foaf#me]
+ * [http://github.com/mamund mamund on github]
  * IRC handle: mamund
  * Erlanger, KY USA
 </td>
