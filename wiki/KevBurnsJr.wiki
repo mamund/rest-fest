@@ -20,10 +20,10 @@ I also run the IRC logs for #rest and #restfest on Freenode.
 
 ===Proposed Talks===
 || _Title_ || *Prototyping RESTful Web Services* ||
-|| _Level_ || Intermediate, Extended ||
+|| _Level_ || Intermediate, ExtendedTalk ||
 || _Abstract_ || an examination of web service prototypes as architectural artifacts in web service design ||
 || _Slides_ || Not yet available ||
 || _Title_ || *Intro to WebHooks* ||
 || _Level_ || Beginner, FiveInFive||
-|| _Abstract_ || an examination of web service prototypes as architectural artifacts in web service design ||
+|| _Abstract_ || What are webhooks and why they are so awesome? ||
 || _Slides_ || Not yet available ||
