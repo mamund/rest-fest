@@ -17,11 +17,11 @@ This is the proposed agenda for the REST-Fest for Fall 2010.
 ||  Sat  || 8AM-5PM || *Hack Rooms open all day*              ||
 ||       ||         ||                                        ||
 ||       ||  8:00AM || Morning Coffee           ||
-||       ||  8:30AM || Session Speakers (ExtendedTalks)           ||
+||       ||  8:30AM || Session Speakers (ExtendedTalk)           ||
 ||       || 10:00AM || Morning FiveInFive Talks & Breakout Sessions   ||
 ||       ||    Noon || Lunch break                 ||
 ||       ||         ||                                        ||
-||       ||  1:00PM || Session Speakers (ExtendedTalks)           ||
+||       ||  1:00PM || Session Speakers (ExtendedTalk)           ||
 ||       ||  2:30PM || Afternoon FiveInFive Talks & Breakout Sessions  ||
 ||       ||  4:30AM || Closing Session ('til 5PM)            ||
 ||       ||         ||                                        ||
