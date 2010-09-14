@@ -1,0 +1,7 @@
+#summary N. Brad Garrett
+
+= The Scoop =
+
+[http://www.bradezone.com/ Bradezone] is my site. Assorted pertinent info can be found therein.
+
+[http://www.mergeweb.com/ Merge] is my employer. I develop websites primarily using CakePHP or Drupal.
