@@ -5,23 +5,27 @@
 This is the proposed agenda for the REST-Fest for Fall 2010.  
 
 || *Day* ||  *Time* || *Activity*                             ||
+||  Fri  || 7:30AM || Workshop Check-in & Coffee ||
 ||  Fri  || 8AM-5PM || *Hypermedia Workshop w/ Mike Amundsen* [workshop Details] ||
 ||       ||         ||                                        ||
-||       ||  6:30PM || Opening Session, Keynote Address ^1^      ||
-||       ||  7:30PM || Hack Room Pitches (w/ voting)  ^2^         ||
-||       ||  8:00PM || Open Spaces/Hacking ('til 10PM?)       ||
+||       ||  6:30PM   || Additional Check-in Time                          ||
+||       ||  7:00PM || Welcome & Opening Remarks      ||
+||       ||  7:30PM || Keynote by [GlennBlock]         ||
+||       ||  8:30PM || Hack Room Pitches          ||
+||       ||  8:30PM || Espresso, Open Spaces/Hacking, General Socializing, etc. ('til 10-ish)       ||
 ||       ||         ||                                        ||
 ||  Sat  || 8AM-5PM || *Hack Rooms open all day*              ||
 ||       ||         ||                                        ||
-||       ||  8:30AM || Session Speakers (2 rooms?) ^1^           ||
-||       ||  9:30AM || Morning Lightning Talks & Breakouts ^3^   ||
-||       ||    Noon || Lunch break (catered?)                 ||
+||       ||  8:00AM || Morning Coffee           ||
+||       ||  8:30AM || Session Speakers (ExtendedTalks)           ||
+||       || 10:00AM || Morning FiveInFive Talks & Breakout Sessions   ||
+||       ||    Noon || Lunch break                 ||
 ||       ||         ||                                        ||
-||       ||  1:00PM || Session Speakers (2 rooms?) ^1^           ||
-||       ||  2:00PM || Afternoon Lightning Talks & Breakouts ^3^  ||
-||       ||  4:30AM || Closing Session ('til 5PM?)            ||
+||       ||  1:00PM || Session Speakers (ExtendedTalks)           ||
+||       ||  2:30PM || Afternoon FiveInFive Talks & Breakout Sessions  ||
+||       ||  4:30AM || Closing Session ('til 5PM)            ||
 ||       ||         ||                                        ||
-||       ||  6:30PM || After party       ||
+||       ||  6:30PM || After party (Location?)      ||
 
 Based on [InitialAgenda]
 
