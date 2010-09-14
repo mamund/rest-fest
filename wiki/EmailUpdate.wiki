@@ -2,29 +2,31 @@
 
 Only a few short days until REST Fest 2010!
 
-This is a short (Ha!) note to everyone to help guide you through the weekend. Keep in mind that things will still be 'fluid' so stay tuned for updates right up and include the day of the event.
+This is a short (Ha!) note to everyone to help guide you through the weekend. Keep in mind that things will still be 'fluid' so stay 
+
+tuned for updates right up and include the day of the event.
 
 Covered in this note:
-- Venue
-- Thursday Evening Social 
-- Weekend Schedule
-- Check-In
-- Friday Hypermedia Workshop
-- Friday Evening Keynote
-- Saturday Speakers
-- Food & Drink
-- Internet Access
-- Twitter Away
-- Contact Info
+ * Venue
+ * Thursday Evening Social 
+ * Weekend Schedule
+ * Check-In
+ * Friday Hypermedia Workshop
+ * Friday Evening Keynote
+ * Saturday Speakers
+ * Food & Drink
+ * Internet Access
+ * Twitter Away
+ * Contact Info
 
 See you at REST Fest!
 
-Venue
+====Venue====
 http://go.mamund.com/4vri
 All sessions (including the workshop) will be held at:
 Greenville NEXT Center
 411 University Ridge
-Greenville, SC 29601
+ Greenville, SC 29601
 
 Thursday Evening Social
 There will probably be a "Pre-UnConf" get-together late Thursday evening. Watch the tweet-space and IRC for details if you want to join 
@@ -46,9 +48,9 @@ getting things done<g>. When you get there, you can:
 
 Friday Hypermedia Workshop
 http://www.restfest.org/schedule/workshop
-If you signed up for the Hypermedia Hacking workshop, be sure to bring your laptop and be prepared to code. This is really going to be 
+If you signed up for the Hypermedia Hacking workshop, be sure to bring your laptop and be prepared to code. This is really going to be  
 
-a "workshop." Also, there is a lot to cover so the session will kick off right at 8AM. Be ready!
+a "workshop." Also, there is a lot to cover so the session will kick off right at 8AM. Be ready! 
 
 Friday will also be a lot like a "Master Class" where you can show your work and get feedback. If you are already working on a media 
 
