@@ -21,12 +21,16 @@ If you have any meal requirements (Kosher, Halal, Vegitarian, Vegan, etc.) pleas
 
 ==Friday==
 
-===Morning/Afternoon Break===
+===Morning (10am)===
  * Goodies
  * {DanAbend}
 
-===Lunch===
- * Pizza from [http://www.barleysgville.com/ Barley's Taproom] - _Cheese / Pepperoni / Veggie_
+===Lunch (Noon)===
+ * Pizza from [http://www.barleysgville.com/ Barley's Taproom] - 2 Lg Cheese / 2 Lg Pepperoni / 1 Sm Veggie_
+ * {DanAbend}
+
+===Afternoon Break (2:30pm)===
+ * Goodies
  * {DanAbend}
 
 ===Dinner (?)===
@@ -34,21 +38,20 @@ If you have any meal requirements (Kosher, Halal, Vegitarian, Vegan, etc.) pleas
  * (everyone)
 
 ===Evening===
- * espresso bar (tnx to Telerik)
- * [http://www.facebook.com/pages/Greenville-SC/Simply-Espresso-LLC/196126521258?v=info&ref=ts#!/pages/Greenville-SC/Simply-Espresso-LLC/196126521258?v=wall&ref=ts Simply Espresso, LLC]
+ * [http://www.facebook.com/pages/Greenville-SC/Simply-Espresso-LLC/196126521258?v=info&ref=ts#!/pages/Greenville-SC/Simply-Espresso-LLC/196126521258?v=wall&ref=ts Simply Espresso, LLC] espresso bar (tnx to Telerik)
  * {BenjaminYoung}
 
 ==Saturday==
 
-===Morning===
+===Morning (10am)===
  * Goodies
  * {DanAbend}
 
-===Lunch===
+===Lunch (Noon)===
  * Catered from [http://www.twochefsdeli.com Two Chefs] (tnx to Gnoso)
  * {DanAbend}
 
-===Afternoon===
+===Afternoon (2:30pm)===
  * Cookie selection from [http://www.coffeeunderground.biz/ Coffee Underground]
  * Goodies
  * {DanAbend}
