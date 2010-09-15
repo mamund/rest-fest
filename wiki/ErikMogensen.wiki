@@ -24,7 +24,7 @@ Mogsie (as he's more commonly known) freely admits that his knowledge of REST [h
 </table>
 
 ===Proposed Talks===
-|| _Title_ || *Lessons learned thile replacing * ||
+|| _Title_ || *Ditch your complex clients, become RESTful* ||
 || _Level_ || Advanced, ExtendedTalk ||
 || _Abstract_ || I will talk about our experiences with replacing an RPC based client to a  RESTful client. The presentation will cover the lessons learned in designing the client, and how embracing the hypermedia constraint has influenced the design of the client.  You will not NOT learn anything about the jungle of RESTful frameworks, as they are only tools to get the job done. You will learn about how the most important principle of REST (the hypermedia constraint) and how it affects client side programming.  ||
 || _Slides_ || Not yet available ||
