@@ -12,43 +12,8 @@
 
  * ice
  * plates, cups, napkins, utensils
-
-==Friday==
-
-===Morning/Afternoon===
- * coffee
- * soft drinks
- * "big box" snacks
- * DanAbend
-
-===Lunch===
- * Pizza from [http://www.barleysgville.com/ Barley's Taproom]
- * DanAbend
-
-===Dinner (?)===
- * ad hoc -- we've got 1.5 hours to get downtown (or nearby), eat, and be back for the main event
- * everyone ;)
-
-===Evening===
- * espresso bar (tnx to Telerik)
- * [http://www.facebook.com/pages/Greenville-SC/Simply-Espresso-LLC/196126521258?v=info&ref=ts#!/pages/Greenville-SC/Simply-Espresso-LLC/196126521258?v=wall&ref=ts Simply Espresso, LLC]
- * BenjaminYoung
-
-==Saturday==
-
-===Morning===
- * "big box" goodies again?
- * DanAbend
-
-===Lunch===
- * Catered from [http://www.twochefsdeli.com Two Chefs] (tnx to Gnoso)
- * DanAbend
-
-===Afternoon===
- * [http://www.coffeeunderground.biz/ Coffee Underground]
- * "big box" goodies again?
- * DanAbend
-
-===Dinner/After Party===
- * Chicora Alley (tnx to Github)
- * BenjaminYoung
+ * beverages
+ * snacks
+ * Barley's pizza
+ * Two Chefs catering
+ * Coffee Underground catering
