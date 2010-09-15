@@ -10,6 +10,9 @@
 
 = Food =
 
+ * ice
+ * plates, cups, napkins, utensils
+
 ==Friday==
 
 ===Morning/Afternoon===
