@@ -4,10 +4,10 @@ about tim williams
 I'm a developer playing the role of an architect lately.  Living just outside Washington, D.C.  When not pretending like an architect, I enjoy solving search problems with Apache Lucene.   
 
 = connections =
-[http://twitter.com/williamstw @williamstw]
-[http://williamstw.blogspot.com]
-[http://people.apache.org/~twilliams/]
+ * [http://twitter.com/williamstw @williamstw]
+ * [http://williamstw.blogspot.com]
+ * [http://people.apache.org/~twilliams/]
 
-= Details =
+= details =
 
 I'll be presenting a 5in5 of some sort - the topic will most surely be a beginner one.  
