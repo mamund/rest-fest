@@ -6,7 +6,7 @@ I first discovered REST way back in 2002 when I stumbled across the REST-discuss
 
 =Proposed Talks=
 
-|| Title ||  TBD ||
-|| Level || Intermediate ||
-|| Abstract || ||
-|| Slides || On the plane ||
+|| _Title_ ||  TBD ||
+|| _Level_ || Intermediate ||
+|| _Abstract_ || ||
+|| _Slides_ || On the plane ||
