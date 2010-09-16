@@ -25,7 +25,7 @@ This is the proposed agenda for the REST-Fest for Fall 2010.
 ||       ||  2:30PM || Afternoon FiveInFive Talks & Breakout Sessions  ||
 ||       ||  5:00AM || Closing Session ('til 5:30PM-ish)            ||
 ||       ||         ||                                        ||
-||       ||  6:30PM || After party (Location?)      ||
+||       ||  6:30PM || After party (Sponsored by Github)      ||
 
 Based on [InitialAgenda]
 
