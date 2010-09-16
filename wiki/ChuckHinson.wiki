@@ -4,7 +4,8 @@ My current employer is Accenture, and I work in their Federal Systems Group writ
 
 I first discovered REST way back in 2002 when I stumbled across the REST-discuss mailing list, though it's only been recently that I've been working on things that allow me to put it into practice.
 
-=Proposed Talks=
+<br>
+==Proposed Talks==
 
 || _Title_ ||  TBD ||
 || _Level_ || Intermediate ||
