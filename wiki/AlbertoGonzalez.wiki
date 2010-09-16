@@ -1,6 +1,5 @@
-#summary About Me for Alberto Gonzalez
+#summary Some details about me
 #labels restfest,algonzalez
- 
 = About Me =
 
 Please call me Al.
@@ -21,6 +20,13 @@ Over the years I've used all of the following as my primary tools for developing
   * PowerBuilder
   * Microsoft .NET (mostly C#)
     ** Windows Forms, ASP.NET MVC and Mobile/PocketPC/CE
+
+I've also dabbled in other just for fun (in no particular order):
+  * [http://www.rapideuphoria.com Euphoria]
+  * Java
+  * PHP
+  * Python
+  * Various BASIC dialects
 
 = Online =
 
