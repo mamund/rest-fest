@@ -4,7 +4,7 @@ You can follow me on Twitter @mr_michael_lee
 
 == Prosposed Talks ==
 
-|| _Title_ || Building Web Apps With a RESTful Foundation Using CouchDB ||
-|| _Level_ || Intermediate, FiveInFive ||
-|| _Abstract_ || My talk will focus on my Simple Bible Reader web application and the underlying CouchDB database that powers it. I will outline the reasons for choosing CouchDB, and give examples of how my app makes use of it's RESTful architecture. My goal is to show the flexibility and ease of development offered by truly RESTful data sources. ||
+|| _Title_ || Building a Two-tier Web App Using CouchDB ||
+|| _Level_ || Beginner, FiveInFive ||
+|| _Abstract_ || My talk will focus on my Simple Bible Reader web application and the underlying CouchDB database that powers it. ||
 || _Slides_ || Coming soon. ||
