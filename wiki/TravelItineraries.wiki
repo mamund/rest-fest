@@ -10,6 +10,9 @@
 || [http://code.google.com/p/rest-fest/wiki/NickPendley NickP ] || Columbus, OH -> [http://gspairport.com/ GSP] || 1:30PM || Continental 8722/2209 ||
 || NickP || GSP -> [http://bit.ly/crALAI Sleep Inn] || 9:30pm || Darrel's Rental Car ||
 || Eric Girard || Montreal -> [http://bit.ly/crALAI Sleep Inn] || 11:00pm || Darrel's Rental Car ||
+|| DavidZuelke || MUC ✈ CLT || 3:35pm || [CLTShuttle] ||
+|| KevBurnsJr || IAH ✈ CLT || 3:49pm || [CLTShuttle] ||
+
 = Friday (Sept. 17) =
 
 || who || where || when || how ||
@@ -25,9 +28,8 @@
 || [http://code.google.com/p/rest-fest/wiki/NickPendley NickP] || [http://bit.ly/crALAI Sleep Inn] -> [http://gspairport.com/ GSP] || 6:15 am || Darrel's Rental Car ||
 || [http://code.google.com/p/rest-fest/wiki/NickPendley NickP] || [http://gspairport.com/ GSP] -> Columbus, OH || 10:55 am || Continental 2008/3351 ||
 || Eric Girard || [http://bit.ly/crALAI Sleep Inn] -> [http://gspairport.com/ GSP] || 6:15 am || Cab! ||
-
-
-
+|| DavidZuelke || CLT ✈ MUC || 5:35pm || [CLTShuttle] ||
+|| KevBurnsJr || CLT ✈ IAH || 6:20pm || [CLTShuttle] ||
 
 = Monday (Sept. 20) =
 
