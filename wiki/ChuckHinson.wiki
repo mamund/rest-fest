@@ -1,6 +1,12 @@
-
 I've been doing software development for (gasp!) over 25 years.  I started with Operating Systems development, moved to embedded systems and avionics (some of the software I wrote runs in the president's helicopter fleet), and then ended up writing software for the web.
 
 My current employer is Accenture, and I work in their Federal Systems Group writing software for the DoD (Army and Air Force lately).  I often pretend to be an architect or technical lead, working mostly with Java, Groovy, Spring and Jersey with a little JavaScript if I'm forced to.
 
 I first discovered REST way back in 2002 when I stumbled across the REST-discuss mailing list, though it's only been recently that I've been working on things that allow me to put it into practice.
+
+=Proposed Talks=
+
+|| Title ||  TBD ||
+|| Level || Intermediate ||
+|| Abstract || ||
+|| Slides || On the plane ||
