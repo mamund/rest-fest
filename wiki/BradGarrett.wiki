@@ -19,6 +19,6 @@
 * [http://wiki.freebase.com/wiki/Main_Page Freebase Wiki] - API driven database, Wikipedia on roids
 * [http://federalgovernmentzipcodes.us/ Free Zipcode Database] - frequently updated
 
-* http://www.mergeweb.com/blog/2010/09/02/need-speed The Need for Speed] - blog post by me, links to other optimization tools
+* [http://www.mergeweb.com/blog/2010/09/02/need-speed The Need for Speed] - blog post by me, links to other optimization tools
 * [http://gadgetopia.com/ Gadgetopia] - one of my fave blogs
 * [http://thinkvitamin.com/ Think Vitamin Blog] - great resource for latest/greatest web apps and tools
