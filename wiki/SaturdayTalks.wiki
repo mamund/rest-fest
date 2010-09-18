@@ -14,11 +14,11 @@
  * ChuckHinson
  * NickPendley
  * MikeAmundsen
- * DanAbend@
- * Barry Jones@
- * DavidZuelke@
- * BradGarrett@
- * Alberto Gonzales@
+ * DanAbend @
+ * BarryJones @
+ * DavidZuelke @
+ * BradGarrett @
+ * AlbertoGonzales @
 
 === Afternoon ExtendedTalk ===
  * KevBurnsJr
@@ -32,8 +32,7 @@
  * ErikMogensen
  * TimWilliams
  * BenjaminYoung
- * Robert Keane@
- * Ryan McAllen@
- * GlennBlock@
- * KevinDees@
-
+ * RobertKeane @
+ * RyanMcAllen @
+ * GlennBlock @
+ * KevinDees @
