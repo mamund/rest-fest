@@ -16,8 +16,9 @@
   * [http://www.opendns.com/support/cache/ OpenDNS Cache Check] - see if IP switch has propagated
   * [http://www.clockingit.com/ Clocking IT] - free hosted project mgmt.
   * [http://code.google.com/apis/ajax/playground/ Google Code Playground] - good times
-  * [http://wiki.freebase.com/wiki/Main_Page Freebase Wiki] - API driven database, Wikipedia on roids
   * [http://federalgovernmentzipcodes.us/ Free Zipcode Database] - frequently updated
+  * [http://wiki.freebase.com/wiki/Main_Page Freebase Wiki] - API driven database, Wikipedia on roids
+  * [http://www.klection.com/ Klection] - app I made w/ Google App Engine and Freebase
 
   * [http://www.mergeweb.com/blog/2010/09/02/need-speed The Need for Speed] - blog post by me, links to other optimization tools
   * [http://gadgetopia.com/ Gadgetopia] - one of my fave blogs
