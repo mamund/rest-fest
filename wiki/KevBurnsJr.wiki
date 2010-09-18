@@ -22,7 +22,7 @@ I also run the IRC logs for #rest and #restfest on Freenode.
 || _Title_ || *Prototyping RESTful Web Services* ||
 || _Level_ || Intermediate, ExtendedTalk ||
 || _Abstract_ || an examination of web service prototypes as architectural artifacts in web service design ||
-|| _Slides_ || Not yet available ||
+|| _Slides_ || https://docs.google.com/present/edit?id=0AS-MeiquufDsZGhweG5nNnFfMzNoaHQyamdjYg&hl=en ||
 
 || _Title_ || *Intro to WebHooks* ||
 || _Level_ || Beginner, FiveInFive||
