@@ -4,7 +4,7 @@ You can follow me on Twitter @mr_michael_lee
 
 == Prosposed Talks ==
 
-|| _Title_ || Building a Two-tier Web App Using CouchDB ||
+|| _Title_ || Thinning The Client With CouchDB: How I Built a Bible Using Javascript ||
 || _Level_ || Beginner, FiveInFive ||
 || _Abstract_ || My talk will focus on my Simple Bible Reader web application and the underlying CouchDB database that powers it. ||
 || _Slides_ || Coming soon. ||
