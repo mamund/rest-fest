@@ -8,17 +8,17 @@
 
 == My "Talk" of Sorts: Stuff You Might Like (tm) ==
 
-[http://api-status.com/ Public API Status] - check uptime/downtime of API's
-[https://www.jungledisk.com/business/server/features/ Jungle Disk Server Edition] - EZ backup
-[http://supportdetails.com/ Support Details] - get clients/users to fill this out first ;)
-[http://www.darkcoding.net/credit-card-numbers/ Credit Cards for Testing] - they're fake but they validate
-[http://streetpc.free.fr/text/ Text Utilities] - stuff to modify and get stats for text
-[http://www.opendns.com/support/cache/ OpenDNS Cache Check] - see if IP switch has propagated
-[http://www.clockingit.com/ Clocking IT] - free hosted project mgmt.
-[http://code.google.com/apis/ajax/playground/ Google Code Playground] - good times
-[http://wiki.freebase.com/wiki/Main_Page Freebase Wiki] - API driven database, Wikipedia on roids
-[http://federalgovernmentzipcodes.us/ Free Zipcode Database] - frequently updated
+* [http://api-status.com/ Public API Status] - check uptime/downtime of API's
+* [https://www.jungledisk.com/business/server/features/ Jungle Disk Server Edition] - EZ backup
+* [http://supportdetails.com/ Support Details] - get clients/users to fill this out first ;)
+* [http://www.darkcoding.net/credit-card-numbers/ Credit Cards for Testing] - they're fake but they validate
+* [http://streetpc.free.fr/text/ Text Utilities] - stuff to modify and get stats for text
+* [http://www.opendns.com/support/cache/ OpenDNS Cache Check] - see if IP switch has propagated
+* [http://www.clockingit.com/ Clocking IT] - free hosted project mgmt.
+* [http://code.google.com/apis/ajax/playground/ Google Code Playground] - good times
+* [http://wiki.freebase.com/wiki/Main_Page Freebase Wiki] - API driven database, Wikipedia on roids
+* [http://federalgovernmentzipcodes.us/ Free Zipcode Database] - frequently updated
 
-http://www.mergeweb.com/blog/2010/09/02/need-speed The Need for Speed] - blog post by me, links to other optimization tools
-[http://gadgetopia.com/ Gadgetopia] - one of my fave blogs
-[http://thinkvitamin.com/ Think Vitamin Blog] - great resource for latest/greatest web apps and tools
+* http://www.mergeweb.com/blog/2010/09/02/need-speed The Need for Speed] - blog post by me, links to other optimization tools
+* [http://gadgetopia.com/ Gadgetopia] - one of my fave blogs
+* [http://thinkvitamin.com/ Think Vitamin Blog] - great resource for latest/greatest web apps and tools
