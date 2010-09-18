@@ -3,11 +3,11 @@
 
 == Saturday Talks ==
 
-=== Morning ExtendedTalk ===
+=== 08:30AM - Morning ExtendedTalk ===
  * DarrelMiller
  * MikeAmundsen
 
-=== Morning FiveInFive ===
+=== 10:00AM - Morning FiveInFive ===
  * ErikMogensen
  * MichaelAllen
  * KevBurnsJr
@@ -20,11 +20,11 @@
  * BradGarrett @
  * AlbertoGonzales @
 
-=== Afternoon ExtendedTalk ===
+=== 01:00PM - Afternoon ExtendedTalk ===
  * KevBurnsJr
  * ErikMogensen
 
-=== Afternoon FiveInFive ===
+=== 02:30PM - Afternoon FiveInFive ===
  * DarrelMiller
  * MikeAmundsen
  * EricGirard
