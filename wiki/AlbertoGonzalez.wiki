@@ -12,6 +12,7 @@ Most of my current projects are Microsoft .NET related including Windows Forms, 
 
 Over the years I've used all of the following as my primary tools for developing business applications:
 
+  * Lotus 1-2-3 Macros
   * dBASE III, FoxPro and later Clipper (Summer '87 and 5.x)
   * Turbo Pascal and C++
   * Microsoft QuickBASIC and PDS
