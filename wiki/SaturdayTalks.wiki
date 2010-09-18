@@ -14,10 +14,10 @@
  * BenjaminYoung
  * NickPendley
  * MikeAmundsen
- * DanAbend @
- * BarryJones @
- * DavidZuelke @
- * BradGarrett @
+ * DanAbend 
+ * BradGarrett 
+ * TimWilliams
+ * DavidZuelke 
  * GlennBlock
 
 === 01:00PM - Afternoon ExtendedTalk ===
@@ -30,10 +30,10 @@
  * EricGirard
  * NickPendley
  * ErikMogensen
- * TimWilliams
  * ChuckHinson
- * RobertKeane @
- * RyanMcAllen @
- * GlennBlock @
- * KevinDees @
- * AlbertoGonzalez @
+ * RobertKeane 
+ * RyanMcAllen 
+ * GlennBlock 
+ * KevinDees 
+ * AlbertoGonzalez 
+ * EricGirard
