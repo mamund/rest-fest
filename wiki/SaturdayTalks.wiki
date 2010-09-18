@@ -19,7 +19,7 @@
  * DavidZuelke @
  * BradGarrett @
  * AlbertoGonzalez @
- * Glenn Block
+ * GlennBlock
 
 === 01:00PM - Afternoon ExtendedTalk ===
  * KevBurnsJr
