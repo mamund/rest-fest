@@ -1,0 +1,29 @@
+#summary Schedule for Saturday Talks
+
+= Saturday Talks =
+
+== Morning ExtendedTalk ==
+ * DarrelMiller
+ * MikeAmundsen
+
+== Morning FiveInFive ==
+ * ErikMogensen
+ * MichaelAllen
+ * KevBurnsJr
+ * ChuckHinson
+ * NickPendley
+ * MikeAmundsen
+
+== Afternoon ExtendedTalk ==
+ * KevBurnsJr
+ * ErikMogensen
+
+== Afternoon FiveInFive ==
+ * DarrelMiller
+ * MikeAmundsen
+ * EricGirard
+ * NickPendley
+ * ErikMogensen
+ * TimWilliams
+ * BenjaminYoung
+
