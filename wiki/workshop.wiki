@@ -1,5 +1,4 @@
 #summary Hypermedia Hacking Workshop
-#labels Featured
 
 = Hypermedia Hacking with Mike Amundsen =
 Presented by [http://amundsen.com/blog Mike Amundsen] ([http://twitter.com/mamund @mamund])
