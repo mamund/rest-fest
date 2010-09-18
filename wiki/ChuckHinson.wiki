@@ -7,7 +7,7 @@ I first discovered REST way back in 2002 when I stumbled across the REST-discuss
 <br>
 ==Proposed Talks==
 
-|| _Title_ ||  TBD ||
-|| _Level_ || Intermediate ||
+|| _Title_ ||  The Cargo Cult of REST||
+|| _Level_ || Beginner||
 || _Abstract_ || ||
-|| _Slides_ || On the plane ||
+|| _Slides_ || https://docs.google.com/present/view?id=dfq8zcp9_79sgxvccfn ||
