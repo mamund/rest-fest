@@ -25,14 +25,14 @@
  * ErikMogensen
 
 === 02:30PM - Afternoon FiveInFive ===
+ * RyanMcAllen 
  * DarrelMiller
  * MikeAmundsen
  * EricGirard
  * NickPendley
- * ErikMogensen
  * ChuckHinson
+ * ErikMogensen
  * RobertKeane 
- * RyanMcAllen 
  * GlennBlock 
  * KevinDees 
  * AlbertoGonzalez 
