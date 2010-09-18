@@ -24,10 +24,10 @@ In short, <b>Nick is a REST novice here to learn about REST and how its principl
 || _Title_ || *There is No Dana, Only XUL* ||
 || _Level_ || Beginner, FiveInFive ||
 || _Abstract_ || A high level overview of [https://developer.mozilla.org/en/xul XUL], its usage scenarios, and lessons learned from three years of XUL application development.  ||
-|| _Slides_ || Not yet available ||
+|| _Slides_ || [https://docs.google.com/leaf?id=0BxiuO8rsJVX7M2YyZjNmM2UtYzY2Ni00ZTU1LWI2MWUtZGY0ZjEwZWIwNTMy&hl=en | Here] ||
 
 
 || _Title_ || *Case Study: Can REST Rescue Gideon? ||
 || _Level_ || Beginner, FiveInFive ||
 || _Abstract_ || A high level overview of Gideon, the application server I helped develop and how I (a REST novice) think that REST can redeem it from its weaknesses.  It may not be very educational for you but it will explain why I am asking so many questions and it will likely surface the knowledge gaps I have.   ||
-|| _Slides_ || Not yet available ||
+|| _Slides_ || [https://docs.google.com/gview?a=v&pid=explorer&chrome=true&api=true&srcid=0BxiuO8rsJVX7ZjYyZjg4MGUtZGYxMS00MGQyLTg2ZjEtMTU5ZGQ0NGEyYjFk&hl=en | Here] ||
