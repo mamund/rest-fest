@@ -18,7 +18,6 @@
  * BarryJones @
  * DavidZuelke @
  * BradGarrett @
- * AlbertoGonzalez @
  * GlennBlock
 
 === 01:00PM - Afternoon ExtendedTalk ===
@@ -37,3 +36,4 @@
  * RyanMcAllen @
  * GlennBlock @
  * KevinDees @
+ * AlbertoGonzalez @
