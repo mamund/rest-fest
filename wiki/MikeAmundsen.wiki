@@ -33,7 +33,7 @@ Mike Amundsen travels throughout the United States and Europe speaking and teach
 || _Title_ || *Five Heroes: People from the 20th century who inspire me* ||
 || _Level_ || NA, FiveInFive ||
 || _Abstract_ || Where I identify five people who inspire my work and invite others to do the same. Three from the Web, an architect, and a mathematician.||
-|| _Slides_ || [https://docs.google.com/present/view?id=dd4bk538_143cz8t9sf7 slides] ||
+|| _Slides_ || [https://docs.google.com/present/view?id=dd4bk538_143cz8t9sf7 slides] [http://www.ustream.tv/recorded/9660740 video] ||
 || _Supplemental_ || [http://www.youtube.com/watch?v=fDdPuCsOLaQ "I Need a Hero" with the Cebu Dancing Prisoners] ||
 
 || _Title_ || *All About EVE: Extensibility, Versioning, Evolvability, etc. through Modifiability* ||
