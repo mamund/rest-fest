@@ -40,7 +40,7 @@ Mike Amundsen travels throughout the United States and Europe speaking and teach
 || _Level_ || Advanced, ExtendedTalk ||
 || _Abstract_ || Fielding's dissertation points out a number of "Architectural Properties of Key Interest" (sec 2.3). One of these is "Modifiability" (sec 2.3.4) which is broken down into _Evolvability_, _Extensibility_, _Customizability_, _Configurability_, and _Reusability_. This talk reviews these "abilities" and identifies examples and strategies for achieving modifiability for distributed network applications. ||
 || _Supplemental_ || [http://www.youtube.com/watch?v=Eg-ckMup6SI All About Eve - Bumpy Night] ||
-|| _Slides_ || Not yet available ||
+|| _Slides_ || [https://docs.google.com/present/view?id=dd4bk538_164dgj63fth Slides] [http://www.ustream.tv/recorded/9653449 Video] (enjoy the feedback!) ||
 
 
 </td>
