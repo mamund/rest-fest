@@ -27,16 +27,19 @@ Mogsie (as he's more commonly known) freely admits that his knowledge of REST [h
 || _Title_ || *Ditch your complex clients, become RESTful* ||
 || _Level_ || Advanced, ExtendedTalk ||
 || _Abstract_ || I will talk about our experiences with replacing an RPC based client to a  RESTful client. The presentation will cover the lessons learned in designing the client, and how embracing the hypermedia constraint has influenced the design of the client.  You will not NOT learn anything about the jungle of RESTful frameworks, as they are only tools to get the job done. You will learn about how the most important principle of REST (the hypermedia constraint) and how it affects client side programming.  ||
+|| _Video_ || http://www.ustream.tv/recorded/9658834 ||
 || _Slides_ || Not yet available ||
 
 
 || _Title_ || *Extremely large lists* ||
 || _Level_ || Intermediate, FiveInFive ||
 || _Abstract_ || I'll walk you through a design for _a sequence of items_ which must allow for a large number of items, multiple concurrent users editing the list concurrently, stale client views, no locking, and no conflicts. ||
+|| _Video_ || http://www.ustream.tv/recorded/9662056 ||
 || _Slides_ || Not yet available ||
 
 
 || _Title_ || *Observable pattern in REST* ||
 || _Level_ || Intermediate, FiveInFive ||
 || _Abstract_ || I'll show you how we chose to replace Observable (typical event notification) with a RESTful alternative.  The end product was a lot more fault tolerant and a lot less coupled than the typical in-process solution. ||
+|| _Video_ || http://www.ustream.tv/recorded/9654336 ||
 || _Slides_ || Not yet available ||
