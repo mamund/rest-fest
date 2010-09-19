@@ -12,7 +12,6 @@
 || Eric Girard || Montreal -> [http://bit.ly/crALAI Sleep Inn] || 11:00pm || Darrel's Rental Car ||
 || DavidZuelke || MUC ✈ CLT || 3:35pm || [CLTShuttle] ||
 || KevBurnsJr || IAH ✈ CLT || 3:49pm || [CLTShuttle] ||
-|| ChuckHinson || GSP ✈ EWR || 10:20am || Taxi ||
 = Friday (Sept. 17) =
 
 || who || where || when || how ||
@@ -30,6 +29,7 @@
 || Eric Girard || [http://bit.ly/crALAI Sleep Inn] -> [http://gspairport.com/ GSP] || 6:15 am || Cab! ||
 || DavidZuelke || CLT ✈ MUC || 5:35pm || [CLTShuttle] ||
 || KevBurnsJr || CLT ✈ IAH || 6:20pm || [CLTShuttle] ||
+|| ChuckHinson || GSP ✈ EWR || 10:20am || Taxi ||
 
 = Monday (Sept. 20) =
 
