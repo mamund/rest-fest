@@ -27,14 +27,14 @@ Mike Amundsen travels throughout the United States and Europe speaking and teach
 || _Title_ || *Hiding the SOAP: A simple approach to writing an HTTP proxy for SOAP Services* ||
 || _Level_ || Beginner/Intermediate, FiveInFive ||
 || _Abstract_ || Sometimes you must integrate your HTTP/REST app w/ third party services that expose their data only via SOAP calls. This talk shows a simple, effective way to create an HTTP-compliant proxy to do the dirty work of interacting w/ a SOAP endpoint. ||
-|| _Slides_ || [https://docs.google.com/present/view?id=dd4bk538_149cz2d6vcp Slides] [http://www.ustream.tv/recorded/9655176 Video]||
 || _Supplemental_ || [http://www.youtube.com/watch?v=v_-jAbWwjg4 A Purolator Purism on Scented Soap] ||
+|| _Slides_ || [https://docs.google.com/present/view?id=dd4bk538_149cz2d6vcp Slides] [http://www.ustream.tv/recorded/9655176 Video]||
 
 || _Title_ || *Five Heroes: People from the 20th century who inspire me* ||
 || _Level_ || NA, FiveInFive ||
 || _Abstract_ || Where I identify five people who inspire my work and invite others to do the same. Three from the Web, an architect, and a mathematician.||
-|| _Slides_ || [https://docs.google.com/present/view?id=dd4bk538_143cz8t9sf7 Slides] [http://www.ustream.tv/recorded/9660740 Video] ||
 || _Supplemental_ || [http://www.youtube.com/watch?v=fDdPuCsOLaQ "I Need a Hero" with the Cebu Dancing Prisoners] ||
+|| _Slides_ || [https://docs.google.com/present/view?id=dd4bk538_143cz8t9sf7 Slides] [http://www.ustream.tv/recorded/9660740 Video] ||
 
 || _Title_ || *All About EVE: Extensibility, Versioning, Evolvability, etc. through Modifiability* ||
 || _Level_ || Advanced, ExtendedTalk ||
