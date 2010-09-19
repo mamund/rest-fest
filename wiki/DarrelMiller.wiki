@@ -24,7 +24,7 @@
 || _Title_ || *application/vnd.tavis.commandlist+xml - Partial updates via commands* ||
 || _Level_ || Intermediate, FiveInFive ||
 || _Abstract_ ||<p>PUT works great when you are updating files and images.  It is not so easy to use when you are updating shared resources stored in a relational database.  </p><p>This talk will introduce the notion of using a list of commands to perform partial and transient updates.  I cover issues like validation, progressive disclosure, error handling and undo/redo.</p> <p>I will also attempt to justify why I believe this is not just another way to tunnel RPC over HTTP.</p>||
-|| _Slides_ || Not yet available ||
+|| _Slides_ || http://prezi.com/6qscnub1dt_7/restfest-eventlist-media-type/ ||
 
 || _Title_ || *Building hypermedia driven clients on Windows* ||
 || _Level_ || Intermediate, ExtendedTalk ||
