@@ -15,7 +15,7 @@
 </table>
 
 
-===Proposed Talks===
+===Proposed Talk===
 || _Title_ || *Your Presentations Suck! Why NO ONE will remember anything you say!* ||
 || _Level_ || Basic, FiveInFive ||
 || _Abstract_ ||<p>How to be a better presenter...Make 'em care, then they'll ask you how to do what you've done and they'll be begging for your code! We're human...not machines! You have too much to offer to be ignored or forgotten!</p>||
