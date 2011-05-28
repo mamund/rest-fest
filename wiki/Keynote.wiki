@@ -1,0 +1,6 @@
+#summary Keynote for this year's RESTFest
+
+= Introduction =
+
+Nothing settled yet. Have ideas? Post them here or on the mailing list
+
