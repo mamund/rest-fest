@@ -6,7 +6,7 @@
   * Food
     * [HackDay] (Breakfast, Lunch, Dinner, Snacks)
     * [workshop Workshop] (Breakfast, Lunch, Dinner, Snacks)
-    * [Talks] (Breakfast, Lunch, Dinner, Snacks)
+    * [SaturdayTalks Talks] (Breakfast, Lunch, Dinner, Snacks)
   * [workshop Workshop] speaker sponsorship (Travel & Lodging)
   * [Keynote] speaker sponsorship (Travel & Lodging)
   * [ClosingCelebration Closing Celebration]
