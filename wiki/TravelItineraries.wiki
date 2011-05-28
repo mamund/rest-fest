@@ -1,7 +1,12 @@
 #summary Add you're travel schedule here to get some help on car pooling, meet-ups, etc.
 #labels Featured
 
-= Thursday (Sept. 16) =
+= 2011 Travel Itineraries =
+Add your travel details here to help co-ordinate hotels, rides, and other details.
+
+= 2010 Travel Itineraries =
+
+== Thursday (Sept. 16) ==
 
 || who || where || when || how ||
 || Darrel || Montreal -> [http://www.burlingtonintlairport.com/ BVT] || 1:30 pm || Car ||
@@ -12,15 +17,15 @@
 || Eric Girard || Montreal -> [http://bit.ly/crALAI Sleep Inn] || 11:00pm || Darrel's Rental Car ||
 || DavidZuelke || MUC ✈ CLT || 3:35pm || [CLTShuttle] ||
 || KevBurnsJr || IAH ✈ CLT || 3:49pm || [CLTShuttle] ||
-= Friday (Sept. 17) =
+== Friday (Sept. 17) ==
 
 || who || where || when || how ||
 
-= Saturday (Sept. 18) =
+== Saturday (Sept. 18) ==
 
 || who || where || when || how ||
 
-= Sunday (Sept. 19) =
+== Sunday (Sept. 19) ==
 
 || who || where || when || how ||
 || [http://code.google.com/p/rest-fest/wiki/DarrelMiller Darrel] || [http://bit.ly/crALAI Sleep Inn] -> [http://gspairport.com/ GSP] || 6:15 am || Rental Car ||
