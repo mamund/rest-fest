@@ -5,11 +5,10 @@
  * Close On [Venue] (done?)
  * Settle HackDay (started)
  * Line up [workshop Workshop] Details
- * Set Up EventBrite (done)
+ * Set Up [http://restfest2011.eventbrite.com/ EventBrite] (done)
  * Work up [SponsorItems]
  * Line up [Sponsors]
  * Call for [People Attendees]
  * Line up [Food]
  * Work up final [Agenda]
  * Numerous [DayOf] Details
- 
