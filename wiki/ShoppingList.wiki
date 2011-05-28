@@ -1,18 +1,25 @@
 #summary Shopping list of things we'll need/want for REST Fest
 #labels expenses,sponsorship,venue
 
-= Venue =
+= 2011 Shopping =
+Not Yet Available
+
+----
+
+= 2010 Shopping =
+
+== Venue ==
 
  * $15 per hour for Utilities
  * $25 for "programming" lights/power (scheduling basically)
  * $200-ish for cleanup
 
-= Conference =
+== Conference ==
 
  * name tags
  * markers
 
-= Food =
+== Food ==
 
  * ice
  * plates, cups, napkins, utensils
@@ -23,4 +30,4 @@
  * Coffee Underground catering
  * Simply Espresso, LLC
 
-= After Party =
+== After Party ==
