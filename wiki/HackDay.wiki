@@ -1,0 +1,8 @@
+#summary Hack Day Details.
+
+= Details =
+
+Add your ideas here.  
+  * [http://amundsen.com/hypermedia/profiles/ ALPS Project] Hacking (MikeAmundsen)
+  * Charity Project?
+  * Other Ideas?
