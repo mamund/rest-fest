@@ -4,7 +4,33 @@
 = Official Agenda =
 
 == 2011 Agenda ==
-Not Yet Available
+All details are tentative(mca).
+
+|| *Day* ||  *Time*  || *Activity*                             ||
+||  Thu  || 8AM-5PM  || Hackday  ||
+||       || 8AM-Noon || *ALPS Project w/ Mike Amundsen* [ALPS Details] ||
+||       || Noon     || Lunch Break ||
+||       || 1PM-5PM  || Other Hack Stuff (???)  ||
+||       ||          ||   ||
+||       || 7PM-???  || Evening Activity (Music, Show, etc.)? ||
+||  Fri  || 7:30AM   || Workshop Check-in & Coffee ||
+||  Fri  || 8AM-5PM  || Cool Workshop (???) ||
+||       ||  6:30PM  || Additional Check-in Time                          ||
+||       ||  7:00PM  || Welcome & Opening Remarks      ||
+||       ||  7:30PM  || Keynote (???)         ||
+||       ||  8:30PM  || Espresso and General Socializing ('til 10-ish)       ||
+||  Sat  || 8AM-5PM  || *Hack Rooms open all day*              ||
+||       ||          ||                                        ||
+||       ||  8:00AM  || Morning Coffee           ||
+||       ||  8:30AM  || Session Speakers (ExtendedTalk)           ||
+||       || 10:00AM  || Morning FiveInFive Talks & Breakout Sessions   ||
+||       ||    Noon  || Lunch break                 ||
+||       ||          ||                                        ||
+||       ||  1:00PM  || Session Speakers (ExtendedTalk)           ||
+||       ||  2:30PM  || Afternoon FiveInFive Talks & Breakout Sessions  ||
+||       ||  5:00AM  || Closing Session ('til 5:30PM-ish)            ||
+||       ||          ||                                        ||
+||       ||  6:30PM  || After party       ||
 
 ----
 
