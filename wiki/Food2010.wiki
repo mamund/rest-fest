@@ -1,0 +1,66 @@
+#summary Food Info for the Event
+
+= 2011 Food =
+
+We're working on food options for the event. Updates will appear here.
+
+----
+
+= 2010 Food Details =
+
+= Special Meal Requests =
+If you have any meal requirements (Kosher, Halal, Vegitarian, Vegan, etc.) please post your name and you preference here.
+
+ * MikeAmundsen: Vegetarian (Dairy is OK)
+ * BenjaminYoung: no preferences...other than tasty
+ * TimWilliams: India Pale Ale (IPAs)
+
+----
+=Schedule=
+
+==Beverages==
+ * coffee {BenjaminYoung}
+ * soft drinks {DanAbend}
+ * bottled water {DanAbend}
+
+==Friday==
+
+===Morning (10am)===
+ * Goodies
+ * {DanAbend}
+
+===Lunch (Noon)===
+ * Pizza from [http://www.barleysgville.com/ Barley's Taproom] - _1 Cheese, 1 Pepperoni, 1 Bacon, 1 Sausage, 1 Veggie_
+ * {DanAbend}
+
+===Afternoon Break (2:30pm)===
+ * Goodies
+ * {DanAbend}
+
+===Dinner (?)===
+ * ad hoc -- we've got 1.5 hours to get downtown (or nearby), eat, and be back for the main event
+ * (everyone)
+
+===Evening===
+ * [http://www.facebook.com/pages/Greenville-SC/Simply-Espresso-LLC/196126521258?v=info&ref=ts#!/pages/Greenville-SC/Simply-Espresso-LLC/196126521258?v=wall&ref=ts Simply Espresso, LLC] espresso bar (tnx to Telerik)
+ * {BenjaminYoung}
+
+==Saturday==
+
+===Morning (10am)===
+ * Pastry selection from [http://www.coffeeunderground.biz/ Coffee Underground]
+ * {BenjaminYoung}
+
+===Lunch (Noon)===
+ * Catered from [http://www.strossners.com Strossners] (tnx to Gnoso)
+ * {DanAbend}
+
+===Afternoon (2:30pm)===
+ * Fruitsicle's - _strawberry, pina colada, lemon_
+ * {BenjaminYoung}
+ * Goodies
+ * {DanAbend}
+
+===Dinner/After Party===
+ * Chicora Alley (tnx to Github)
+ * {BenjaminYoung}
