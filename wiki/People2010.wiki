@@ -1,5 +1,4 @@
 #summary People attending REST Fest 2010.
-#labels Featured
 
 = 2010 Attendees =
 

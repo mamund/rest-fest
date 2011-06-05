@@ -1,4 +1,5 @@
 #summary Hypermedia Hacking Workshop
+#labels Featured
 
 = 2011 Workshop Ideas =
 Add your ideas here.
@@ -25,4 +26,4 @@ We will discuss when middleware should perform actions in the request path versu
 
 ----
 
-Check out last year's [workshop2010] details.
+[workshop2010]

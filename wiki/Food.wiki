@@ -51,7 +51,7 @@ If you have any meal requirements (Kosher, Halal, Vegitarian, Vegan, etc.) pleas
  * Esspresso Bar?
  * Wine/Beer?
 
-==Saturday ([Agenda])==
+==Saturday ([SaturdayTalks])==
 
 ===Morning (10am)===
  * Pastry selection
@@ -69,4 +69,4 @@ If you have any meal requirements (Kosher, Halal, Vegitarian, Vegan, etc.) pleas
 
 ----
 
-Check out last year's details: [Food2010]
+[Food2010]
