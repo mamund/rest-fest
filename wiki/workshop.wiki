@@ -1,60 +1,29 @@
 #summary Hypermedia Hacking Workshop
 
-= 2011 Workshop =
-Not Yet Available
+= 2011 Workshop Ideas =
+Add your ideas here.
+
+==RESTFest Workshop (1/2 day)==
+====A smorgasbord of HTTP middleware====
+
+*Darrel Miller*
+
+ 
+A common question amongst newcomers to REST is what frameworks are available to simplify the development of my RESTful application.  REST, being an architectural style as opposed to some precise specification does not lend itself to the “one size fits all” style of framework.  However, being a layered architecture it does enable the use of “middleware” aka intermediary components that sit between the client and the origin server.  There are a number of frameworks and standards that have popped up that support this kind of layered plugin mechanism.  In Ruby the most well know is Rack, in Python there exists WSGI and in the .net world the new WCF Web APIs have the concept of HttpMessageHandlers which perform a similar role.
+ 
+This workshop will be an opportunity for participants to explore the world of pluggable reusable components that can go a long way to reducing the effort needed to build a fully functional application.  We will consider the types of features that can and cannot be added in this layered manner and we will review a number of existing middleware components.  Attendees are encouraged to bring examples of their own that they have used or are interested in using.  This workshop will be as platform agnostic as possible and completely HTTP focused.
+ 
+Examples of the types of middleware components that we will be discussing include,
+ 
+ * Request Logging
+ * Rate Limiting
+ * API Key validation
+ * Cache control optimization
+ * Esoteric methods like TRACE and HEAD
+ * Etag generation
+ 
+We will discuss when middleware should perform actions in the request path versus response path and issues such as sequencing of components, exception handling, performance and threading.  This workshop is intended to be a guided opportunity for participants to share their knowledge and learn from fellow developers.  Bring your war stories of components that have blown up in your face and ones that saved your bacon when your site got slashdotted.
 
 ----
 
-= 2010 Workshop =
-= Hypermedia Hacking with Mike Amundsen =
-Presented by [http://amundsen.com/blog Mike Amundsen] ([http://twitter.com/mamund @mamund])
-
-==Hypermedia Engines: A Reasonable Alternative to Web APIs==
-===A One-Day Workshop===
-Friday, September 17th, 2010 : 
-NEXT Innovation Center, Greenville, SC
-
-Presented in conjunction with REST Fest 2010
-
-===The Problem==
-With the explosion of data available on the Web, there has also been a marked increase in the number of "Web APIs" developers must deal with in order to access the data. These Web APIs almost always require consumers to write custom code in order to access the data. Some even invent their own authentication and authorization schemes that require additional development effort before the data is available for end users. The result is that every new set of data requires a new set of code; in effect, a custom client for each data set.
-
-*_This is not how the Web was envisioned._*
-
-===The Solution===
-Instead of publishing limited implementations that only support reading and writing raw data in simple formats such as XML and JSON, this workshop shows how you can craft rich payloads that include not just data, but also the application controls appropriate for the content; including the ability to search, sort, filter, and update data on the server. This hypermedia approach allows publishers to focus on returning the proper data and application controls to the client in each response and allows client applications to focus on understanding the hypermedia controls provided in the response instead of being required to map custom code to each service provider and data source.
-
-===The Workshop===
-In this one-day workshop, attendees will learn how to implement an alternative to one-off Web APIs using Hypermedia Engines. Topics covered include:
-
- * Hypermedia Past and Present
- * Nine Essential Hypermedia Factors
- * Selecting the Proper Data Format
- * Adding Hypermedia Application Controls to your Responses
- * Binding Protocol Methods to your Hypermedia Controls
- * Serving Up your Hypermedia
- * Writing Clients that Understand your Hypermedia
- * Documenting your Hypermedia
- * and more...
-
-The all-day session includes a mix of presentation, discussion, and hands-on implementation. Attendees are encouraged to bring laptops and "code-along" with supplied examples throughout the day. Whether you want to focus on general Hypermedia design, server implementation details, or coding hypermedia clients, this workshop will provide lots of examples and food for thought.
-
-*_If you are responsible for designing and/or implementing "Web APIs" this workshop is for you._*
-
-===Reviews===
-Here's what recent participants in Mike Amundsen's talks had to say:
- * "His was clearly the best session of the entire conference."
- * "Presentation was no-nonsense. Almost every example had immediate applicability."
- * "An intellectual heaveyweight. Not only does he know his stuff, but he really knows how to present it and he conveys his enthusian well."
- * "Truly educational. Mike Amundsen was a wonderful teacher."
-
-*_Seats are limited and will be awarded on a first-come, first-served basis._*
-
-===Schedule===
-7:00AM to 8:00AM - Sign-in
-8:00AM to Noon - Morning Session
-Noon to 1:00PM - Break
-1:00PM to 5:00PM - Afternoon Session
-
-*NOTE:*
-Drinks and snacks will be provided throughout the day. 
+Check out last year's [workshop2010] details.
