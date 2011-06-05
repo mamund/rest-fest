@@ -4,9 +4,7 @@
 Add your ideas here.
 
 ==RESTFest Workshop (1/2 day)==
-====A smorgasbord of HTTP middleware====
-
-*Darrel Miller*
+====A smorgasbord of HTTP middleware w/Darrel Miller====
 
  
 A common question amongst newcomers to REST is what frameworks are available to simplify the development of my RESTful application.  REST, being an architectural style as opposed to some precise specification does not lend itself to the “one size fits all” style of framework.  However, being a layered architecture it does enable the use of “middleware” aka intermediary components that sit between the client and the origin server.  There are a number of frameworks and standards that have popped up that support this kind of layered plugin mechanism.  In Ruby the most well know is Rack, in Python there exists WSGI and in the .net world the new WCF Web APIs have the concept of HttpMessageHandlers which perform a similar role.
