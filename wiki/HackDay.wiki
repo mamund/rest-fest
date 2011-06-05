@@ -9,7 +9,7 @@ Add your ideas here.
 ==RESTFest Hackathon==
 *The ALPS microblogging interop challenge*
  
-For this hackday attendees are encouraged to explore the [[http://amundsen.com/hypermedia/profiles/ ALPS microblogging specification] and create a client or server using their favourite language/framework.  Attendees can bring along their clients and/or server to try and talk to other attendee’s clients/servers.  
+For this hackday attendees are encouraged to explore the [http://amundsen.com/hypermedia/profiles/ ALPS microblogging specification] and create a client or server using their favourite language/framework.  Attendees can bring along their clients and/or server to try and talk to other attendee's clients/servers.  
 
 Some of the objectives of this experiment are: 
  * Demonstrate the effectiveness of this type of documentation for describing REST services.  We regularly hear the question "how do I document a REST api?".  This would demonstrate the effectiveness of the ALPS style of documentation that explicitly avoids naming URLs and resources.
