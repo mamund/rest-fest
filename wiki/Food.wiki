@@ -2,8 +2,71 @@
 
 = 2011 Food =
 
-We're working on food options for the event. Updates will appear here.
+Below is a rough outline of the possible food schedule for 2011
+
+= Special Meal Requests =
+If you have any meal requirements (Kosher, Halal, Vegitarian, Vegan, etc.) please post your name and you preference here.
+
+ * MikeAmundsen: Vegetarian (Dairy is OK)
+ * BenjaminYoung: no preferences...other than tasty
+ * TimWilliams: India Pale Ale (IPAs)
+
+----
+=Schedule=
+
+==Beverages (available throught all days)== 
+ * coffee
+ * soft drinks
+ * bottled water
+
+== Thursday ([HackDay]) ==
+
+===Morning (10am)===
+ * Goodies
+
+=== Lunch (Noon) ===
+ * Cold sandwich tray??
+
+===Afternoon Break (2:30pm)===
+ * Goodies
+
+===Dinner===
+ * ad hoc
+  
+==Friday ([workshop])==
+
+===Morning (10am)===
+ * Goodies
+
+===Lunch (Noon)===
+ * Pizza??
+
+===Afternoon Break (2:30pm)===
+ * Goodies
+
+===Dinner===
+ * ad hoc
+
+===Evening (after Keynote)===
+ * Esspresso Bar?
+ * Wine/Beer?
+
+==Saturday ([Talks])==
+
+===Morning (10am)===
+ * Pastry selection
+
+===Lunch (Noon)===
+ * Catered??
+
+===Afternoon (2:30pm)===
+ * Ice cream?
+
+ * Goodies
+
+===Dinner/After Party===
+ * ???
 
 ----
 
-[Food2010]
+Check out last year's details: [Food2010]
