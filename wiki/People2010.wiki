@@ -1,0 +1,26 @@
+#summary People attending REST Fest 2010.
+#labels Featured
+
+= 2010 Attendees =
+
+[http://www.zeemaps.com/map?group=180409&x=-95.712891&y=37.090240&z=14 Attendee Map]
+
+ * [DanAbend]
+ * [MichaelAllen]
+ * [MikeAmundsen]
+ * [GlennBlock]
+ * [KevBurnsJr]
+ * [KevinDees]
+ * [BradGarrett]
+ * [EricGirard]
+ * [AlbertoGonzalez]
+ * [ChuckHinson]
+ * [BarryJones]
+ * [RobertKeane]
+ * [RyanMcAllen]
+ * [DarrelMiller]
+ * [ErikMogensen]
+ * [NickPendley]
+ * [TimWilliams]
+ * [BenjaminYoung]
+ * [DavidZuelke]
