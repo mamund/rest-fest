@@ -4,8 +4,7 @@
 = 2011 Workshop Ideas =
 Add your ideas here.
 
-==RESTFest Workshop (1/2 day)==
-===A smorgasbord of HTTP middleware===
+==A smorgasbord of HTTP middleware (1/2 day)==
 Presented by [DarrelMiller]
  
 
@@ -23,6 +22,20 @@ Examples of the types of middleware components that we will be discussing includ
  * Etag generation
  
 We will discuss when middleware should perform actions in the request path versus response path and issues such as sequencing of components, exception handling, performance and threading.  This workshop is intended to be a guided opportunity for participants to share their knowledge and learn from fellow developers.  Bring your war stories of components that have blown up in your face and ones that saved your bacon when your site got slashdotted.
+
+==Link Relations: An Overview (1/2 day)==
+an idea...
+
+Cover
+ * Web Linking RFC [http://tools.ietf.org/html/rfc5988 5988]
+ * HTML5 Link Relations (http://blog.whatwg.org/the-road-to-html-5-link-relations)
+ * IANA Link Relations Registry (http://www.iana.org/assignments/link-relations/link-relations.xml)
+ * Microformats (http://microformats.org/wiki/existing-rel-values)
+ * paramsr.us (http://paramsr.us/link-relation-types/)
+
+Lots of opportunities here...
+
+
 
 ----
 
