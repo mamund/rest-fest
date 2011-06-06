@@ -12,3 +12,11 @@
   * [ClosingCelebration Closing Celebration]
   * Signage, supplies
   * Attendee gift bags
+
+=== Sponsor Levels ===
+
+  * Partner ($1000+)
+  * Gold ($750-$1000)
+  * Silver ($500-$750)
+  * Bronze ($250-$500)
+  * Participating (<$250)
