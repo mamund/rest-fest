@@ -24,4 +24,8 @@ As a follow-up to this process, we will have the opportunity for authors of the 
 It is rare that we get the chance to see somebody implement almost the same thing we have done but in a different language or on a different platform.  It would provide an excellent basis for comparison. 
  
 Hackday is an opportunity to write some code, read some code, test some code and learn a whole lot in the process and leave with a better understand of what does and does not work in the real world.
+
+==== Nerd Merit Badges for All HackDay Attendees? ====
+[BenjaminYoung] post this in the IRC channel today (07-Jun). Maybe we should offer these to all HackDay attendees that build a successful client and/or server!
+
  
