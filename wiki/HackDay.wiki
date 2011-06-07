@@ -11,7 +11,18 @@ Add your ideas here.
 ===The ALPS microblogging interop challenge===
 Presented by [MikeAmundsen]
 
+====Agenda====
+ * 08:00-09:00 - Check-in and coffee
+ * 09:00-10:00 - Overview Presentation of ALPS ([MikeAmundsen])
+ * 10:00-12:00 - General Hacking and Sharing of attendees' code
+ * 12:00-01:00 - Lunch
+ * 01:00-03:00 - More Hacking and Sharing Session
+ * 03:00-03:30 - Snack Break
+ * 03:30-04:30 - Final Hacking and Sharing Session
+ * 04:30-05:00 - Closing Remarks and Summary ([MikeAmundsen])
+ * 05:00-????? - Hacking, Socializing, and other fun stuff 
 
+====Description====
 For this hackday attendees are encouraged to explore the [http://amundsen.com/hypermedia/profiles/ ALPS microblogging specification] and create a client or server using their favourite language/framework.  Attendees can bring along their clients and/or server to try and talk to other attendee's clients/servers.  
 
 Some of the objectives of this experiment are: 
