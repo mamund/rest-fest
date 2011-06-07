@@ -26,6 +26,6 @@ It is rare that we get the chance to see somebody implement almost the same thin
 Hackday is an opportunity to write some code, read some code, test some code and learn a whole lot in the process and leave with a better understand of what does and does not work in the real world.
 
 ==== Nerd Merit Badges for All HackDay Attendees? ====
-[BenjaminYoung] post this in the IRC channel today (07-Jun). Maybe we should offer these to all HackDay attendees that build a successful client and/or server!
+[BenjaminYoung] post [http://shop.github.com/products/open-source-nerd-merit-badge this] in the IRC channel today (07-Jun). Maybe we should offer these to all HackDay attendees that build a successful client and/or server!
 
  
