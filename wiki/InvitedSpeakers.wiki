@@ -21,6 +21,5 @@ Here are some possible names for the InvitedSpeakers list:
   * JonMoore
   * StuCharlton
   * MichaelHausenblas
-  * MikeKelly
   * IanSRobinson
   * SebastianLamba
