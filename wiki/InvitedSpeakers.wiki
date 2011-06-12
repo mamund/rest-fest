@@ -1,8 +1,8 @@
-#summary People we should consider for ExtendedTalks slots
+#summary People we should consider for an ExtendedTalk slot
 
 = Invited Speakers =
 
-Last year we had a handful of 30min talks for [ExtendedTalks]. One thought is to reach out to a handful of folks this year and invite them to offer a talk for one of these slots. This has a potential to bring some really talented/interesting folks to the event and create some interaction between these speakers and the attendees.
+Last year we had a handful of 30min talks for an [ExtendedTalk]. One thought is to reach out to a handful of folks this year and invite them to offer a talk for one of these slots. This has a potential to bring some really talented/interesting folks to the event and create some interaction between these speakers and the attendees.
 
 Another goal of this idea is to attract 'new' thinking and ideas to the event and offer key folks a chance to talk on more speculative topics, try out new material, etc. Hopefully, this can be a kind of 'new idea' space for our community.
 
