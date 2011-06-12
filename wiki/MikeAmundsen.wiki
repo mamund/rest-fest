@@ -23,11 +23,11 @@ An internationally known author and lecturer, Mike Amundsen travels throughout t
 </table>
 
 ===Proposed Talks===
-|| _Title_ || ||
-|| _Level_ || ||
-|| _Abstract_ ||. ||
-|| _Supplemental_ || ||
-|| _Slides_ || ||
+|| _Title_ || Four Simple Steps to Building a Hypermedia API ||
+|| _Level_ || Intermediate ||
+|| _Abstract_ || Don't let anyone fool you, creating successful  hypermedia APIs is not complicated; it just takes a bit of planning and a dedicated effort. This talk will outline four simple steps you can follow in order to design and document a successful hypermedia API.||
+|| _Supplemental_ || TBA ||
+|| _Slides_ || TBA  ||
 
 </td>
 </tr>
