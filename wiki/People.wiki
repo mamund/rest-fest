@@ -7,6 +7,9 @@ Add a link to your wiki page here!
  * [MikeAmundsen]
  * [DarrelMiller]
  * [KevBurnsJr]
+ * [SubbuAllamarju]
+ * [RandallThombaugh]
+ * [JonMoore]
 ----
 
 [People2010]
