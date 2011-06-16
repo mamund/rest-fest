@@ -12,3 +12,4 @@
  * Line up [Food]
  * Work up final [Agenda]
  * Numerous [DayOf] Details
+ * [AttendeeWelcome] Message
