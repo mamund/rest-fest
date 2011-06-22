@@ -4,10 +4,10 @@
 
 Some things we can tweet about in the run-up to the big event!
   * JonMoore Keynote
-  * SubbuAllamaraju ("Stop Measuring REST")
+  * SubbuAllamarju ("Stop Measuring REST")
   * HackDay (ALPS project)
   * Workshop (Middleware and Link Relations)
-  * Tombaugh (WCF Web API?)
+  * RandallTombaugh (WCF Web API?)
   * Sponsors 
     * CouchBase
     * Github ??
