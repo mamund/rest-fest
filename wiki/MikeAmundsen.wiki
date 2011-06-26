@@ -25,9 +25,10 @@ An internationally known author and lecturer, Mike Amundsen travels throughout t
 ===Proposed Talks===
 || _Title_ || Fielding Property Maps : A Hypermedia Pattern for Resource Metadata ||
 || _Level_ || Intermediate ||
-|| _ Abstract_ || This talk demonstrates an HTTP resource update pattern based on an idea by Roy Fielding. Fielding once described a way to expose and manipulate a set of properties for a resource using a URI convention (similar to that used for HTML image maps) where appending ;props to a resource URI would allow clients to access any available properties for that resource. ||
+|| _ Abstract_ || Fielding once described a way to expose and manipulate a set of properties for a resource using a URI convention (similar to that used for HTML image maps) where appending ;props to a resource URI would allow clients to access any available properties for that resource. This talk demonstrates some example implementations of this simple, yet powerful hypermedia pattern. ||
 || _Supplemental_ || TBA ||
 || _Slides_ || TBA ||
+|| || ||
 || _Title_ || Four Simple Steps to Building a Hypermedia API ||
 || _Level_ || Intermediate ||
 || _Abstract_ || Don't let anyone fool you, creating successful  hypermedia APIs is not complicated; it just takes a bit of planning and a dedicated effort. This talk will outline four simple steps you can follow in order to design and document a successful hypermedia API.||
