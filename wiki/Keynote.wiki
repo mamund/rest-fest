@@ -4,7 +4,7 @@
 == Jon Moore ==
 
 <p>
-<img src="http://www.restfest.org/media/photos/01804d05-9a7e-e184-cd05-134e37fc81cb.jpg" align="left" width="159" style="border:1px black solid;padding:.3em;"/>
+<img src="http://www.restfest.org/media/photos/01804d05-9a7e-e184-cd05-134e37fc81cb.jpg" align="left" width="140"/>
 Dr. Moore is Chief Engineer and Technical Fellow at Comcast Interactive Media (CIM), a division of Comcast Corporation dedicated to developing and operating online and cross-platform entertainment and media businesses, including: Comcast.net and XfinityTV.com. He guides technical choices that allow CIM to bring innovative products to our customers ever more quickly. Moore received his Ph.D. in Computer and Information Science from the University of Pennsylvania.
 </p>
 <h3>RESTLess : Why you should <b>stop</b> using REST</h3>
