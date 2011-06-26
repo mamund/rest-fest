@@ -10,13 +10,13 @@ All details are tentative(mca).
 ||  Thu  || 8AM-5PM  || [HackDay]  ||
 ||       || || *ALPS Micro-blogging Challenge* [MikeAmundsen] ||
 ||       ||          ||   ||
-||       || 7PM-???  || Evening Activity (Music, Show, etc.)? ||
+||       || 7PM-???  || [http://greenville.drive.milb.com/index.jsp?sid=t428 Greenville Drive] Baseball Game ||
 ||  Fri  || 7:30AM   || [workshop Workshop] Check-in & Coffee ||
-||  Fri  || 8AM-Noon || *A smorgasbord of HTTP middleware* [DarrelMiller] ||
+||  Fri  || 8AM-Noon || *A smorgasbord of HTTP middleware* [DarrelMiller] ||       || Noon-1PM || Lunch ||
 ||       || 1PM-5PM  || *Link Relations - An Overview* [MikeAmundsen] ||
 ||       ||  6:30PM  || Additional Check-in Time                          ||
 ||       ||  7:00PM  || Welcome & Opening Remarks      ||
-||       ||  7:30PM  || [Keynote] RESTLess : Why you should *stop* using REST [JonMoore]         ||
+||       ||  7:30PM  || [Keynote] *RESTLess : Why you should *stop* using REST* [JonMoore]         ||
 ||       ||  8:30PM  || Espresso and General Socializing ('til 10-ish)       ||
 ||  Sat  || 8AM-5PM  || *Hack Rooms open all day*              ||
 ||       ||          ||                                        ||
