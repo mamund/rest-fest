@@ -29,7 +29,7 @@ All details are tentative(mca).
 ||       ||          ||                                        ||
 ||       ||  1:00PM  || Session Speakers (ExtendedTalk)           ||
 ||       ||  2:30PM  || Afternoon FiveInFive Talks & Breakout Sessions  ||
-||       ||  5:00AM  || Closing Session ('til 5:30PM-ish)            ||
+||       ||  5:00PM  || Closing Session ('til 5:30PM-ish)            ||
 ||       ||          ||                                        ||
 ||       ||  6:30PM  || After party       ||
 
