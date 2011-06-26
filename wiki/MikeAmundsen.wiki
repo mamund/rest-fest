@@ -8,7 +8,7 @@
 
 <table cellpadding="4">
 <tr>
-<td valign="top"><img src="http://amundsen.com/images/mca-photos/mca-icon-d.jpg" /></td>
+<td valign="top"><img src="http://amundsen.com/images/mca-photos/mca-icon-d.jpg" width="128"/></td>
 <td valign="top">
 An internationally known author and lecturer, Mike Amundsen travels throughout the United States and Europe consulting and speaking on a wide range of topics including distributed network architecture, Web application development, Cloud computing, and other subjects. His recent work focuses on the role hypermedia plays in creating and maintaining applications that can successsfully evolve over time. He has more than a dozen books to his credit and recently contributed to the book "RESTful Web Services Cookbook" (by Subbu Allamaraju). He is currently working on a new book on designing and implementing Hypermedia APIs. When he is not working, Mike enjoys spending time with his family in Kentucky, USA.</td>
 <td valign="top">
