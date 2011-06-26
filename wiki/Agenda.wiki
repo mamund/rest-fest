@@ -17,7 +17,7 @@ All details are tentative(mca).
 ||       || 1PM-5PM  || *Link Relations - An Overview* [MikeAmundsen] ||
 ||       ||  6:30PM  || Additional Check-in Time   ||
 ||       ||  7:00PM  || Welcome & Opening Remarks      ||
-||       ||  7:30PM  || [Keynote] *RESTLess : Why you should *stop* using REST* [JonMoore]         ||
+||       ||  7:30PM  || [Keynote] *RESTLess : Why you should _stop_ using REST* [JonMoore]         ||
 ||       ||  8:30PM  || Espresso and General Socializing ('til 10-ish)  ||
 ||       ||          ||  ||
 || *Sat* || 8AM-5PM  || *Hack Rooms open all day*              ||
