@@ -7,18 +7,16 @@
 All details are tentative(mca).
 
 || *Day* ||  *Time*  || *Activity*                             ||
-||  Thu  || 8AM-5PM  || Hackday  ||
-||       || 8AM-Noon || *ALPS Project* [MikeAmundsen] ||
-||       || Noon     || Lunch Break ||
-||       || 1PM-5PM  || Other Hack Stuff (???)  ||
+||  Thu  || 8AM-5PM  || [HackDay]  ||
+||       || || *ALPS Micro-blogging Challenge* [MikeAmundsen] ||
 ||       ||          ||   ||
 ||       || 7PM-???  || Evening Activity (Music, Show, etc.)? ||
-||  Fri  || 7:30AM   || Workshop Check-in & Coffee ||
+||  Fri  || 7:30AM   || [workshop Workshop] Check-in & Coffee ||
 ||  Fri  || 8AM-Noon || *A smorgasbord of HTTP middleware* [DarrelMiller] ||
-||       || 1PM-5PM  || Other Workshop Stuff (???)  ||
+||       || 1PM-5PM  || *Link Relations - An Overview* [MikeAmundsen] ||
 ||       ||  6:30PM  || Additional Check-in Time                          ||
 ||       ||  7:00PM  || Welcome & Opening Remarks      ||
-||       ||  7:30PM  || Keynote (???)         ||
+||       ||  7:30PM  || [Keynote] RESTLess : Why you should *stop* using REST [JonMoore]         ||
 ||       ||  8:30PM  || Espresso and General Socializing ('til 10-ish)       ||
 ||  Sat  || 8AM-5PM  || *Hack Rooms open all day*              ||
 ||       ||          ||                                        ||
