@@ -1,10 +1,13 @@
 #summary Attendee Profile
 
-= Jon Moore=
+=Jon Moore=
+Dr. Moore is Chief Engineer and Technical Fellow at Comcast Interactive Media (CIM), a division of Comcast Corporation dedicated to developing and operating online and cross-platform entertainment and media businesses, including: Comcast.net and XfinityTV.com. He guides technical choices that allow CIM to bring innovative products to our customers ever more quickly. Moore received his Ph.D. in Computer and Information Science from the University of Pennsylvania.
 
-Add your content here.
+==Keynote==
+===RESTLess: Why you should stop using REST===
+RESTful web services are all the rage these days, with a proliferation of software frameworks, books (even "cookbooks"), and hype. Yet many purportedly "RESTful" web APIs don't actually adhere to all the constraints Roy Fielding laid out in his thesis—and there is also no shortage of REST purists who will happily point that out. People want to turn any API into a RESTful web service, even where that may not be necessary. Has REST jumped the shark?
 
-===Keynote===
+In this talk, we'll revisit the original architectural constraints Fielding described. Each of these is meant to induce certain characteristics in a system, but what if your system doesn't actually need those properties? What happens if we relax those constraints? Are there simpler options available than a fully RESTful architecture? Places where REST are actually the right choice may be less common than we might think. If REST is a hammer, this talk will hopefully make us much better at recognizing actual nails.
 
 ===Proposed Talks===
 || _Title_ || ||
