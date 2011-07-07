@@ -9,8 +9,8 @@
 
 === Extended Talks ===
  * *Measuring REST*
- * In this session, Subbu is going to talk about the pitfalls of approaching REST as a prescriptive methodology as opposed to a practice of deriving the constraints based on the desired ilities in context.
  * SubbuAllamaraju 
+ * In this session, Subbu is going to talk about the pitfalls of approaching REST as a prescriptive methodology as opposed to a practice of deriving the constraints based on the desired ilities in context.
 
 
 
