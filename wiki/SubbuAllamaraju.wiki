@@ -1,0 +1,30 @@
+#summary Attendee Profile
+
+= Subbu Allamaraju =
+
+<table width="860">
+<tr>
+<td>
+
+<table cellpadding="4">
+<tr>
+<td valign="top" width="128"><img src="http://amundsen.com/images/rest-fest/subrah.jpg" width="128"/></td>
+<td valign="top">
+Subbu Allamaraju is an architect at eBay driving ilities of the eBay's internal services infrastructure as well as building next generation Web centric platforms. He wrote "RESTful Web Services Cookbook" last year to document best practices for writing HTTP-centric client-server apps. 
+</td>
+<td valign="top">
+</td>
+</tr>
+</table>
+
+
+===Proposed Talks===
+|| _Title_ || Measuring REST ||
+|| _Level_ || ExtendedTalk ||
+|| _Abstract_ ||In this session, Subbu is going to talk about the pitfalls of approaching REST as a prescriptive methodology as opposed to a practice of deriving the constraints based on the desired ilities in context. ||
+|| _Slides_ ||  ||
+
+|| _Title_ ||  ||
+|| _Level_ ||  ||
+|| _Abstract_ ||  ||
+|| _Slides_ ||  ||
