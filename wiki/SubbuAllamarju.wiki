@@ -2,7 +2,20 @@
 
 = Subbu Allamaraju =
 
-Add your content here.
+<table width="860">
+<tr>
+<td>
+
+<table cellpadding="4">
+<tr>
+<td valign="top" width="128"><img src="http://amundsen.com/images/rest-fest/subrah.jpg" width="128"/></td>
+<td valign="top">
+Subbu Allamaraju is an architect at eBay driving ilities of the eBay's internal services infrastructure as well as building next generation Web centric platforms. He wrote "RESTful Web Services Cookbook" last year to document best practices for writing HTTP-centric client-server apps. 
+</td>
+<td valign="top">
+</td>
+</tr>
+</table>
 
 
 ===Proposed Talks===
