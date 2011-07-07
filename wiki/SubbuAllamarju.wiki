@@ -19,9 +19,9 @@ Subbu Allamaraju is an architect at eBay driving ilities of the eBay's internal 
 
 
 ===Proposed Talks===
-|| _Title_ || ||
-|| _Level_ ||  ||
-|| _Abstract_ ||||
+|| _Title_ || Measuring REST ||
+|| _Level_ || ExtendedTalk ||
+|| _Abstract_ ||In this session, Subbu is going to talk about the pitfalls of approaching REST as a prescriptive methodology as opposed to a practice of deriving the constraints based on the desired ilities in context. ||
 || _Slides_ ||  ||
 
 || _Title_ ||  ||
