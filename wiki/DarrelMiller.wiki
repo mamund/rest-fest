@@ -21,9 +21,9 @@
 
 
 ===Proposed Talks===
-|| _Title_ || ||
-|| _Level_ ||  ||
-|| _Abstract_ ||||
+|| _Title_ || RESTAgent - Making it easy to build hypermedia driven clients  ||
+|| _Level_ || Intermediate ||
+|| _Abstract_ ||[http://restagent.codeplex.com RESTAgent] is a library designed to simplify building clients that allow you to [http://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven#comment-753 "follow your nose"].  This talk will demonstrate how you can use RESTAgent as an alternative to the standard Http Client interface, and we will discuss the advantages that it brings.  The examples will be in C# but the concept is applicable to all languages.   ||
 || _Slides_ ||  ||
 
 || _Title_ ||  ||
