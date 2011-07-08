@@ -22,6 +22,8 @@ In this talk, we'll revisit the original architectural constraints Fielding desc
  * KevBurnsJr
  * A deep dive debut into a new web application framework for PHP.
 
-
+ * *TBA*
+ * RandallTombaugh
+ * ...
 ----
 [SaturdayTalks2010]
