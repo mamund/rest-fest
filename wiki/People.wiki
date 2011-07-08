@@ -4,13 +4,15 @@
 = 2011 Attendees =
 Add a link to your wiki page here!
 
- * [MikeAmundsen]
- * [DarrelMiller]
- * [KevBurnsJr]
  * [SubbuAllamaraju]
- * [RandallTombaugh]
- * [JonMoore]
+ * [MikeAmundsen]
+ * [KevBurnsJr]
  * [KeithCasey]
+ * [EricGiard]
+ * [DarrelMiller]
+ * [JonMoore]
+ * [BenRamsey]
+ * [RandallTombaugh]
 ----
 
 [People2010]
