@@ -18,9 +18,9 @@ In this talk, we'll revisit the original architectural constraints Fielding desc
  * SubbuAllamaraju 
  * In this session, Subbu is going to talk about the pitfalls of approaching REST as a prescriptive methodology as opposed to a practice of deriving the constraints based on the desired ilities in context.
 
- * *Prototyping RESTful Web Services*
+ * *A Resource Oriented Hypermedia Framework*
  * KevBurnsJr
- * An examination of web service prototypes as architectural artifacts in web service design
+ * A deep dive debut into a new web application framework for PHP.
 
 
 ----
