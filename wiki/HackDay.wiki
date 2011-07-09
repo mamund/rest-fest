@@ -3,7 +3,7 @@
 
 =RESTFest Hackathon=
 ==The ALPS microblogging interop challenge==
-with by [MikeAmundsen]
+with [MikeAmundsen]
 
 ====The Challenge====
 Can independent parties successfully implement clients and servers based on a single hypermedia description document? This HackDay project is designed to find the answer to this very question.
