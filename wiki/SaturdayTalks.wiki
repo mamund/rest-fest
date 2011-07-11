@@ -22,7 +22,7 @@ In this talk, we'll revisit the original architectural constraints Fielding desc
  * KevBurnsJr
  * A deep dive debut into a new web application framework for PHP.
 
- * Web API: Bringing HTTP front and center in WCF*
+ * *Web API: Bringing HTTP front and center in WCF*
  * RandallTombaugh
  * The WCF team has been hard at work to introduce first-class support for HTTP to the .NET web services stack for both on-premise and cloud hosting with Azure. This work includes providing all of the key building blocks for easily implementing REST services with WCF. Come see where the Microsoft platform is headed let me know in which direction you'd like to see the WCF continue to drive the technology.
 ----
