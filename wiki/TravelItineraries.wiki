@@ -4,5 +4,24 @@
 = 2011 Travel Itineraries =
 Add your travel details here to help co-ordinate hotels, rides, and other details.
 
+== Wednesday, August 17 ==
+|| who || where || when || how ||
+|| JonMoore || [http://www.phl.org/ PHL] -> [http://gspairport.com/default.aspx GSP] || arr. 5:08pm || [http://www.usairways.com/default.aspx USAirways] 3739 ||
+|| JonMoore || [http://gspairport.com/default.aspx GSP] -> [http://www.hamptoninnandsuitesgreenville.com/ Hampton Inn] || ~5:30pm? || taxi ||
+
+== Thursday, August 18 ==
+|| who || where || when || how ||
+
+== Friday, August 19 ==
+|| who || where || when || how ||
+
+== Saturday, August 20 ==
+|| who || where || when || how ||
+
+== Sunday, August 21 ==
+|| who || where || when || how ||
+|| JonMoore || [http://www.hamptoninnandsuitesgreenville.com/ Hampton Inn] -> [http://gspairport.com/default.aspx GSP] || ? || taxi ||
+|| JonMoore || [http://gspairport.com/default.aspx GSP] -> [http://www.phl.org/ PHL] || dep 7:06am || [http://www.usairways.com/default.aspx USAirways] 3954 ||
+
 ----
 [TravelItineraries2010]
