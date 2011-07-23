@@ -8,6 +8,7 @@ Add your travel details here to help co-ordinate hotels, rides, and other detail
 || who || where || when || how ||
 || JonMoore || [http://www.phl.org/ PHL] -> [http://gspairport.com/default.aspx GSP] || arr. 5:08pm || [http://www.usairways.com/default.aspx USAirways] 3739 ||
 || JonMoore || [http://gspairport.com/default.aspx GSP] -> [http://www.hamptoninnandsuitesgreenville.com/ Hampton Inn] || ~5:30pm? || taxi ||
+|| KevBurnsJr || GSP || 7:24pm || ✈ ||
 
 == Thursday, August 18 ==
 || who || where || when || how ||
@@ -22,6 +23,7 @@ Add your travel details here to help co-ordinate hotels, rides, and other detail
 || who || where || when || how ||
 || JonMoore || [http://www.hamptoninnandsuitesgreenville.com/ Hampton Inn] -> [http://gspairport.com/default.aspx GSP] || ? || taxi ||
 || JonMoore || [http://gspairport.com/default.aspx GSP] -> [http://www.phl.org/ PHL] || dep 7:06am || [http://www.usairways.com/default.aspx USAirways] 3954 ||
+|| KevBurnsJr || GSP || 2:15pm || ✈ ||
 
 ----
 [TravelItineraries2010]
