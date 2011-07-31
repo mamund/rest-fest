@@ -10,6 +10,8 @@ Add your travel details here to help co-ordinate hotels, rides, and other detail
 || JonMoore || [http://gspairport.com/default.aspx GSP] -> [http://www.hamptoninnandsuitesgreenville.com/ Hampton Inn] || ~5:30pm? || taxi ||
 || KevBurnsJr || GSP || 7:24pm || ✈ ||
 || MikeAmundsen || Greenville  || 8pm || Car ||
+|| DarrelMiller || BTV->DCA->GSP || arr. 17:47||US Airways 3842 ||
+|| DarrelMiller || GSP-> Sleep Inn ||  ||Rental || 
 
 == Thursday, August 18 ==
 || who || where || when || how ||
