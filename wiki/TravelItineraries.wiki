@@ -28,6 +28,6 @@ Add your travel details here to help co-ordinate hotels, rides, and other detail
 || JonMoore || [http://gspairport.com/default.aspx GSP] -> [http://www.phl.org/ PHL] || dep 7:06am || [http://www.usairways.com/default.aspx USAirways] 3954 ||
 || KevBurnsJr || GSP || 2:15pm || ✈ ||
 || MikeAmundsen || Greenville  || Noon || Car ||
-
+|| DarrelMiller || [http://gspairport.com/default.aspx GSP] -> [http://www.phl.org/ PHL] -> BTV || dep 7:06am || 
 ----
 [TravelItineraries2010]
