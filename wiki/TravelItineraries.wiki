@@ -9,7 +9,7 @@ Add your travel details here to help co-ordinate hotels, rides, and other detail
 || JonMoore || [http://www.phl.org/ PHL] -> [http://gspairport.com/default.aspx GSP] || arr. 5:08pm || [http://www.usairways.com/default.aspx USAirways] 3739 ||
 || JonMoore || [http://gspairport.com/default.aspx GSP] -> [http://www.hamptoninnandsuitesgreenville.com/ Hampton Inn] || ~5:30pm? || taxi ||
 || KevBurnsJr || GSP || 7:24pm || ✈ ||
-|| MikeAmundsen || Erlanger KY -> Greenville, SC (Hyatt)  || 8pm || Car ||
+|| MikeAmundsen || Erlanger KY -> Greenville, SC ([http://greenville.hyatt.com/hyatt/hotels/index.jsp Hyatt])  || 8pm || Car ||
 || DarrelMiller || BTV->DCA->GSP || arr. 17:47||US Airways 3842 ||
 || DarrelMiller || GSP-> Sleep Inn ||  ||Rental || 
 
@@ -27,7 +27,7 @@ Add your travel details here to help co-ordinate hotels, rides, and other detail
 || JonMoore || [http://www.hamptoninnandsuitesgreenville.com/ Hampton Inn] -> [http://gspairport.com/default.aspx GSP] || ? || taxi ||
 || JonMoore || [http://gspairport.com/default.aspx GSP] -> [http://www.phl.org/ PHL] || dep 7:06am || [http://www.usairways.com/default.aspx USAirways] 3954 ||
 || KevBurnsJr || GSP || 2:15pm || ✈ ||
-|| MikeAmundsen || Greenville, SC -> Erlanger, KY || Noon || Car ||
+|| MikeAmundsen || Greenville, SC ([http://greenville.hyatt.com/hyatt/hotels/index.jsp Hyatt]) -> Erlanger, KY || Noon || Car ||
 || DarrelMiller || [http://gspairport.com/default.aspx GSP] -> [http://www.phl.org/ PHL] -> BTV || dep 7:06am || 
 
 ----
