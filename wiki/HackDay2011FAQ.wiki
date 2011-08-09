@@ -1,3 +1,8 @@
 #summary Hack Day 2011 FAQ
 
 = Hack Day 2011 FAQ =
+
+  * *What should I bring to the HackDay?* The whole point of the day is to hack on hypermedia. Be sure to bring your laptop loaded w/ all your favorite web-coding bits (servers, frameworks, editors, diag tools, etc.)
+  * *How should I prepare for the event?* This year we're all working on building clients and servers based on the [http://amundsen.com/hypermedia/profiles/ ALPS] Micro-blogging spec. You should read this spec carefully (only one page) and be ready to code a client and/or server that is "compliant." 
+  * *Can I write my code ahead of time?* Absolutely! Feel free to code as much as you like before the event. Even if you don't "complete" your code, you'll be ahead of the game.
+  * *How will I be able to test my code?* There will be 'live' (as in on the public web) versions of ALPS-compliant clients and servers that can be used to test your code. These apps will also be presented as 'sample' apps for others to review and comment.
