@@ -3,12 +3,12 @@
 = Hack Day 2011 FAQ =
 
   * *Who is sponsoring the event?* So glad you asked! This year the HackDay is sponsored by [http://github.com Github]. They are also sponsoring several other portions of [http://restfest.org RESTFest] this year.
+  * *What should I bring to the HackDay?* The whole point of the day is to hack on hypermedia. Be sure to bring your laptop loaded w/ all your favorite web-coding bits (servers, frameworks, editors, diag tools, etc.)
+  * *How should I prepare for the event?* This year we're all working on building clients and servers based on the [http://amundsen.com/hypermedia/profiles/ ALPS] Micro-blogging spec. You should read this spec carefully (only one page) and be ready to code a client and/or server that is "compliant." 
   * *Is this a competition?* Well, not really. We are all working for the same goal; to learn how to design, document, and implement hypermedia apps. But some _will_ do this 'better' than others. And I bet some of _them_ will lord if over the rest of us!
   * *Can I win anything?* You bet you can! Everyone who implements a 'partially-compliant' client or server will win a [http://shop.github.com/products/open-source-nerd-merit-badge Nerd Merit Badge] courtesy of our HackDay sponsor, [http://github.com Github]
   * *Well, is there a better prize for winning?* Ha! Ok! anyone who implements a 'fully-compliant' client or server will get a free copy of the book [http://oreilly.com/catalog/0636920020530 Building Hypermedia APIs with HTML5 and Node]
   * *OK, what if i implement a fully compliant server AND a fully compliant client? Then what do I win?* You're crazy. No-one can do that all in one day. Forget about it.
-  * *What should I bring to the HackDay?* The whole point of the day is to hack on hypermedia. Be sure to bring your laptop loaded w/ all your favorite web-coding bits (servers, frameworks, editors, diag tools, etc.)
-  * *How should I prepare for the event?* This year we're all working on building clients and servers based on the [http://amundsen.com/hypermedia/profiles/ ALPS] Micro-blogging spec. You should read this spec carefully (only one page) and be ready to code a client and/or server that is "compliant." 
   * *Can I write my code ahead of time?* Absolutely! Feel free to code as much as you like before the event. Even if you don't "complete" your code, you'll be ahead of the game.
   * *How will I be able to test my code?* There will be 'live' (as in on the public web) versions of ALPS-compliant clients and servers that can be used to test your code. These apps will also be presented as 'sample' apps for others to review and comment.
   * *Will I be able to see everyone else's code, too?* Oh yeah! Time will be set aside throughout the day to allow attendees to step up to the podium and demonstrate their clients and servers; talk about problems, discoveries, etc. 
