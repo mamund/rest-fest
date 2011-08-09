@@ -5,12 +5,10 @@
 ==The ALPS microblogging interop challenge==
 with [MikeAmundsen]
 
----
-
+----
 ===Important HackDay Details===
 If you plan on attending the HackDay (and aren't we all?) be sure to read the *[HackDay2011FAQ]*
-
----
+----
 
 ====The Challenge====
 Can independent parties successfully implement clients and servers based on a single hypermedia description document? This HackDay project is designed to find the answer to this very question.
