@@ -3,6 +3,13 @@
 
 = Hack Day 2011 FAQ =
 
+This year, everyone gets to build their own hypermedia client and/or server based on the [http://amundsen.com/hypermedia/profiles/ same spec]. 
+  * Everyone gets a chance to demo their code
+  * Those who build compliant apps will win prizes (Yippie!). 
+  * Those who show up at all will have a great time 
+
+====Everyone codes, everyone talks, everyone listens, everyone has fun!====
+
   * *Who is sponsoring the event?* So glad you asked! This year the HackDay is sponsored by [http://github.com Github]. They are also sponsoring several other portions of [http://restfest.org RESTFest] this year.
   * *What should I bring to the HackDay?* The whole point of the day is to hack on hypermedia. Be sure to bring your laptop loaded w/ all your favorite web-coding bits (servers, frameworks, editors, diag tools, etc.)
   * *How should I prepare for the event?* This year we're all working on building clients and servers based on the [http://amundsen.com/hypermedia/profiles/ ALPS] Micro-blogging spec. You should read this spec carefully (only one page) and be ready to code a client and/or server that is "compliant." 
