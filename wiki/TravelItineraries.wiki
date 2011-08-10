@@ -30,7 +30,7 @@ Add your travel details here to help co-ordinate hotels, rides, and other detail
 || KevBurnsJr || GSP || 2:15pm || ✈ ||
 || MikeAmundsen || Greenville, SC ([http://greenville.hyatt.com/hyatt/hotels/index.jsp Hyatt]) -> Erlanger, KY || Noon || Car ||
 || DarrelMiller || [http://gspairport.com/default.aspx GSP] -> [http://www.phl.org/ PHL] -> BTV || dep 7:06am || 
-|| Keith Casey || GSP->IAH->AUS || de[ 13:30 local || Continental ||
+|| Keith Casey || GSP->IAH->AUS || dep 13:30 local || Continental ||
 ----
 
 [TravelItineraries2010]
