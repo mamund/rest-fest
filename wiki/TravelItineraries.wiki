@@ -12,6 +12,8 @@ Add your travel details here to help co-ordinate hotels, rides, and other detail
 || MikeAmundsen || Erlanger KY -> Greenville, SC ([http://greenville.hyatt.com/hyatt/hotels/index.jsp Hyatt])  || 8pm || Car ||
 || DarrelMiller || BTV->DCA->GSP || arr. 17:47||US Airways 3842 ||
 || DarrelMiller || GSP-> Sleep Inn ||  ||Rental || 
+|| DavidZuelke || MUC ✈ CLT || 15:25 || LH 428 ||
+|| DavidZuelke || CLT to Hyatt Regency Greenville || ~18:00 || Rental Car ||
 
 == Thursday, August 18 ==
 || who || where || when || how ||
@@ -31,6 +33,8 @@ Add your travel details here to help co-ordinate hotels, rides, and other detail
 || MikeAmundsen || Greenville, SC ([http://greenville.hyatt.com/hyatt/hotels/index.jsp Hyatt]) -> Erlanger, KY || Noon || Car ||
 || DarrelMiller || [http://gspairport.com/default.aspx GSP] -> [http://www.phl.org/ PHL] -> BTV || dep 7:06am || 
 || Keith Casey || GSP->IAH->AUS || dep 13:30 local || Continental ||
+|| DavidZuelke || Greenville to CLT || ~13:00 || Rental Car ||
+|| DavidZuelke || CLT ✈ ORD ✈ FRA ✈ MUC || 16:48 || UA 568 ||
 ----
 
 [TravelItineraries2010]
