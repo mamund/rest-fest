@@ -6,18 +6,18 @@ Add your travel details here to help co-ordinate hotels, rides, and other detail
 
 == Wednesday, August 17 ==
 || who || where || arrival || how ||
-|| JonMoore || PHL ✈ GSP || 5:08 p.m. || US 3739 ||
+|| JonMoore || PHL ✈ GSP || 5:08 p.m. || [http://www.flightstats.com/go/FlightStatus/flightStatusByFlight.do?airline=US&flightNumber=3739&departureDate=2011-08-17 US 3739] ||
 || JonMoore || GSP -> [http://www.hamptoninnandsuitesgreenville.com/ Hampton Inn] || ~5:30 p.m. || taxi ||
 || KevBurnsJr || GSP || 7:24 p.m. || ✈ ||
 || MikeAmundsen || Erlanger KY -> Greenville, SC ([http://greenville.hyatt.com/hyatt/hotels/index.jsp Hyatt])  || ~8 p.m. || Car ||
-|| DarrelMiller || BTV ✈ DCA ✈ GSP || 5:47 p.m. || US 3842 ||
+|| DarrelMiller || BTV ✈ DCA ✈ GSP || 5:47 p.m. || [http://www.flightstats.com/go/FlightStatus/flightStatusByFlight.do?airline=US&flightNumber=3842&departureDate=2011-08-17 US 3842] ||
 || DarrelMiller || GSP -> Sleep Inn || ? || rental car || 
-|| DavidZuelke || MUC ✈ CLT || 13:25 p.m. || LH 428 ||
+|| DavidZuelke || MUC ✈ CLT || 13:25 p.m. || [http://www.flightstats.com/go/FlightStatus/flightStatusByFlight.do?airline=LH&flightNumber=428&departureDate=2011-08-17 LH 428] ||
 || DavidZuelke || CLT -> Greenville, SC ([http://greenville.hyatt.com/hyatt/hotels/index.jsp Hyatt]) || ~6 p.m. || rental car ||
 
 == Thursday, August 18 ==
 || who || where || arrival || how ||
-|| KeithCasey || AUS ✈ IAH ✈ GSP || 4:24 p.m. || CO 2390 ||
+|| KeithCasey || AUS ✈ IAH ✈ GSP || 4:24 p.m. || [http://www.flightstats.com/go/FlightStatus/flightStatusByFlight.do?airline=CO&flightNumber=2390&departureDate=2011-08-18 CO 2390] ||
 
 == Friday, August 19 ==
 || who || where || arrival || how ||
@@ -28,13 +28,13 @@ Add your travel details here to help co-ordinate hotels, rides, and other detail
 == Sunday, August 21 ==
 || who || where || departure || how ||
 || JonMoore || Greenville -> GSP || ? || taxi ||
-|| JonMoore || GSP ✈ PHL || 7:06 a.m. :( || US 3954 ||
+|| JonMoore || GSP ✈ PHL || 7:06 a.m. :( || [http://www.flightstats.com/go/FlightStatus/flightStatusByFlight.do?airline=US&flightNumber=3954&departureDate=2011-08-21 US 3954] ||
 || KevBurnsJr || GSP || 2:15 p.m. || ✈ ||
 || MikeAmundsen || Greenville, SC -> Erlanger, KY || ~12 p.m. || Car ||
-|| DarrelMiller || GSP ✈ PHL ✈ BTV || 7:06 a.m. :( || US 3954 ||
-|| KeithCasey || GSP ✈ IAH ✈ AUS || 1:30 p.m. || CO 2422 ||
+|| DarrelMiller || GSP ✈ PHL ✈ BTV || 7:06 a.m. :( || [http://www.flightstats.com/go/FlightStatus/flightStatusByFlight.do?airline=US&flightNumber=3954&departureDate=2011-08-21 US 3954] ||
+|| KeithCasey || GSP ✈ IAH ✈ AUS || 1:30 p.m. || [http://www.flightstats.com/go/FlightStatus/flightStatusByFlight.do?airline=CO&flightNumber=2422&departureDate=2011-08-21 CO 2422] ||
 || DavidZuelke || Greenville to CLT || ~1 p.m. || rental car ||
-|| DavidZuelke || CLT ✈ ORD ✈ FRA ✈ MUC || 4:48 p.m. || UA 568 ||
+|| DavidZuelke || CLT ✈ ORD ✈ FRA ✈ MUC || 4:48 p.m. || [http://www.flightstats.com/go/FlightStatus/flightStatusByFlight.do?airline=UA&flightNumber=468&departureDate=2011-08-21 UA 568] ||
 ----
 
 [TravelItineraries2010]
