@@ -17,7 +17,7 @@ Add your travel details here to help co-ordinate hotels, rides, and other detail
 
 == Thursday, August 18 ==
 || who || where || arrival || how ||
-|| Keith Casey || AUS ✈ IAH ✈ GSP || 4:24 p.m. || CO 2390 ||
+|| KeithCasey || AUS ✈ IAH ✈ GSP || 4:24 p.m. || CO 2390 ||
 
 == Friday, August 19 ==
 || who || where || arrival || how ||
@@ -32,7 +32,7 @@ Add your travel details here to help co-ordinate hotels, rides, and other detail
 || KevBurnsJr || GSP || 2:15 p.m. || ✈ ||
 || MikeAmundsen || Greenville, SC -> Erlanger, KY || ~12 p.m. || Car ||
 || DarrelMiller || GSP ✈ PHL ✈ BTV || 7:06 a.m. :( || US 3954 ||
-|| Keith Casey || GSP ✈ IAH ✈ AUS || 1:30 p.m. || CO 2422 ||
+|| KeithCasey || GSP ✈ IAH ✈ AUS || 1:30 p.m. || CO 2422 ||
 || DavidZuelke || Greenville to CLT || ~1 p.m. || rental car ||
 || DavidZuelke || CLT ✈ ORD ✈ FRA ✈ MUC || 4:48 p.m. || UA 568 ||
 ----
