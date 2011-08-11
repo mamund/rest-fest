@@ -4,4 +4,4 @@ When not hacking on PHP projects and the Agavi framework, I like to fiddle with 
 
  * http://blog.wombert.de/
  * http://github.com/dzuelke
- * http://de.linkedin.com/in/davidzuelke
+ * http://de.linkedin.com/in/dzuelke
