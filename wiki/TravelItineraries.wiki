@@ -5,36 +5,36 @@
 Add your travel details here to help co-ordinate hotels, rides, and other details.
 
 == Wednesday, August 17 ==
-|| who || where || when || how ||
-|| JonMoore || [http://www.phl.org/ PHL] -> [http://gspairport.com/default.aspx GSP] || arr. 5:08pm || [http://www.usairways.com/default.aspx USAirways] 3739 ||
-|| JonMoore || [http://gspairport.com/default.aspx GSP] -> [http://www.hamptoninnandsuitesgreenville.com/ Hampton Inn] || ~5:30pm? || taxi ||
-|| KevBurnsJr || GSP || 7:24pm || ✈ ||
-|| MikeAmundsen || Erlanger KY -> Greenville, SC ([http://greenville.hyatt.com/hyatt/hotels/index.jsp Hyatt])  || 8pm || Car ||
-|| DarrelMiller || BTV->DCA->GSP || arr. 17:47||US Airways 3842 ||
-|| DarrelMiller || GSP-> Sleep Inn ||  ||Rental || 
-|| DavidZuelke || MUC ✈ CLT || 15:25 || LH 428 ||
-|| DavidZuelke || CLT to Hyatt Regency Greenville || ~18:00 || Rental Car ||
+|| who || where || arrival || how ||
+|| JonMoore || PHL ✈ GSP || 5:08 p.m. || US 3739 ||
+|| JonMoore || GSP -> [http://www.hamptoninnandsuitesgreenville.com/ Hampton Inn] || ~5:30 p.m. || taxi ||
+|| KevBurnsJr || GSP || 7:24 p.m. || ✈ ||
+|| MikeAmundsen || Erlanger KY -> Greenville, SC ([http://greenville.hyatt.com/hyatt/hotels/index.jsp Hyatt])  || ~8 p.m. || Car ||
+|| DarrelMiller || BTV ✈ DCA ✈ GSP || 5:47 p.m. || US 3842 ||
+|| DarrelMiller || GSP -> Sleep Inn || ? || rental car || 
+|| DavidZuelke || MUC ✈ CLT || 13:25 p.m. || LH 428 ||
+|| DavidZuelke || CLT -> [http://greenville.hyatt.com/hyatt/hotels/index.jsp Hyatt] || ~6 p.m. || rental car ||
 
 == Thursday, August 18 ==
-|| who || where || when || how ||
-|| Keith Casey || AUS->IAH->GSP || arr 16:25 local || Continental ||
+|| who || where || arrival || how ||
+|| Keith Casey || AUS ✈ IAH ✈ GSP || 4:24 p.m. || CO 2390 ||
 
 == Friday, August 19 ==
-|| who || where || when || how ||
+|| who || where || arrival || how ||
 
 == Saturday, August 20 ==
-|| who || where || when || how ||
+|| who || where || departure || how ||
 
 == Sunday, August 21 ==
-|| who || where || when || how ||
-|| JonMoore || [http://www.hamptoninnandsuitesgreenville.com/ Hampton Inn] -> [http://gspairport.com/default.aspx GSP] || ? || taxi ||
-|| JonMoore || [http://gspairport.com/default.aspx GSP] -> [http://www.phl.org/ PHL] || dep 7:06am || [http://www.usairways.com/default.aspx USAirways] 3954 ||
-|| KevBurnsJr || GSP || 2:15pm || ✈ ||
-|| MikeAmundsen || Greenville, SC ([http://greenville.hyatt.com/hyatt/hotels/index.jsp Hyatt]) -> Erlanger, KY || Noon || Car ||
-|| DarrelMiller || [http://gspairport.com/default.aspx GSP] -> [http://www.phl.org/ PHL] -> BTV || dep 7:06am || 
-|| Keith Casey || GSP->IAH->AUS || dep 13:30 local || Continental ||
-|| DavidZuelke || Greenville to CLT || ~13:00 || Rental Car ||
-|| DavidZuelke || CLT ✈ ORD ✈ FRA ✈ MUC || 16:48 || UA 568 ||
+|| who || where || departure || how ||
+|| JonMoore || Greenville -> GSP || ? || taxi ||
+|| JonMoore || GSP ✈ PHL || 7:06 a.m. :( || [http://www.usairways.com/default.aspx USAirways] 3954 ||
+|| KevBurnsJr || GSP || 2:15 p.m. || ✈ ||
+|| MikeAmundsen || Greenville, SC -> Erlanger, KY || ~12 p.m. || Car ||
+|| DarrelMiller || GSP ✈ PHL ✈ BTV || 7:06 a.m. :( || 
+|| Keith Casey || GSP ✈ IAH ✈ AUS || 1:30 p.m. || CO 2422 ||
+|| DavidZuelke || Greenville to CLT || ~1 p.m. || rental car ||
+|| DavidZuelke || CLT ✈ ORD ✈ FRA ✈ MUC || 4:48 p.m. || UA 568 ||
 ----
 
 [TravelItineraries2010]
