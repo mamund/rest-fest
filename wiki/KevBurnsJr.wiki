@@ -25,6 +25,9 @@ I also run the IRC logs for #rest and #restfest on Freenode.
 || _Abstract_ || a deep dive debut into a new web application framework for PHP. ||
 || _Topics_ || URI Templates, Hypermedia Types, Resource Composition, Linked Cache Invalidation, Application Architecture ||
 
+|| _Title_ || *Intro to Riak* ||
+|| _Level_ || Beginner, FiveInFive||
+|| _Abstract_ || Riak is a distributed key value store with an HTTP interface that exposes some interesting hypertext navigation techniques. ||
 
 ===Talks from RestFest 2010===
 || _Title_ || *Prototyping RESTful Web Services* ||
