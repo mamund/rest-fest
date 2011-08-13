@@ -32,7 +32,7 @@ Add your travel details here to help co-ordinate hotels, rides, and other detail
 || KevBurnsJr || GSP || 2:15 p.m. || ✈ ||
 || MikeAmundsen || Greenville, SC -> Erlanger, KY || ~12 p.m. || Car ||
 || DarrelMiller || GSP ✈ PHL ✈ BTV || 7:06 a.m. :( || [http://www.flightstats.com/go/FlightStatus/flightStatusByFlight.do?airline=US&flightNumber=3954&departureDate=2011-08-21 US 3954] ||
-|| KeithCasey || GSP ✈ IAH ✈ AUS || 1:30 p.m. || [http://www.flightstats.com/go/FlightStatus/flightStatusByFlight.do?airline=CO&flightNumber=2422&departureDate=2011-08-21 CO 2422] ||
+|| KeithCasey || GSP ✈ IAH ✈ AUS || 2:30 p.m. || [http://www.flightstats.com/go/FlightStatus/flightStatusByFlight.do?airline=CO&flightNumber=2422&departureDate=2011-08-21 CO 2422] ||
 || DavidZuelke || Greenville to CLT || ~1 p.m. || rental car ||
 || DavidZuelke || CLT ✈ ORD ✈ FRA ✈ MUC || 4:48 p.m. || [http://www.flightstats.com/go/FlightStatus/flightStatusByFlight.do?airline=UA&flightNumber=468&departureDate=2011-08-21 UA 568] ||
 ----
