@@ -3,8 +3,11 @@
 = Keith Casey =
 
 [https://twitter.com/#!/CaseySoftware My Twitter]
+
 [http://caseysoftware.com/blog My Blog]
+
 [http://web2project.net/ My Open Source Project]
+
 
 ===Proposed Talks===
 || _Title_ || ||
