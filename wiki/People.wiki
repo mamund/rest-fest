@@ -8,6 +8,8 @@ Add a link to your wiki page here!
  * [MikeAmundsen]
  * [KevBurnsJr]
  * [KeithCasey]
+ * [JohnDyer]
+ * [RichardHipp]
  * [EricGiard]
  * [DarrelMiller]
  * [JonMoore]
