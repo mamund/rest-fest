@@ -2,6 +2,10 @@
 
 = Keith Casey =
 
+I've been a developer for a decade developing in Java, PHP, and related technologies. I've done everything from leading distributed teams through major product releases to replaces tabs with spaces.. or spaces with tabs. Whatever.
+
+I work in the Austin technology community to better connect developers, companies, and groups with similar goals. Further, I am a lead contributor to web2project - web-based project management system.
+
 [https://twitter.com/#!/CaseySoftware My Twitter]
 
 [http://caseysoftware.com/blog My Blog]
