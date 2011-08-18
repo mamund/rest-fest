@@ -1,0 +1,12 @@
+#summary Jim Ciallella attended RESTfest 2011 in Greenville SC.
+
+= Introduction =
+
+Yoda of Code at OrangeCoat
+
+
+= Details =
+
+  * LAMP stacker
+  * open-source parasite
+  * Drupaler
