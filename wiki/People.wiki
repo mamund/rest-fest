@@ -1,4 +1,4 @@
-#summary People attending REST Fest 2010.
+#summary People attending REST Fest 2011.
 #labels Featured
 
 = 2011 Attendees =
@@ -9,6 +9,7 @@ Add a link to your wiki page here!
  * [KevBurnsJr]
  * [KeithCasey]
  * [JimCiallella]
+ * [RickHarris]
  * [DougCone]
  * [JohnDyer]
  * [EricGiard]
