@@ -1,4 +1,4 @@
-#summary Jim Ciallella attended RESTfest 2011 in Greenville SC.
+#summary Jim Ciallella attended RESTFest 2011 in Greenville SC.
 
 = Introduction =
 
