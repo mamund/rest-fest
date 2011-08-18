@@ -10,3 +10,5 @@ Yoda of Code at OrangeCoat
   * LAMP stacker
   * open-source parasite
   * Drupaler
+  * Attending Saturday
+  * Hater of SELinux
