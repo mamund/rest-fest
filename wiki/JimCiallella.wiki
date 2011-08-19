@@ -15,4 +15,4 @@ Yoda of Code at OrangeCoat
 
 = Proposed FiveInFive =
 ==Payment Processing - Who Actually Does Anything?==
-Abstract: The credit card processing industry has resellers selling resellers services and everybody selling everybody else's services. Who isn't full of crap?
+Abstract: The credit card processing industry has resellers reselling the services of resellers, plus lots of providers sell their own and everybody else's services. Who isn't full of crap?
