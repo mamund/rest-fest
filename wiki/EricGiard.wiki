@@ -2,12 +2,6 @@
 
 = Eric Giard =
 
-Add your content here.
+= FiveInFive Talk =
 
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+I'll be talking about the small REST framework I'm using and my experience with REST so far
