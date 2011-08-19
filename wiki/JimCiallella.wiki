@@ -12,3 +12,7 @@ Yoda of Code at OrangeCoat
   * Drupaler
   * Attending Saturday
   * Hater of SELinux
+
+= Proposed FiveInFive =
+==Payment Processing - Who Actually Does Anything?==
+Abstract: The credit card processing industry has resellers selling resellers services and everybody selling everybody else's services. Who isn't full of crap?
