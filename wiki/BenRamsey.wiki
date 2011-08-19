@@ -1,13 +1,27 @@
-#summary Ben's page
-
 = Ben Ramsey =
 
-Add your content here.
+<table cellpadding="4">
+<tr>
+<td valign="top"><img src="http://benramsey.com/media/img/ramsey-pic-2008.jpg" /></td>
+<td valign="top">
+I'm a web application architect from Nashville, TN, and VP of Engineering at [http://moontoast.com/ Moontoast], where I work with an incredibly talented team, building products like the Distributed Store and Moontoast Impulse. I've been working in this space for many years, and I enjoy using my experience and love for web development to lead teams of developers to build great things on the Web.
+
+I've spoken at many conferences, such as OSCON, ZendCon, php|tek, and International PHP Conference, I've co-authored and contributed to several books, including _php|architect's Zend PHP 5 Certification Study Guide_, and I've written for magazines like _php|architect_ and _International PHP Magazine_.
+
+My involvement in the PHP community has also led to my work with the Atlanta PHP User Group and, now, the Nashville PHP User Group. In 2011, I organized the first [http://phpcon.org/ PHP Community Conference] in Nashville.
+
+  * Twitter: [http://twitter.com/ramsey @ramsey]
+  * Blog: http://benramsey.com/
+  * Company: http://moontoast.com/
+
+</td>
+<td width="30%"> </td>
+</tr>
+</table>
 
 
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+===Proposed Talks===
+|| _Title_ || FiveInFive: API Versioning  ||
+|| _Level_ || Intermediate ||
+|| _Abstract_ || Foo ||
+|| _Slides_ ||  ||
