@@ -10,6 +10,8 @@ I've spoken at many conferences, such as OSCON, ZendCon, php|tek, and Internatio
 
 My involvement in the PHP community has also led to my work with the Atlanta PHP User Group and, now, the Nashville PHP User Group. In 2011, I organized the first [http://phpcon.org/ PHP Community Conference] in Nashville.
 
+When not working with the Web, I enjoy trying all different kinds of craft beer. I'm currently studying for the Beer Judge Certification Program exam.
+
   * Twitter: [http://twitter.com/ramsey @ramsey]
   * Blog: http://benramsey.com/
   * Company: http://moontoast.com/
