@@ -1,4 +1,21 @@
-Wanna-be coder, Ops Dude, Father, "Go ask him, he knows /(where|what)( it is| the ip is| it does| the password is)/, Keeper of misbehaving dogs
+<table cellpadding="4">
+<tr>
+<td valign="top" width="128"><img src="http://en.gravatar.com/userimage/2731891/b6ddea28448d674fe443e651596ca71e.jpeg" width="128"/></td>
+<td valign="top">
+Wanna-be coder, Ops Dude, Father, "Go ask him, he knows /(where|what)( it is| the ip is| it does| the password is)/", Keeper of misbehaving dogs.  wanna-be pilot, Arduino nerd, Photographer, and technology evangelist.
+</td>
+<td valign="top">
+ * [http://twitter.com/thedyers @thedyers]
+ * [http://thedyers.com thedyers.com]
+ * [http://labs.voxeo.com Voxeo Labs]
+ * [http://tropo.com Tropo]
+ * [http://github.com/krumpt krumpt on github]
+ * IRC handle: jdyer
+ * Alpharetta, GA USA
+</td>
+</tr>
+</table>
+
 
 = Introduction =
 
