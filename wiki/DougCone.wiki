@@ -7,4 +7,6 @@ Have you ever had a project that seemed like it would be easy but over time turn
 
 = Details =
 
+Originally a Drupal oriented talk, I'll be shrinking and generalizing for this audience.
 Slides: http://portal.sliderocket.com/AAHWI/Finding-Your-Lightblub
+<iframe src="http://app.sliderocket.com:80/app/fullplayer.aspx?id=7F8C0F60-8B63-9810-65BC-A662D9A9BB8C" width="640" height="506" scrolling=no frameBorder="0"></iframe>
