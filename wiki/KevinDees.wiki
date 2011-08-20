@@ -6,11 +6,11 @@ Front-end web developer, HTML & CSS expert, web standards evangelist, business o
 = Details =
 
 Social Stuff:
-  * twitter.com/kevindees
-  * dribbble.com/kevindees
-  * github.com/kevindees
-  * kevindees.cc
-  * webweekly.tv
+  * http://twitter.com/kevindees
+  * http://dribbble.com/kevindees
+  * http://github.com/kevindees
+  * http://kevindees.cc - blog
+  * http://webweekly.tv - podcast
 
 
 = Pres Stuff =
