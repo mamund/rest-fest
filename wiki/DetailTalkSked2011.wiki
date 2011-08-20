@@ -35,6 +35,7 @@
  * DavidZuelke
  * BenRamsey
  * EricGiard
+ * KevinDees
 
 ===Unscheduled===
  * GregJones
