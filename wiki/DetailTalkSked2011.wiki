@@ -19,6 +19,9 @@
  * ???
 
 ===Afternoon Session===
+
+ * [ChrisWhite]
+
 [ExtendedTalk]
  * SubbuAllamaraju
  * KevBurnsJr
