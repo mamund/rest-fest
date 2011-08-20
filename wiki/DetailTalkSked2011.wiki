@@ -5,7 +5,7 @@
 ===Morning Session===
 [ExtendedTalk]
  * RichardHipp
- * RandallThombaugh
+ * RandallTombaugh
 
 ====Break====
 
