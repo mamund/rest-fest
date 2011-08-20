@@ -14,7 +14,7 @@ I work in the Austin technology community to better connect developers, companie
 
 
 ===Proposed Talks===
-|| _Title_ || FiveInFive: REST Zealotry a Howto Guide  ||
+|| _Title_ || FiveInFive: REST Zealotry: A Howto Guide  ||
 || _Level_ || Tongue in Cheek ||
 || _Abstract_ || One of the things we lack in software development is the ability to blindly follow an idea and tell people about it. This talk will cover 5 tactics we can follow to make sure everyone knows what we think and why we're right.  ||
 || _Slides_ ||  ||
