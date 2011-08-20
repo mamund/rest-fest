@@ -5,18 +5,19 @@
 ===Morning Session===
 [ExtendedTalks]
  * RichardHipp
- * ???
+ * KevBurnsJr
 
 Break
 
 [FiveInFiveTalks]
  * MikeAmundsen
+ * RickHarris
  * JonMoore
 
 ===Afternoon Session===
 [ExtendedTalks]
-  * SubbuAllamaraju
-  * ???
+ * SubbuAllamaraju
+ * RandallTombaugh
 
 Break
 
@@ -29,14 +30,11 @@ Break
  * BenjaminYoung
 
 ===Unscheduled===
- * KevBurnsJr
  * JimCiallella
- * RickHarris
  * DougCone
  * EricGiard
  * GregJones
- * FinnJordal
- * JonMoore
  * BenRamsey
- * RandallTombaugh
  * DavidZuelke
+
+ * FinnJordal
