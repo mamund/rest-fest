@@ -35,10 +35,10 @@
  * KeithCasey
  * RakeshGodavari
  * BenjaminYoung
- * DavidZuelke
+ * GregJones
  * BenRamsey
  * KevinDees
- * GregJones
+ * DavidZuelke
 
 ===Unscheduled===
 
