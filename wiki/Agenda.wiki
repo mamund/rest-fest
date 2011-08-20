@@ -22,6 +22,7 @@ All details are tentative(mca).
 ||       ||          ||  ||
 || *Sat* || 8AM-5PM  || *Hack Rooms open all day*              ||
 ||       ||          ||                                        ||
+||       ||  ******  || [DetailTalkSked2011]                   ||
 ||       ||  8:00AM  || Morning Coffee           ||
 ||       ||  8:30AM  || Session Speakers (ExtendedTalk)           ||
 ||       || 10:00AM  || Morning FiveInFive Talks & Breakout Sessions   ||
