@@ -14,8 +14,8 @@
  * RickHarris
  * JonMoore
  * JimCiallella
- * EricGiard
  * DougCone
+ * ???
  * ???
 
 ===Afternoon Session===
@@ -34,7 +34,7 @@
  * BenjaminYoung
  * DavidZuelke
  * BenRamsey
- * ???
+ * EricGiard
 
 ===Unscheduled===
  * GregJones
