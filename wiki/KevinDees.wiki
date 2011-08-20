@@ -1,4 +1,4 @@
-= Introduction =
+== Introduction ==
 
 Front-end web developer, HTML & CSS expert, web standards evangelist, business owner, blogger, and Jesus freak hailing from SC USA.
 
@@ -13,7 +13,7 @@ Social Stuff:
   * http://webweekly.tv - podcast
 
 
-= Pres Stuff =
+= RESTfest 2010 =
 
 Divergence:
 
@@ -21,7 +21,7 @@ http://hardboiledwebdesign.com/
 http://inteldesigner.com/2010/code/the-principle-of-divergence
 http://inteldesigner.com/2010/code/what-is-divergence
 
-= REST 2011 =
+= RESTfest 2011 =
 
 Fixing the Web: 
   * http://kevindees.cc/wp-content/uploads/2011/08/FixWeb.ppt
