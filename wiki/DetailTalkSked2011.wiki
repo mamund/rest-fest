@@ -1,0 +1,23 @@
+#Saturday Talk Details
+
+= Saturday Talk Details =
+
+===Morning Session===
+[ExtendedTalks]
+ * RichardHipp
+ * ???
+
+Break
+
+[FiveInFiveTalks]
+ * MikeAmundsen
+
+===Afternoon Session===
+[ExtendedTalks]
+  * SubbuAllamaraju
+  * ???
+
+Break
+
+
+[FiveInFiveTalks]
