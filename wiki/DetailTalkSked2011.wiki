@@ -25,6 +25,8 @@ Break
  * DarrelMiller
  * JohnDyer
  * KeithCasey
+ * RakeshGodavari
+ * BenjaminYoung
 
 ===Unscheduled===
  * KevBurnsJr
@@ -32,11 +34,9 @@ Break
  * RickHarris
  * DougCone
  * EricGiard
- * RakeshGodavari
  * GregJones
  * FinnJordal
  * JonMoore
  * BenRamsey
  * RandallTombaugh
- * BenjaminYoung
  * DavidZuelke
