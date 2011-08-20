@@ -3,13 +3,13 @@
 = Saturday Talk Details =
 
 ===Morning Session===
-[ExtendedTalks]
+[ExtendedTalk]
  * RichardHipp
  * RandallThombaugh
 
 ====Break====
 
-[FiveInFiveTalks]
+[FiveInFive]
  * MikeAmundsen
  * RickHarris
  * JonMoore
@@ -19,14 +19,14 @@
  * ???
 
 ===Afternoon Session===
-[ExtendedTalks]
+[ExtendedTalk]
  * SubbuAllamaraju
  * KevBurnsJr
 
 ====Break====
 
 
-[FiveInFiveTalks]
+[FiveInFive]
  * DarrelMiller
  * JohnDyer
  * KeithCasey
