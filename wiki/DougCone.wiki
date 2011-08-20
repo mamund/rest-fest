@@ -1,0 +1,10 @@
+#summary Finding your lightblub
+
+= Introduction =
+
+Have you ever had a project that seemed like it would be easy but over time turned into a nightmare? Ever gone back to make some minor adjustments to some code after a year of not touching it, and spent hours trying to figure out how to refactor it without breaking everything?
+
+
+= Details =
+
+Slides: http://portal.sliderocket.com/AAHWI/Finding-Your-Lightblub
