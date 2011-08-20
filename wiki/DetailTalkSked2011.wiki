@@ -11,6 +11,7 @@ Break
 
 [FiveInFiveTalks]
  * MikeAmundsen
+ * JonMoore
 
 ===Afternoon Session===
 [ExtendedTalks]
