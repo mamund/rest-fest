@@ -5,7 +5,7 @@
 ===Morning Session===
 [ExtendedTalks]
  * RichardHipp
- * KevBurnsJr
+ * RandallThombaugh
 
 ====Break====
 
@@ -21,7 +21,7 @@
 ===Afternoon Session===
 [ExtendedTalks]
  * SubbuAllamaraju
- * RandallTombaugh
+ * KevBurnsJr
 
 ====Break====
 
