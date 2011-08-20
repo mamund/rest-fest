@@ -15,7 +15,7 @@
  * JonMoore
  * JimCiallella
  * DougCone
- * ???
+ * EricGiard
  * ???
 
 ===Afternoon Session===
@@ -34,7 +34,6 @@
  * BenjaminYoung
  * DavidZuelke
  * BenRamsey
- * EricGiard
  * KevinDees
 
 ===Unscheduled===
