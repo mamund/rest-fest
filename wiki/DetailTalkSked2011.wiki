@@ -15,7 +15,7 @@
  * JonMoore
  * JimCiallella
  * EricGiard
- * ???
+ * DougCone
  * ???
 
 ===Afternoon Session===
@@ -37,7 +37,6 @@
  * ???
 
 ===Unscheduled===
- * DougCone
  * GregJones
 
  * FinnJordal
