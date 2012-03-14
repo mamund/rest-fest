@@ -1,0 +1,23 @@
+= Welcome to REST Fest 2011 =
+
+*[http://www.restfest.org/ REST Fest]* is an *unconference event* that will be held on *August 18th, 19th, and 20th, 2011* at Greenville NEXT Center in *Greenville, SC*.
+
+==[DetailTalkSked2011]==
+
+<h3 style="color:green;"><a href="http://restfest2011.eventbrite.com/?ref=ecount" style="color:green;">Register</a>Today!</h3>
+
+ * [Agenda]
+ * [People]
+ * [Lodging]
+ * [TravelItineraries Travel]
+ * [Food]
+ * [SaturdayTalks Talks]
+ * [Keynote] *RESTLess : "Why you should _stop_ using REST"* w/ [JonMoore]
+ * [workshop Workshop] : *"A Smorgasbord of HTTP Middleware"* w/ [DarrelMiller] and *"Link Relations - An Overview"* w/ [MikeAmundsen] 
+ * [HackDay Hack Day] : *"The ALPS Micro-blogging Challenge"* w/ [MikeAmundsen]
+ * [ClosingCelebration]
+ * [Photos]
+ * [Organizers Organizer Stuff]
+
+
+[http://maps.google.com/maps/ms?msid=214808250471535348306.00048da2276e71e6c3ecf&msa=0&ll=34.846776,-82.381668&spn=0.116789,0.222988 *Hotels*]
