@@ -1,5 +1,4 @@
 #summary Hack Day 2011 FAQ
-#labels Featured
 
 = Hack Day 2011 FAQ =
 
