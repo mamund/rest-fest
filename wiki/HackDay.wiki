@@ -1,5 +1,4 @@
 #summary Hack Day Details.
-#labels Featured
 
 =RESTFest Hackathon=
 ==The ALPS microblogging interop challenge==
