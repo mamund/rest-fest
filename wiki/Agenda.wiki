@@ -1,5 +1,4 @@
 #summary REST-Fest Agenda
-#labels Featured
 
 = Official Agenda =
 
