@@ -1,5 +1,4 @@
 #summary Schedule for Saturday Talks
-#labels Featured
 
 == Saturday Talks ==
 
