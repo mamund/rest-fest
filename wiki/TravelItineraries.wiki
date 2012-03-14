@@ -1,5 +1,4 @@
 #summary Add you're travel schedule here to get some help on car pooling, meet-ups, etc.
-#labels Featured
 
 = 2011 Travel Itineraries =
 Add your travel details here to help co-ordinate hotels, rides, and other details.
