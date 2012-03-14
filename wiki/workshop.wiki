@@ -1,5 +1,4 @@
 #summary Hypermedia Hacking Workshop
-#labels Featured
 
 = 2011 Workshop Ideas =
 Add your ideas here.
