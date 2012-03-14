@@ -1,5 +1,4 @@
 #summary Page to collect RESTFest-related photos
-#labels Featured
 
 = Photos =
 
