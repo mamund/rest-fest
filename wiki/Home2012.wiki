@@ -6,7 +6,7 @@
 <h3 style="color:green;"><a href="http://restfest2012.eventbrite.com/?ref=ecount" style="color:green;">Register</a>Today!</h3>
 
  * [People2012 People]
- * [Lodging]
+ * [Lodging2012 Lodging]
  
 
 [http://maps.google.com/maps/ms?msid=214808250471535348306.00048da2276e71e6c3ecf&msa=0&ll=34.846776,-82.381668&spn=0.116789,0.222988 *Hotels*]
