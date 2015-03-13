@@ -1,0 +1,8 @@
+# Background #
+Rock and roll software developer who's been developing applications for over 25 years. Having been on the internet since 1990, I published my first web site in 1998 . I've been coding with .NET since 2001.
+
+# Function #
+I've volunteered to help organize food and beverages for REST Fest 2010.
+
+# Location #
+Greenville, SC, USA

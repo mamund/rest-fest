@@ -1,0 +1,7 @@
+# FiveInFive Talks #
+
+A FiveInFive talk is really the same as a "[Lightning Talk](http://en.wikipedia.org/wiki/Lightning_Talk)." The idea is to prepare just five slides and complete the talk in five minutes.
+
+The thought is that everyone has at least five minutes of a talk in them!
+
+For REST Fest this year, all FiveInFive talks will be delivered as a group and attendees will be able to follow up w/ the speaker in the Breakout sessions to dig deeper into the topic in a less formal setting.

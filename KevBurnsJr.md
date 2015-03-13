@@ -1,0 +1,47 @@
+Hello, my name is Kevin Burns.
+
+![http://d.kevburnsjr.com/kburns_150.jpg](http://d.kevburnsjr.com/kburns_150.jpg)
+
+I've been doing web design and development for 7 years.
+I've been using PHP for 6 years.
+
+  * http://kevburnsjr.com
+  * http://linkedin.com/in/kevburnsjr
+  * http://github.com/KevBurnsJr
+
+I'm a contributor to Recess!
+
+  * http://recessframework.org
+
+I also run the IRC logs for #rest and #restfest on Freenode.
+
+  * http://rest.hackyhack.net
+  * http://restfest.hackyhack.net
+
+
+### 2011 Proposed Talks ###
+| _Title_ | **A Resource Oriented Hypermedia Framework** |
+|:--------|:---------------------------------------------|
+| _Level_ | Intermediate, ExtendedTalk |
+| _Abstract_ | a deep dive debut into a new web application framework for PHP. |
+| _Topics_ | URI Templates, Hypermedia Types, Resource Composition, Linked Cache Invalidation, Application Architecture |
+
+| _Title_ | **Intro to Riak** |
+|:--------|:------------------|
+| _Level_ | Beginner, FiveInFive|
+| _Abstract_ | Riak is a distributed key value store with an HTTP interface that exposes some interesting hypertext navigation techniques. |
+
+### Talks from RestFest 2010 ###
+| _Title_ | **Prototyping RESTful Web Services** |
+|:--------|:-------------------------------------|
+| _Level_ | Intermediate, ExtendedTalk |
+| _Abstract_ | an examination of web service prototypes as architectural artifacts in web service design |
+| _Slides_ | https://docs.google.com/present/edit?id=0AS-MeiquufDsZGhweG5nNnFfMzdnNHF4ejNmaw&hl=en |
+| _Video_ | http://www.ustream.tv/recorded/9658021 |
+
+| _Title_ | **Intro to WebHooks** |
+|:--------|:----------------------|
+| _Level_ | Beginner, FiveInFive|
+| _Abstract_ | What are webhooks and why they are so awesome? |
+| _Slides_ | https://docs.google.com/present/edit?id=0AS-MeiquufDsZGhweG5nNnFfMzNoaHQyamdjYg&hl=en |
+| _Video_ | http://www.ustream.tv/recorded/9654661 |

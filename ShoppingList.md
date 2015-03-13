@@ -1,0 +1,32 @@
+# 2011 Shopping #
+Not Yet Available
+
+
+---
+
+
+# 2010 Shopping #
+
+## Venue ##
+
+  * $15 per hour for Utilities
+  * $25 for "programming" lights/power (scheduling basically)
+  * $200-ish for cleanup
+
+## Conference ##
+
+  * name tags
+  * markers
+
+## Food ##
+
+  * ice
+  * plates, cups, napkins, utensils
+  * beverages
+  * snacks
+  * Barley's pizza
+  * Two Chefs catering
+  * Coffee Underground catering
+  * Simply Espresso, LLC
+
+## After Party ##

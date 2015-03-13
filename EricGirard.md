@@ -1,0 +1,15 @@
+# Introduction #
+
+I'm working at Locweld Inc, a steel manufacturer company.  I'm responsible for any required in-house software or custom design hardware/integration.  I've been looking at REST for the last couple of years, trying to do it right!
+
+I love to design electronic boards & softwares.  You could say I'm an automation freak!
+
+
+# Details #
+
+### Proposed Talks ###
+| _Title_ | **REST server/client implementation / Resources factory/parser** |
+|:--------|:-----------------------------------------------------------------|
+| _Level_ | Intermediate, FiveInFive |
+| _Abstract_ |<p>A simple and easy to use framework for REST server/client.</p>|
+| _Slides_ | Not yet available |

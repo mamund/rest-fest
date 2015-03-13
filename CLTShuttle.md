@@ -1,0 +1,59 @@
+# 2011 Shuttle Details #
+Not Yet Available
+
+
+---
+
+
+# 2010 Shuttle Details #
+## Introduction ##
+
+As I can fly directly to CLT from my lovely home town of Munich, Germany (probably thanks to BMW), I rented a car and will make the road trip from and to Charlotte Airport. It's a [midsize SUV from National](https://www.nationalcar.com/fleet.do), so if everyone travels light (just three nights, after all) I can take four passengers along.
+
+That is good for you other attendees, as I expect airfares to CLT to be considerably cheaper than to GSP.
+
+## When, How, Where? ##
+
+I'm flying in on the afternoon (3:35pm arrival) on the 16th, and my flight back home leaves at 5:35pm on the 19th. That means the shuttle departs CLT around 4:30pm on the 16th and departs Greenville at 2pm at the latest (a bit earlier, I guess; 1:30pm sounds reasonable) on the 19th.
+
+**If you arrive a bit after ~4pm on the 16th, let me know, and we'll wait. If you need to catch a flight before ~5pm on the 19th, let me know, and we can depart even earlier.**
+
+The trip is around 100 miles or roughly two hours, according to Google Maps.
+
+### Registration ###
+
+Securing a spot is easy: send an email to the rest-fest list and I'll add you below. **Please include airline, flight number, any _operated by…_ codeshare information, departure/arrival time and of course the airport you are coming from and flying back to.**
+
+### Cost ###
+
+Free :)
+
+## Other Shuttles ##
+
+If there's enough demand, I could probably do a later second run on the 16th and an earlier one on the 19th, but let's see if one on each day is enough first.
+
+**However**, _you_ could also rent a car yourself and start a second shuttle in this case ;)
+
+## Passengers for September 16 (departure ~4:30pm) ##
+
+**Meeting point:** National/Alamo rental counter ([on baggage claim level](http://charmeck.org/city/charlotte/Airport/GroundTransportation/Pages/Car%20Rental%20Companies.aspx)) from ~4pm.
+
+| **Pax** | **Flight** | **Origin** | **Arrival** | **Remarks** |
+|:--------|:-----------|:-----------|:------------|:------------|
+| DavidZuelke | [LH 428](http://www.flightstats.com/go/FlightStatus/flightStatusByFlight.do?airlineCode=LH&flightNumber=428) | [MUC](http://en.wikipedia.org/wiki/Munich_Airport) | 15:35 | must go through immigration |
+| KevBurnsJr | UA 4078 ([CO 1027](http://www.flightstats.com/go/FlightStatus/flightStatusByFlight.do?airlineCode=CO&flightNumber=1027)) | [IAH](http://en.wikipedia.org/wiki/George_Bush_Intercontinental_Airport) | 15:49 |  |
+| _free_ |  | | | |
+| _free_ |  | | | |
+| _free_ |  | | | |
+
+## Passengers for September 19 (departure ~1:30pm) ##
+
+**Meeting point:** outside [NEXT](http://www.greenvillenext.com/) (the [conference venue](http://www.restfest.org/venue)) from 1pm.
+
+| **Pax** | **Flight** | **Destination** | **Departure** | **Remarks** |
+|:--------|:-----------|:----------------|:--------------|:------------|
+| DavidZuelke | [LH 429](http://www.flightstats.com/go/FlightStatus/flightStatusByFlight.do?airlineCode=LH&flightNumber=429) | [MUC](http://en.wikipedia.org/wiki/Munich_Airport) | 17:35 | Int'l flight |
+| KevBurnsJr | [AA 1207](http://www.flightstats.com/go/FlightStatus/flightStatusByFlight.do?airlineCode=AA&flightNumber=1207) | [IAH](http://en.wikipedia.org/wiki/George_Bush_Intercontinental_Airport) | 18:20 |  |
+| _free_ |  | | | |
+| _free_ |  | | | |
+| _free_ |  | | | |

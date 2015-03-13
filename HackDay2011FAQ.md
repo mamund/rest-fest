@@ -1,0 +1,22 @@
+# Hack Day 2011 FAQ #
+
+This year, everyone gets to build their own hypermedia client and/or server based on the [same spec](http://amundsen.com/hypermedia/profiles/).
+  * Everyone gets a chance to demo their code
+  * Those who build compliant apps will win prizes (Yippie!).
+  * Those who show up at all will have a great time
+
+#### Everyone codes, everyone talks, everyone listens, everyone has fun! ####
+
+  * **Who is sponsoring the event?** So glad you asked! This year the HackDay is sponsored by [Github](http://github.com). They are also sponsoring several other portions of [RESTFest](http://restfest.org) this year.
+  * **What should I bring to the HackDay?** The whole point of the day is to hack on hypermedia. Be sure to bring your laptop loaded w/ all your favorite web-coding bits (servers, frameworks, editors, diag tools, etc.)
+  * **How should I prepare for the event?** This year we're all working on building clients and servers based on the [ALPS](http://amundsen.com/hypermedia/profiles/) Micro-blogging spec. You should read this spec carefully (only one page) and be ready to code a client and/or server that is "compliant."
+  * **Is this a competition?** Well, not really. We are all working for the same goal; to learn how to design, document, and implement hypermedia apps. But some _will_ do this 'better' than others. And I bet some of _them_ will lord if over the rest of us!
+  * **Can I win anything?** You bet you can! Everyone who implements a 'partially-compliant' client or server will win a [Nerd Merit Badge](http://shop.github.com/products/open-source-nerd-merit-badge) courtesy of our HackDay sponsor, [Github](http://github.com)
+  * **Well, is there a better prize for winning?** Ha! Ok! anyone who implements a 'fully-compliant' client or server will get a free copy of the book [Building Hypermedia APIs with HTML5 and Node](http://oreilly.com/catalog/0636920020530)
+  * **OK, what if i implement a fully compliant server AND a fully compliant client? Then what do I win?** You're crazy. No-one can do that all in one day. Forget about it.
+  * **Can I write my code ahead of time?** Absolutely! Feel free to code as much as you like before the event. Even if you don't "complete" your code, you'll be ahead of the game.
+  * **How will I be able to test my code?** There will be 'live' (as in on the public web) versions of ALPS-compliant clients and servers that can be used to test your code. These apps will also be presented as 'sample' apps for others to review and comment.
+  * **Will I be able to see everyone else's code, too?** Oh yeah! Time will be set aside throughout the day to allow attendees to step up to the podium and demonstrate their clients and servers; talk about problems, discoveries, etc.
+  * **Will I be able to get a copy of all the code from the day?** The 'sample' apps will be posted to the [RESTFest Github](https://github.com/organizations/RESTFest) account. We are also encouraging all attendees to post their code to a public repo where others can see it. If you need space on the RESTFest Github server, let us know.
+  * **Is there a sample app I can use to test my code before the event?** Nope; that's part of the fun (**grin**). Part of the 'test' for the HackDay is to determine if the ALPS documentation model contains sufficient information in order to build a compliant client or server. If, as you code, you see problems with the documentation, be sure to bring that up at the event.
+  * **What does 'compliant' mean?** The ALPS document has a section on [compliance](http://amundsen.com/hypermedia/profiles/#compliance) that you should read carefully. You'll find that, according to the way the ALPS document is built, it is very easy to create a 'partially-compliant' app. You really only need to support at least _one_ of the state transfers and representations (e.g. a search client, a server that supports only anonymous posting, etc.). Of course, you can go 'all out' and write a 'fully-compliant' solution, too!

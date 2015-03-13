@@ -1,0 +1,27 @@
+# Introduction #
+
+This is a list of mailing lists and other sites used when announcing the event.
+
+# 2011 Lists #
+Not Yet Available
+---
+
+# 2010 Lists #
+
+## Details ##
+
+MCA Lists:
+  * SpeakNET sent 2010-08-04
+  * REST-Discuss sent 2010-08-04
+  * Implementing-REST sent 2010-08-04
+  * HTTP-Advisor-List (MSFT)
+  * Open Rasta sent 2010-08-04
+  * CodeStock
+  * Atom
+  * INETA
+  * RESTful JSON  sent 2010-08-04
+  * LOD-Announce sent 2010-08-04
+
+BDY Lists:
+  * code4lib sent 2010-08-05
+  * CouchDB Users

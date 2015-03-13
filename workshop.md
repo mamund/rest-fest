@@ -1,0 +1,41 @@
+# 2011 Workshop Ideas #
+Add your ideas here.
+
+## A smorgasbord of HTTP middleware (1/2 day) ##
+Presented by [DarrelMiller](DarrelMiller.md)
+
+
+A common question amongst newcomers to REST is what frameworks are available to simplify the development of my RESTful application.  REST, being an architectural style as opposed to some precise specification does not lend itself to the "one size fits all" style of framework.  However, being a layered architecture it does enable the use of "middleware" aka intermediary components that sit between the client and the origin server to facilitate re-use.  There are a number of frameworks and standards that have popped up that support this kind of layered plugin mechanism.  In Ruby the most well know is Rack, in Python there exists WSGI and in the .net world the new WCF Web APIs have the concept of HttpMessageHandlers which perform a similar role.
+
+This workshop will be an opportunity for participants to explore the world of pluggable reusable components that can go a long way to reducing the effort needed to build a fully functional application.  We will consider the types of features that can and cannot be added in this layered manner and we will review a number of existing middleware components.  Attendees are encouraged to bring examples of their own that they have used or are interested in using. This workshop will be as platform agnostic as possible and completely HTTP focused.
+
+Examples of the types of middleware components that we will be discussing include,
+
+  * Request Logging
+  * Rate Limiting
+  * API Key validation
+  * Cache control optimization
+  * Esoteric methods like TRACE and HEAD
+  * Etag generation
+
+We will discuss when middleware should perform actions in the request path versus response path and issues such as sequencing of components, exception handling, performance and threading.  This workshop is intended to be a guided opportunity for participants to share their knowledge and learn from fellow developers.  Bring your war stories of components that have blown up in your face and ones that saved your bacon when your site got slashdotted.
+
+## Link Relations: An Overview (1/2 day) ##
+an idea...
+
+Cover
+  * Web Linking RFC [5988](http://tools.ietf.org/html/rfc5988)
+  * HTML5 Link Relations (http://blog.whatwg.org/the-road-to-html-5-link-relations)
+  * IANA Link Relations Registry (http://www.iana.org/assignments/link-relations/link-relations.xml)
+  * Microformats (http://microformats.org/wiki/existing-rel-values)
+  * paramsr.us (http://paramsr.us/link-relation-types/)
+
+Lots of opportunities here...
+
+
+
+
+---
+
+
+[workshop2010](workshop2010.md)

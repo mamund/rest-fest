@@ -1,0 +1,41 @@
+# 2011 Agenda #
+Not Yet Available
+
+
+---
+
+
+# 2010 Agenda #
+
+# Details #
+### Friday (day) ###
+  * pre-conference  (Hypermedia Hacking w/ Mike Amundsen)
+
+### Friday (evening) ###
+  * main conference begins (6:30-ish?)
+  * welcome/announcements (10 min)
+  * opening keynote (40-50 min)
+  * lightning talk/breakout/hackfest sign-up/creation (for Sat) -- online? whiteboard?
+  * "hand raising" session for topic interests, library voting (for hacking focus?), and general laughs
+  * post "game" meet/greet + hallway hacking
+  * adjourn around 10 pm?
+
+### Saturday (morning) ###
+  * 8:30/9:00 am
+  * another one man keynote (or 2 separate, overlapping presentations) (40-50 min)
+  * morning lightning talks, followed by breakouts, and/or hacking (2 hours-ish)
+  * lunch -- on site, hopefully (sponsored?)
+
+### Saturday (afternoon) ###
+  * 1:00 pm
+  * 2 overlapping presentations (maybe up to 4...) (40-50 min)
+  * afternoon lightning talks, followed by breakouts, and/or hacking (2 hours-ish)
+  * end game mad-hoc hallway-to-room raise of hands "quick hack"
+  * "leaders" stand up and announce their issue/idea
+  * "feet vote" taken
+  * discussion/coding happens (1 hour?)
+  * final farewell and party directions
+
+### Satruday (evening) ###
+  * 6 pm-ish
+  * after part somewhere downtown (sponsored?)

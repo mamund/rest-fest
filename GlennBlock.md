@@ -1,0 +1,18 @@
+# About Me #
+
+Hi I am Glenn Block, and here goes my ramble.
+
+I'm a Program Manager at Microsoft having recently joined the WCF team to help drive our REST/HTTP strategy. I've done a lot of jumping around in the 5 years I've been at the Big Blue Monster. :-) I started off in Microsoft Learning working on developer training, then moved to patterns &  practices where I drove the client program (Web Client Software Factory, Prism, etc). My last role before WCF was as a PM on the Managed Extensibility Framework, one of the first parts of the .NET Framework that shipped under an OSS license, and which was incorporated in Mono.
+
+Aside from builidng products, I've been very involved with the .NET community in particular the ALT.NET community for which I have organized several events. From a community perspective, I've also exercised quite a bit of energy raising awareness internally on community practics and promoting changes in the platform to better accomodate development practices like Agile, TDD, BDD, GOF patterns, etc. I am also a big fan of OSS and am an avid user of and contributor to various OSS projects (shh don't tell anyone)
+
+Prior to Microsoft I worked for about 10 years developing both internal and customer facing applications for a variety of companies including a bunch of startups that lost their money ;-).
+
+Technologies I've worked with are too many. I have done a lot of work on the Microsoft stack however I have also dipped my feet professionally in Java, Linux and Oracle development. More recently I've become very intrigured with Ruby / Rails. I'm also keen on good practices for developing software and am a practitioner of TDD and BDD.
+
+
+# Online #
+
+  * Twitter: [@gblock](http://twitter.com/gblock)
+  * Blog: http://www.codebetter.com/blogs/glenn.block
+  * Blog: http://blogs.msdn.com/gblock

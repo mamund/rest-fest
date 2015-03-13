@@ -1,0 +1,11 @@
+### Note ###
+This is just a sample generic message.
+
+### Message ###
+I am co-chair of a small community event in Greenville, SC in September" REST Fest (http://restfest.org). The target audience for this event is web developers interested in the REST style; usually highly-skilled HTTP "geeks" often using one or more open-source tools on Windows and other platforms. We have a capacity of 100+ attendees and are aiming for 50 in our first year.
+
+It's a 1 and 1/2 day "unconference" / open-spaces-style event where everyone is encouraged to present at least five minutes. We'll also have an evening keynote, a few featured speakers, a Hack Room and lots of discussions and breakout sessions. There will be a pre-conference all-day workshop, too (http://restfest.org/schedule).
+
+If this sounds like it matches any of your target audiences and you'd like to participate, please let me know. We have a relatively small shopping list for sponsors (food, building, projection equipment, sign-age) as well as some swag distribution opportunities. Our biggest needs right now are a sponsor for the keynote (speaker travel and lodging) and the closing celebration (snacks and beverages).
+
+Thanks for your time and I look forward to answering any questions you might have.

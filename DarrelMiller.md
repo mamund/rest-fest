@@ -1,0 +1,34 @@
+<table cellpadding='4'>
+<tr>
+<td valign='top'><img src='http://www.tavis.ca/Darrel_headshot1.png' height='154' width='124' /></td>
+<td valign='top'>
+<p>Darrel Miller is CTO at Tavis Software.  Tavis Software is an ISV that targets a small vertical market in the world of Enterprise Resource Planning (ERP) software. </p>
+<p>Darrel has been responsible for the architecture, design, development, deployment, support and maintenance of distributed business systems using ISAM databases, client/server databases, SOAP based services and most recently REST based systems.</p>
+<p>Darrel has been writing software professionally for 17 years.  The last 3 years have been spent discovering the benefits of the REST.  His particular focus is on the use of REST to develop non-browser based line-of-business applications.</p>
+</td>
+<td valign='top'>
+</td>
+</tr>
+<tr>
+<td></td>
+<td>
+<ul><li>Twitter: @darrel_miller<br>
+</li><li>Blog: <a href='http://www.bizcoder.com'>http://www.bizcoder.com</a>
+</li><li>Company: <a href='http://www.tavis.ca'>http://www.tavis.ca</a>
+</td>
+</tr>
+</table></li></ul>
+
+
+### Proposed Talks ###
+| _Title_ | RESTAgent - Making it easy to build hypermedia driven clients  |
+|:--------|:---------------------------------------------------------------|
+| _Level_ | Intermediate |
+| _Abstract_ |[RESTAgent](http://restagent.codeplex.com) is a library designed to simplify building clients that allow you to ["follow your nose"](http://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven#comment-753).  This talk will demonstrate how you can use RESTAgent as an alternative to the standard Http Client interface, and we will discuss the advantages that it brings.  The examples will be in C# but the concept is applicable to all languages.   |
+| _Slides_ |  |
+
+| _Title_ |  |
+|:--------|:-|
+| _Level_ |  |
+| _Abstract_ |  |
+| _Slides_ |  |

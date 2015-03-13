@@ -1,0 +1,46 @@
+## Erik Mogensen ##
+
+<table cellpadding='4'>
+<tr>
+<td valign='top'><img src='http://mogsie.com/static/me.jpg' /></td>
+<td valign='top'>
+Erik Mogensen is Chief Architect of Vizrt's Online division. His claim to REST fame amounts to a talk he gave at JavaZone in 2009.<br>
+<br>
+Over the years, Erik has experience with lots of RPC-like technologies, from CORBA, IIOP and RMI, going back all the way to DSOM and <a href='http://en.wikipedia.org/wiki/IBM_System_Object_Model'>SOM</a>.  Luckily escaping SOAP completely, he avoided the Web Services movement like the plague, introducing (what he then thought was) REST to his employer in 2004.<br>
+<br>
+Mogsie (as he's more commonly known) freely admits that his knowledge of REST <a href='http://stackoverflow.com/questions/3543075/what-is-a-concise-way-of-understanding-restful-and-its-implications/3543326#3543326'>changes over time</a>.  The last two to three years have been spent implementing a hypermedia based set of resources along with a hypermedia based client -- a client that used to be RMI based.<br>
+</td>
+<td width='20%' valign='top'>
+<ul><li><a href='http://twitter.com/mogsie'>@mogsie</a>
+</li><li><a href='http://mogsie.com/techie/'>blog</a>
+</li><li><a href='http://mogsie.com/static/foaf.rdf#me'>foaf</a>
+</li><li><a href='http://claimid.com/mogsie'>claimid</a>
+</li><li>IRC handle: mogsie<br>
+</li><li>Oslo, Norway<br>
+</td>
+</tr>
+</table></li></ul>
+
+### Proposed Talks ###
+| _Title_ | **Ditch your complex clients, become RESTful** |
+|:--------|:-----------------------------------------------|
+| _Level_ | Advanced, ExtendedTalk |
+| _Abstract_ | I will talk about our experiences with replacing an RPC based client to a  RESTful client. The presentation will cover the lessons learned in designing the client, and how embracing the hypermedia constraint has influenced the design of the client.  You will not NOT learn anything about the jungle of RESTful frameworks, as they are only tools to get the job done. You will learn about how the most important principle of REST (the hypermedia constraint) and how it affects client side programming.  |
+| _Video_ | http://www.ustream.tv/recorded/9658834 |
+| _Slides_ | Not yet available |
+
+
+| _Title_ | **Extremely large lists** |
+|:--------|:--------------------------|
+| _Level_ | Intermediate, FiveInFive |
+| _Abstract_ | I'll walk you through a design for _a sequence of items_ which must allow for a large number of items, multiple concurrent users editing the list concurrently, stale client views, no locking, and no conflicts. |
+| _Video_ | http://www.ustream.tv/recorded/9662056 |
+| _Slides_ | Not yet available |
+
+
+| _Title_ | **Observable pattern in REST** |
+|:--------|:-------------------------------|
+| _Level_ | Intermediate, FiveInFive |
+| _Abstract_ | I'll show you how we chose to replace Observable (typical event notification) with a RESTful alternative.  The end product was a lot more fault tolerant and a lot less coupled than the typical in-process solution. |
+| _Video_ | http://www.ustream.tv/recorded/9654336 |
+| _Slides_ | Not yet available |

@@ -1,0 +1,33 @@
+# About Me #
+
+Please call me Al.
+
+I'm half owner of and software developer at Progressive Software Solutions, Inc.
+
+My background is pretty varied; from banking, public pay phone management, defense department contractor, custom inventory tracking solutions. Due to having to wear so many hats, my tech interests are also pretty varied.
+
+Most of my current projects are Microsoft .NET related including Windows Forms, ASP.NET MVC and Windows Mobile/PocketPC/CE based.
+
+Over the years I've used all of the following as my primary tools for developing business applications:
+
+  * Lotus 1-2-3 Macros
+  * dBASE III, FoxPro and later Clipper (Summer '87 and 5.x)
+  * Turbo Pascal and C++
+  * Microsoft QuickBASIC and PDS
+  * Visual Basic 3 and 5
+  * Delphi
+  * PowerBuilder
+  * Microsoft .NET (mostly C#)
+    * Windows Forms, ASP.NET MVC and Mobile/PocketPC/CE
+
+I've also dabbled in other just for fun (in no particular order):
+  * [Euphoria](http://www.rapideuphoria.com)
+  * Java
+  * PHP
+  * Python
+  * Various BASIC dialects
+
+# Online #
+
+  * Twitter: [@algonzalez](http://twitter.com/algonzalez)
+  * Blog: http://algonzalez.tumblr.com/

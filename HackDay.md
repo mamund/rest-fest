@@ -1,0 +1,46 @@
+# RESTFest Hackathon #
+## The ALPS microblogging interop challenge ##
+with [MikeAmundsen](MikeAmundsen.md)
+
+
+---
+
+### Important HackDay Details ###
+If you plan on attending the HackDay (and aren't we all?) be sure to read the **[HackDay2011FAQ](HackDay2011FAQ.md)**
+
+---
+
+
+#### The Challenge ####
+Can independent parties successfully implement clients and servers based on a single hypermedia description document? This HackDay project is designed to find the answer to this very question.
+
+For this hackday attendees are encouraged to explore the [ALPS microblogging specification](http://amundsen.com/hypermedia/profiles/) and create a client or server using their favorite language/framework.  Attendees can bring along their clients and/or server to try and talk to other attendee's clients/servers.
+
+#### Agenda ####
+  * 08:00-09:00 - Check-in and coffee
+  * 09:00-10:00 - Overview Presentation of ALPS ([MikeAmundsen](MikeAmundsen.md))
+  * 10:00-12:00 - General Hacking and Sharing of attendees' code
+  * 12:00-01:00 - Lunch
+  * 01:00-03:00 - More Hacking and Sharing Session
+  * 03:00-03:30 - Snack Break
+  * 03:30-04:30 - Final Hacking and Sharing Session
+  * 04:30-05:00 - Closing Remarks and Summary ([MikeAmundsen](MikeAmundsen.md))
+  * 05:00-????? - Hacking, Socializing, and other fun stuff
+
+#### Goals and Objectives ####
+Some of the objectives of this experiment are:
+  * Demonstrate the effectiveness of this type of documentation for describing REST services.  We regularly hear the question "how do I document a REST api?".  This would demonstrate the effectiveness of the ALPS style of documentation that explicitly avoids naming URLs and resources.
+  * Demonstrate real interoperability.  This would prove if you clearly define the semantics, the media type and follow the HTTP spec then interoperability is practical.
+  * Demonstrate the benefits of low coupling.  A client being able to access resources that it had no prior knowledge of and use hypermedia to interact with would be a huge testament to the benefits of 'Fielding's REST'.
+  * Highlight areas of documentation that could be improved.
+
+#### Presentations Throughout The Day ####
+As a follow-up to this process, we will have the opportunity for authors of the clients and servers to do short demonstrations of their implementations. This will give people an excellent opportunity to see how it is done in other technologies.
+
+It is rare that we get the chance to see somebody implement almost the same thing we have done but in a different language or on a different platform.  It would provide an excellent basis for comparison.
+
+Hackday is an opportunity to write some code, read some code, test some code and learn a whole lot in the process and leave with a better understand of what does and does not work in the real world.
+
+#### Nerd Merit Badges for All HackDay Attendees! ####
+Attendees that get a compliant client and/or server working on HackDay will reiceve a
+[Nerd Merit Badge](http://shop.github.com/products/open-source-nerd-merit-badge). Don't miss your change to become REST-Nerd Certified!

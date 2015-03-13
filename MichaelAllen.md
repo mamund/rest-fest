@@ -1,0 +1,11 @@
+Howdy, I am a User Interface Designer/Developer at Windstream Communications. Windstream is a residential & commercial Telecom employing over 7,000 people from across the United States. I work in the Technology department building AJAX enabled web applications for our B2C web portal.
+
+You can follow me on Twitter @mr\_michael\_lee
+
+## Prosposed Talks ##
+
+| _Title_ | Thinning The Client With CouchDB: How I Built a Bible Using Javascript |
+|:--------|:-----------------------------------------------------------------------|
+| _Level_ | Beginner, FiveInFive |
+| _Abstract_ | My talk will focus on my Simple Bible Reader web application and the underlying CouchDB database that powers it. |
+| _Slides_ | https://docs.google.com/present/view?id=dhjvtk6z_23fm568rc3&interval=30&loop=true |

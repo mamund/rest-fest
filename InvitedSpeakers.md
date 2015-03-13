@@ -1,0 +1,23 @@
+# Invited Speakers #
+
+Last year we had a handful of 30min talks for an [ExtendedTalk](ExtendedTalk.md). One thought is to reach out to a handful of folks this year and invite them to offer a talk for one of these slots. This has a potential to bring some really talented/interesting folks to the event and create some interaction between these speakers and the attendees.
+
+Another goal of this idea is to attract 'new' thinking and ideas to the event and offer key folks a chance to talk on more speculative topics, try out new material, etc. Hopefully, this can be a kind of 'new idea' space for our community.
+
+We proly have between four and eight of these slot available. If we get lots of RSVPs we can consider creating 'tracks' this year to give everyone a chance to speak.
+
+BTW - We will still expect all attendees to present at least one [FiveInFive](FiveInFive.md) talk this year.
+
+Everyone should add names (and links) to this list and we can discuss a 'shortlist' soon and send out invites.
+
+Here are some possible names for the InvitedSpeakers list:
+  * BrianSletten
+  * MikeKelly
+  * GlennBlock
+  * Henrik Fristik
+  * SamRuby
+  * JonMoore
+  * StuCharlton
+  * MichaelHausenblas
+  * IanSRobinson
+  * SebastianLamba

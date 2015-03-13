@@ -1,0 +1,31 @@
+## Saturday Talks ##
+
+## 2011 Talks ##
+
+### Keynote ###
+### RESTLess: Why you should stop using REST ###
+JonMoore
+
+RESTful web services are all the rage these days, with a proliferation of software frameworks, books (even "cookbooks"), and hype. Yet many purportedly "RESTful" web APIs don't actually adhere to all the constraints Roy Fielding laid out in his thesis—and there is also no shortage of REST purists who will happily point that out. People want to turn any API into a RESTful web service, even where that may not be necessary. Has REST jumped the shark?
+
+In this talk, we'll revisit the original architectural constraints Fielding described. Each of these is meant to induce certain characteristics in a system, but what if your system doesn't actually need those properties? What happens if we relax those constraints? Are there simpler options available than a fully RESTful architecture? Places where REST are actually the right choice may be less common than we might think. If REST is a hammer, this talk will hopefully make us much better at recognizing actual nails.
+
+### Extended Talks ###
+  * **Measuring REST**
+  * SubbuAllamaraju
+  * In this session, Subbu is going to talk about the pitfalls of approaching REST as a prescriptive methodology as opposed to a practice of deriving the constraints based on the desired ilities in context.
+
+  * **A Resource Oriented Hypermedia Framework**
+  * KevBurnsJr
+  * A deep dive debut into a new web application framework for PHP.
+
+  * **Web API: Bringing HTTP front and center in WCF**
+  * RandallTombaugh
+  * The WCF team has been hard at work to introduce first-class support for HTTP to the .NET web services stack for both on-premise and cloud hosting with Azure. This work includes providing all of the key building blocks for easily implementing REST services with WCF. Come see where the Microsoft platform is headed let me know in which direction you'd like to see the WCF continue to drive the technology.
+
+  * **UnQL: a common high-level query language**
+  * RichardHipp
+
+---
+
+[SaturdayTalks2010](SaturdayTalks2010.md)

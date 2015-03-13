@@ -1,0 +1,22 @@
+## Ryan McAllen ##
+
+<table cellpadding='4'>
+<tr>
+<td valign='top'><img src='http://rhynodesigns.com/img/me.jpg' /></td>
+<td valign='top'>
+<p>I'm bigger than most everyone I know...</p>
+<p>I enjoy programming, but I'm not that good...yet.</p>
+<p>I'm was introduced to REST about 6 months ago and wanted to join the REST Fest to learn a little more about it.</p>
+<p>Turns out, it was fun! I wish I was able to hang out with everyone. (They're really smart guys!)</p>
+</td>
+</tr>
+</table>
+
+
+### Proposed Talk ###
+| _Title_ | **Your Presentations Suck! Why NO ONE will remember anything you say!** |
+|:--------|:------------------------------------------------------------------------|
+| _Level_ | Basic, FiveInFive |
+| _Abstract_ |<p>How to be a better presenter...Make 'em care, then they'll ask you how to do what you've done and they'll be begging for your code! We're human...not machines! You have too much to offer to be ignored or forgotten!</p>|
+| _Slides_ | [Google Present](https://docs.google.com/present/view?id=d8xcw5r_1336rc56dfv) |
+| _Video_ | [UStream.tv](http://www.ustream.tv/recorded/9660078) |

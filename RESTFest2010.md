@@ -1,0 +1,61 @@
+# Welcome to REST Fest 2010 #
+
+**[REST Fest](http://www.restfest.org/)** is an **unconference event** that will be held on **September 17th & 18th, 2010** at Greenville NEXT Center in **Greenville, SC**.
+
+### **[Photos](Photos.md)** ###
+
+### **[Saturday Talks](SaturdayTalks.md)** ###
+
+#### [Last Minute Email Update](EmailUpdate.md) ####
+
+
+---
+
+
+### **Check out [who is coming](People.md) and [how/when they are arriving](TravelItineraries.md) and [where they are from](http://www.zeemaps.com/map?group=180409&x=-95.712891&y=37.090240&z=14).** ###
+
+
+---
+
+
+## Fact Sheet ##
+### Date ###
+September 17th ([Workshop](http://www.restfest.org/schedule/workshop)) & September 18th ([Conference](http://www.restfest.org/schedule)), 2010.
+### Venue ###
+[Greenville NEXT Center](http://www.restfest.org/venue) in [Greenville, SC, United States](http://en.wikipedia.org/wiki/Greenville,_South_Carolina).
+### Travel Information ###
+Airports (by distance):
+  * [GSP](http://en.wikipedia.org/wiki/Greenville-Spartanburg_International_Airport)
+  * [CLT](http://en.wikipedia.org/wiki/Charlotte/Douglas_International_Airport) (100 miles, there will be at least one [Shuttle](CLTShuttle.md) if you need a ride)
+  * [ATL](http://en.wikipedia.org/wiki/Hartsfield-Jackson_Atlanta_International_Airport) (150 miles)
+**In many cases, flights to Charlotte will be quite a bit cheaper than flights to Greenville-Spartanburg, so make sure to compare prices!**
+### Cost ###
+  * Conference: 25$
+  * Hypermedia Workshop: 35$
+  * **Workshop+Conference: $50**
+### Hotel ###
+We have a special rate for REST Fest attendees at the Courtyard Marriot less than one mile from the venue. Use this link for online reservations: [REST Fest Discount (2 Queen Beds)](http://www.marriott.com/hotels/travel/gspgd?groupCode=rfgrfgb&app=resvlink&fromDate=9/16/10&toDate=9/19/10) [REST Fest Discount (1 King Bed)](http://www.marriott.com/hotels/travel/gspgd?groupCode=rfgrfga&app=resvlink&fromDate=9/16/10&toDate=9/19/10)
+
+### Resources ###
+  * [restfest.org](http://www.restfest.org/) is the event website with all details
+  * [@restfest](http://twitter.com/restfest) is the official twitter account
+  * **#restfest** is the hash tag to use on twitter, flickr and so forth
+
+---
+
+# [Register on Eventbrite](http://restfest2010.eventbrite.com?ref=elink) #
+
+---
+
+
+## The Plan ##
+### It's a Community Event ###
+REST Fest is a community unconference event focused on the REST architectural style and implementations of the RESTful architectural style. Based on the OpenSpaces model, REST Fest puts developers front-and-center with a handful of selected speakers, "open mic" style Lightning Talks where anyone can present about anything, and round-the-clock access to a "Hack Space" where people can get together and work on whatever interestes them.
+### It's all about Hands-On ###
+In it's first year, REST Fest will encourage developers who have direct experience building RESTful applications for the World Wide Web to share their successes and their frustrations in an informal atmosphere. Talks that emphasise practical solutions will be favored over theoretical presentations. Showing your code is encouraged! The event is platform and technology agnostic with a leaning toward Open Source and OSS-friendly environments.
+### Call for Presenters ###
+Presenters are encouraged to submit a title, short abstract (250 or less) and an indication of the "level" of the talk (beginner, intermediate, advanced). "How To..." talks are encouraged as well as "How Do I?" talks. A small number of talks (about five) will be choosen as a "Selected Talk" with a format of 45 minutes plus questions. All talks are automatically accepted for the "Lightning Talk" section (Five Slides in Five Minutes). If you want your talk to be considered only for one category (Lightning or Selected), indicate that on your proposal.
+### Hacking Is Encouraged ###
+REST Fest will maintain a "Hack Room" where attendees can get together and work on any project they like. The Hack Room will be open throughout the event with power and wireless access provided free of charge. Attendees are also encouraged to propose talks that result in Hack Room participation including frameworks and library authors who are looking for help coding open source libraries.
+Workshop: Hypermedia Hacking with Mike Amundsen
+There will also be a full-day pre-conference (Sep 17th) workshop hosted by Mike Amundsen. The all-day session includes a mix of presentation, discussion, and hands-on implementation. Attendees will learn how to implement an alternative to one-off Web APIs using Hypermedia Engines and are encouraged to bring laptops and "code-along" with supplied examples throughout the day.

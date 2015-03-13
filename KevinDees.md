@@ -1,0 +1,27 @@
+## Introduction ##
+
+Front-end web developer, HTML & CSS expert, web standards evangelist, business owner, blogger, and Jesus freak hailing from SC USA.
+
+
+# Details #
+
+Social Stuff:
+  * http://twitter.com/kevindees
+  * http://dribbble.com/kevindees
+  * http://github.com/kevindees
+  * http://kevindees.cc - blog
+  * http://webweekly.tv - podcast
+
+
+# RESTfest 2010 #
+
+Divergence:
+
+http://hardboiledwebdesign.com/
+http://inteldesigner.com/2010/code/the-principle-of-divergence
+http://inteldesigner.com/2010/code/what-is-divergence
+
+# RESTfest 2011 #
+
+Fixing the Web:
+  * http://kevindees.cc/wp-content/uploads/2011/08/FixWeb.ppt
